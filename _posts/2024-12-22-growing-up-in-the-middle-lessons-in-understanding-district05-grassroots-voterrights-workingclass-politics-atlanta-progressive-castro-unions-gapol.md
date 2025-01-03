@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Growing Up in the Middle: Lessons in Understanding"
-description: "I grew up navigating the space between cultures, identities, and ideologies. This experience taught me to listen, empathize, and build bridges. It’s this understanding that drives my belief in leadership that unites rather than divides."
+title: "Lớn Lên Giữa Hai Thế Giới: Bài Học Về Sự Thấu Hiểu"
+description: "Tôi lớn lên trong không gian giữa các nền văn hóa, bản sắc và tư tưởng. Kinh nghiệm này dạy tôi cách lắng nghe, đồng cảm và xây dựng cầu nối. Chính sự thấu hiểu này thúc đẩy niềm tin của tôi vào một kiểu lãnh đạo kết nối thay vì chia rẽ."
 date: 2024-12-22
 image: '/images/civil-rights-equality.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-growing-up-in-the-middle/
 ---
 
-I’ve often felt like I grew up in the middle—between cultures, identities, and ideologies. My family’s roots in Mexico and my wife’s family that spans both feminists and conservative Trump-supporting members created a dynamic, often challenging environment.
+Tôi thường cảm thấy như mình lớn lên ở giữa—giữa các nền văn hóa, bản sắc và tư tưởng. Gốc rễ của gia đình tôi ở Mexico và gia đình vợ tôi với những thành viên vừa là người ủng hộ nữ quyền vừa là những người bảo thủ ủng hộ Trump đã tạo ra một môi trường năng động, thường xuyên thách thức.
 
-This wasn’t a childhood where everything fit neatly into boxes. It was one of constant negotiation, where I had to listen, empathize, and navigate opposing views with care. While this sometimes left me feeling like I didn’t fully belong anywhere, it also gave me a gift: the ability to see the world from many perspectives.
+Đây không phải là một tuổi thơ mà mọi thứ đều được phân loại rõ ràng. Đó là một quá trình thương lượng liên tục, nơi tôi phải lắng nghe, đồng cảm và điều chỉnh các quan điểm đối lập một cách cẩn thận. Mặc dù đôi khi điều này khiến tôi cảm thấy như mình không hoàn toàn thuộc về nơi nào, nhưng nó cũng mang đến cho tôi một món quà: khả năng nhìn nhận thế giới từ nhiều góc độ khác nhau.
 
-## Living Between Cultures
+## Sống Giữa Các Nền Văn Hóa
 
-On one hand, my family’s Mexican heritage was a source of pride, tradition, and community. On the other, I grew up trying to balance this with the experience of living in America—a place that often treated immigrants as outsiders. I gained a deeper understanding of what it means to live on the margins, to fight for recognition, and to find resilience in struggle.
+Một mặt, di sản Mexico của gia đình tôi là nguồn tự hào, truyền thống và cộng đồng. Mặt khác, tôi lớn lên cố gắng cân bằng điều này với trải nghiệm sống ở Mỹ—một nơi thường đối xử với người nhập cư như những kẻ ngoài cuộc. Tôi đã có được sự hiểu biết sâu sắc hơn về việc sống ở bên lề, đấu tranh cho sự công nhận và tìm thấy sức mạnh trong những khó khăn.
 
-Each of these layers shaped my worldview. They taught me that people’s experiences aren’t simple or singular—they’re shaped by culture, history, and circumstances that run deep.
+Mỗi lớp trải nghiệm này đã hình thành quan điểm của tôi về thế giới. Chúng dạy tôi rằng trải nghiệm của con người không đơn giản hay đơn nhất—chúng được hình thành bởi văn hóa, lịch sử và hoàn cảnh sâu sắc.
 
-## Understanding Diverse Perspectives
+## Hiểu Biết Các Quan Điểm Đa Dạng
 
-It wasn’t just cultural divides I had to navigate. My wife’s family added another dimension to my understanding of the world. On one side, there were her feminists relatives and her gay uncles, who taught me about fighting for justice and equality. On the other side were her conservative Trump-supporting family members, who voiced concerns about tradition and stability in a rapidly changing world.
+Không chỉ có những rào cản văn hóa mà tôi phải điều chỉnh. Gia đình vợ tôi đã thêm một chiều kích khác vào sự hiểu biết của tôi về thế giới. Một bên là những người thân ủng hộ nữ quyền và những người chú đồng tính của cô ấy, những người đã dạy tôi về việc đấu tranh cho công lý và bình đẳng. Bên kia là những thành viên trong gia đình bảo thủ ủng hộ Trump của cô ấy, những người bày tỏ lo ngại về truyền thống và sự ổn định trong một thế giới đang thay đổi nhanh chóng.
 
-Instead of dismissing these perspectives, I learned to listen. I didn’t always agree, but I tried to understand where they were coming from. I saw their fears, their frustrations, and—most importantly—their humanity.
+Thay vì bác bỏ những quan điểm này, tôi đã học cách lắng nghe. Tôi không phải lúc nào cũng đồng ý, nhưng tôi cố gắng hiểu họ từ đâu mà đến. Tôi thấy được nỗi sợ hãi, sự thất vọng của họ và—quan trọng nhất—nhân tính của họ.
 
-This practice of listening and empathizing didn’t just help me survive family dinners; it shaped how I approach leadership. I’ve come to believe that the best solutions come from bringing people together, not pushing them apart. It’s about finding common ground without compromising on justice and equity.
+Thực hành lắng nghe và đồng cảm này không chỉ giúp tôi sống sót qua những bữa tối gia đình; nó đã hình thành cách tôi tiếp cận lãnh đạo. Tôi đã đến tin rằng những giải pháp tốt nhất đến từ việc kết nối mọi người lại với nhau, không phải đẩy họ ra xa. Đó là việc tìm kiếm điểm chung mà không phải hy sinh công lý và bình đẳng.
 
-## Leadership That Unites
+## Lãnh Đạo Kết Nối
 
-Growing up in the middle taught me that unity doesn’t mean uniformity. It means recognizing our shared humanity while respecting our differences. It means creating spaces where every voice is heard, even when those voices don’t agree.
+Lớn lên ở giữa đã dạy tôi rằng sự đoàn kết không có nghĩa là đồng nhất. Nó có nghĩa là nhận ra nhân tính chung của chúng ta trong khi tôn trọng sự khác biệt. Nó có nghĩa là tạo ra những không gian mà mọi tiếng nói đều được lắng nghe, ngay cả khi những tiếng nói đó không đồng ý.
 
-In a world that often feels divided—by race, by class, by ideology—this perspective is more important than ever. It’s what drives my belief in leadership that prioritizes understanding over blame, dialogue over division, and collaboration over conflict.
+Trong một thế giới thường cảm thấy bị chia rẽ—bởi chủng tộc, bởi giai cấp, bởi tư tưởng—quan điểm này càng trở nên quan trọng hơn bao giờ hết. Đó là điều thúc đẩy niềm tin của tôi vào một kiểu lãnh đạo ưu tiên sự thấu hiểu hơn là đổ lỗi, đối thoại hơn là chia rẽ, và hợp tác hơn là xung đột.
 
-## Building Bridges, Not Walls
+## Xây Dựng Cầu Nối, Không Phân Chia
 
-When I look at the challenges we face as a country—economic inequality, systemic racism, climate change—I see problems that can’t be solved by one group alone. They require all of us to come together, to share our experiences, and to build solutions that work for everyone.
+Khi tôi nhìn vào những thách thức mà chúng ta phải đối mặt như một quốc gia—bất bình đẳng kinh tế, phân biệt chủng tộc hệ thống, biến đổi khí hậu—tôi thấy những vấn đề không thể được giải quyết bởi một nhóm đơn lẻ. Chúng cần tất cả chúng ta cùng nhau, chia sẻ trải nghiệm của mình và xây dựng những giải pháp có lợi cho mọi người.
 
-This isn’t easy work. It means sitting in the discomfort of disagreement, hearing out perspectives you might not like, and finding a path forward together. But it’s the only way we’ll build a future where everyone has a place.
+Đây không phải là công việc dễ dàng. Nó có nghĩa là ngồi trong sự khó chịu của sự bất đồng, lắng nghe những quan điểm mà bạn có thể không thích, và tìm ra con đường tiến lên cùng nhau. Nhưng đó là cách duy nhất để chúng ta xây dựng một tương lai mà mọi người đều có chỗ đứng.
 
-## Why This Matters
+## Tại Sao Điều Này Quan Trọng
 
-My experience of growing up in the middle isn’t unique. Millions of people navigate spaces where cultures, identities, and ideologies collide. What I’ve learned from these experiences is that our differences don’t have to divide us—they can make us stronger. 
+Kinh nghiệm lớn lên ở giữa của tôi không phải là điều độc nhất. Hàng triệu người đang điều chỉnh trong những không gian mà các nền văn hóa, bản sắc và tư tưởng va chạm. Những gì tôi đã học được từ những trải nghiệm này là sự khác biệt của chúng ta không nhất thiết phải chia rẽ chúng ta—chúng có thể làm cho chúng ta mạnh mẽ hơn.
 
-Leadership isn’t about picking sides. It’s about building bridges. It’s about creating a world where everyone feels seen, heard, and valued. That’s the kind of leadership I believe in, and that’s the kind of leadership I’m committed to bringing to our community and our country.
+Lãnh đạo không phải là việc chọn bên. Đó là việc xây dựng cầu nối. Đó là việc tạo ra một thế giới mà mọi người đều cảm thấy được nhìn nhận, lắng nghe và trân trọng. Đó là kiểu lãnh đạo mà tôi tin tưởng, và đó là kiểu lãnh đạo mà tôi cam kết mang đến cho cộng đồng và đất nước của chúng ta.
 
 ---
 
-**Together, we can create a future that values understanding, empathy, and unity. Let’s build bridges—not walls.**
+**Cùng nhau, chúng ta có thể tạo ra một tương lai coi trọng sự thấu hiểu, đồng cảm và đoàn kết. Hãy xây dựng cầu nối—không phải những bức tường.**

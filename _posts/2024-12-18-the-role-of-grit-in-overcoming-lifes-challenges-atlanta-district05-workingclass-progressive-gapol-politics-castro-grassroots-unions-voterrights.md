@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Role of Grit in Overcoming Life’s Challenges"
-description: "Growing up without a father and navigating economic struggles taught me grit. It’s this perseverance that drives me to fight for working families and ensure no one is left behind by the systems that are meant to serve us."
+title: "Vai Trò Của Sự Kiên Trì Trong Việc Vượt Qua Những Thử Thách Của Cuộc Sống"
+description: "Lớn lên không có cha và phải đối mặt với những khó khăn kinh tế đã dạy tôi về sự kiên trì. Chính sự bền bỉ này đã thúc đẩy tôi đấu tranh cho các gia đình lao động và đảm bảo rằng không ai bị bỏ lại phía sau bởi những hệ thống đáng lẽ phải phục vụ chúng ta."
 date: 2024-12-18 00:00:00
 image: '/images/party_reform.jpeg'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-role-of-grit/
 ---
 
-Life doesn’t always hand us the tools we need to succeed. Sometimes, we have to build those tools ourselves. For me, growing up without a father and facing economic struggles taught me one of the most important lessons in life: grit.
+Cuộc sống không phải lúc nào cũng trao cho chúng ta những công cụ cần thiết để thành công. Đôi khi, chúng ta phải tự tạo ra những công cụ đó. Đối với tôi, lớn lên không có cha và phải đối mặt với những khó khăn kinh tế đã dạy tôi một trong những bài học quan trọng nhất trong cuộc sống: sự kiên trì.
 
-But it wasn’t always a source of pride. Early on, I was so ashamed of being poor that I tried to hide parts of myself out of fear of being judged. I saw my mother working multiple jobs just to keep us afloat, and I felt helpless knowing I couldn’t do more to ease her burden. We couldn’t afford babysitters, so I stayed home to look after my little brother instead of participating in after-school activities. Daycare and extracurriculars were luxuries we simply couldn’t afford.
+Nhưng điều đó không phải lúc nào cũng là nguồn tự hào. Ngay từ đầu, tôi đã rất xấu hổ vì nghèo khó đến nỗi tôi cố gắng giấu đi một phần bản thân mình vì sợ bị đánh giá. Tôi thấy mẹ mình làm nhiều công việc chỉ để giữ cho chúng tôi sống sót, và tôi cảm thấy bất lực khi biết rằng mình không thể làm gì nhiều hơn để giảm bớt gánh nặng cho bà. Chúng tôi không đủ khả năng thuê người trông trẻ, vì vậy tôi ở nhà chăm sóc em trai thay vì tham gia các hoạt động sau giờ học. Nhà trẻ và các hoạt động ngoại khóa là những thứ xa xỉ mà chúng tôi không thể chi trả.
 
-## Hiding Out of Fear
+## Giấu Mình Vì Sợ Hãi
 
-As a child, poverty often feels like a weight you can’t escape. It’s isolating. I remember making excuses for why I couldn’t join friends at events or participate in school programs, when the truth was we just couldn’t afford it. I felt like I had to keep my struggles hidden, as if being honest about them would make me less worthy in the eyes of others.
+Khi còn nhỏ, nghèo khó thường cảm thấy như một gánh nặng mà bạn không thể thoát ra. Nó khiến bạn cảm thấy cô đơn. Tôi nhớ đã đưa ra những lý do tại sao tôi không thể tham gia các sự kiện cùng bạn bè hay tham gia các chương trình ở trường, trong khi sự thật là chúng tôi chỉ đơn giản là không đủ khả năng. Tôi cảm thấy như mình phải giấu đi những khó khăn, như thể việc thành thật về chúng sẽ khiến tôi trở nên kém giá trị trong mắt người khác.
 
-But those struggles also planted a seed. I saw how hard my mom worked—how she never stopped, even when it seemed like the odds were stacked against her. I didn’t understand it fully at the time, but her resilience became my foundation.
+Nhưng những khó khăn đó cũng đã gieo một hạt giống. Tôi thấy mẹ mình làm việc chăm chỉ như thế nào—bà không bao giờ ngừng lại, ngay cả khi có vẻ như mọi thứ đang chống lại bà. Tôi không hiểu hết điều đó vào thời điểm đó, nhưng sự kiên cường của bà đã trở thành nền tảng của tôi.
 
-## Finding Strength in Struggle
+## Tìm Thấy Sức Mạnh Trong Khó Khăn
 
-Over time, I began to see our hardships differently. Yes, we were poor, and yes, it was difficult. But those experiences gave me a perspective and determination that I carry with me to this day. They taught me to empathize with others who feel unseen or unsupported, and they fueled my desire to create systems that don’t leave people behind.
+Theo thời gian, tôi bắt đầu nhìn nhận những khó khăn của chúng tôi một cách khác. Đúng, chúng tôi nghèo, và đúng, điều đó thật khó khăn. Nhưng những trải nghiệm đó đã cho tôi một góc nhìn và quyết tâm mà tôi mang theo đến ngày hôm nay. Chúng đã dạy tôi biết đồng cảm với những người cảm thấy không được nhìn nhận hoặc hỗ trợ, và chúng đã thúc đẩy tôi mong muốn tạo ra những hệ thống không để ai bị bỏ lại.
 
-I came to understand that poverty wasn’t something to be ashamed of—it was something to fight against. And that fight didn’t start with blaming individuals for their circumstances but with recognizing the systems that make it so hard for working families to get ahead.
+Tôi đã hiểu rằng nghèo khó không phải là điều đáng xấu hổ—đó là điều cần phải đấu tranh chống lại. Và cuộc chiến đó không bắt đầu bằng việc đổ lỗi cho cá nhân vì hoàn cảnh của họ, mà là nhận ra những hệ thống khiến cho các gia đình lao động khó khăn hơn để tiến lên.
 
-## Fighting for Working Families
+## Đấu Tranh Cho Các Gia Đình Lao Động
 
-My family’s story isn’t unique. Millions of families face the same impossible choices every day: whether to pay for childcare or put food on the table, whether to work another shift or spend time with their kids. These aren’t choices anyone should have to make.
+Câu chuyện của gia đình tôi không phải là duy nhất. Hàng triệu gia đình phải đối mặt với những lựa chọn không thể nào tưởng tượng nổi mỗi ngày: có nên trả tiền cho việc trông trẻ hay mua thực phẩm, có nên làm thêm ca nữa hay dành thời gian cho con cái. Đây không phải là những lựa chọn mà bất kỳ ai cũng nên phải đưa ra.
 
-That’s why I fight for policies that uplift working families—because I’ve lived those struggles, and I know how much they shape your life. From affordable childcare to universal after-school programs, I’m committed to building a future where no child has to feel left out because their family can’t afford opportunities, and no parent has to work multiple jobs just to scrape by.
+Đó là lý do tại sao tôi đấu tranh cho các chính sách nâng đỡ các gia đình lao động—bởi vì tôi đã sống qua những khó khăn đó, và tôi biết chúng ảnh hưởng đến cuộc sống của bạn như thế nào. Từ việc chăm sóc trẻ em giá cả phải chăng đến các chương trình sau giờ học toàn cầu, tôi cam kết xây dựng một tương lai mà không đứa trẻ nào phải cảm thấy bị bỏ rơi vì gia đình chúng không đủ khả năng chi trả cho những cơ hội, và không bậc phụ huynh nào phải làm nhiều công việc chỉ để sống sót.
 
-## Grit as a Guiding Principle
+## Sự Kiên Trì Như Một Nguyên Tắc Hướng Dẫn
 
-Grit isn’t just about working hard—it’s about persevering even when the odds seem impossible. It’s about taking the lessons from your struggles and using them to create change. That’s the kind of grit I bring to leadership: the determination to fight for equity, the empathy to understand others’ struggles, and the resolve to build systems that truly serve everyone.
+Sự kiên trì không chỉ đơn thuần là làm việc chăm chỉ—nó là về việc kiên định ngay cả khi mọi thứ có vẻ không thể. Nó là về việc rút ra bài học từ những khó khăn của bạn và sử dụng chúng để tạo ra sự thay đổi. Đó là kiểu kiên trì mà tôi mang đến trong lãnh đạo: quyết tâm đấu tranh cho sự công bằng, lòng đồng cảm để hiểu những khó khăn của người khác, và quyết tâm xây dựng những hệ thống thực sự phục vụ mọi người.
 
-## Building Systems That Work for Everyone
+## Xây Dựng Những Hệ Thống Phục Vụ Tất Cả Mọi Người
 
-Our systems weren’t built to support families like mine growing up. Too often, they favor the wealthy and powerful while leaving working families behind. But I believe we can rebuild these systems to create a fairer, more compassionate society—one where every family has a chance to thrive.
+Những hệ thống của chúng ta không được xây dựng để hỗ trợ những gia đình như gia đình tôi khi lớn lên. Quá thường xuyên, chúng thiên vị cho những người giàu có và quyền lực trong khi bỏ rơi các gia đình lao động. Nhưng tôi tin rằng chúng ta có thể xây dựng lại những hệ thống này để tạo ra một xã hội công bằng và đầy lòng nhân ái hơn—một nơi mà mọi gia đình đều có cơ hội phát triển.
 
-That means fighting for affordable childcare, accessible healthcare, fair wages, and equitable education. It means ensuring that no family is forced to choose between work and their children, and no child is denied opportunities because of their zip code.
+Điều đó có nghĩa là đấu tranh cho việc chăm sóc trẻ em giá cả phải chăng, chăm sóc sức khỏe dễ tiếp cận, mức lương công bằng và giáo dục công bằng. Nó có nghĩa là đảm bảo rằng không gia đình nào bị buộc phải chọn giữa công việc và con cái của họ, và không đứa trẻ nào bị từ chối cơ hội chỉ vì mã bưu chính của chúng.
 
-## Why Grit Matters
+## Tại Sao Sự Kiên Trì Quan Trọng
 
-Grit isn’t just a personal trait—it’s a tool for creating change. It’s what allows us to push forward, to rise above challenges, and to build a future that works for everyone. My life has shown me the power of perseverance, and it’s that same perseverance that fuels my fight for our community.
+Sự kiên trì không chỉ là một đặc điểm cá nhân—nó là một công cụ để tạo ra sự thay đổi. Nó cho phép chúng ta tiến lên, vượt qua những thách thức và xây dựng một tương lai phục vụ cho tất cả mọi người. Cuộc sống của tôi đã cho tôi thấy sức mạnh của sự kiên trì, và chính sự kiên trì đó đã thúc đẩy tôi đấu tranh cho cộng đồng của chúng ta.
 
 ---
 
-**This is what drives me: the grit to overcome challenges, the compassion to fight for those who’ve been left behind, and the determination to build a better future for all. Together, we can create a system that uplifts everyone and leaves no one behind.**
+**Đây là điều thúc đẩy tôi: sự kiên trì để vượt qua những thách thức, lòng trắc ẩn để đấu tranh cho những người bị bỏ lại phía sau, và quyết tâm xây dựng một tương lai tốt đẹp hơn cho tất cả. Cùng nhau, chúng ta có thể tạo ra một hệ thống nâng đỡ mọi người và không để ai bị bỏ lại.**

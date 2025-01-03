@@ -1,234 +1,234 @@
-# Governance
+# Quản trị
 
-## Leadership Structure
+## Cấu trúc Lãnh đạo
 
-### **1. Campaign Manager**
-**[Name]**
+### **1. Quản lý Chiến dịch**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Strategic Oversight:** Direct overall campaign strategy and ensure alignment with campaign goals and values.
-  - **Coordination:** Facilitate communication and coordination between all departments and teams.
-  - **Resource Allocation:** Manage the campaign budget, allocating resources to various initiatives effectively.
-  - **Performance Monitoring:** Track campaign progress, analyze performance metrics, and adjust strategies as necessary.
-  - **Stakeholder Engagement:** Serve as the primary liaison between the campaign and external stakeholders, including donors, partners, and media.
+- **Trách nhiệm:**
+  - **Giám sát Chiến lược:** Chỉ đạo chiến lược tổng thể của chiến dịch và đảm bảo sự phù hợp với các mục tiêu và giá trị của chiến dịch.
+  - **Phối hợp:** Tạo điều kiện cho việc giao tiếp và phối hợp giữa tất cả các phòng ban và đội nhóm.
+  - **Phân bổ Tài nguyên:** Quản lý ngân sách chiến dịch, phân bổ tài nguyên cho các sáng kiến khác nhau một cách hiệu quả.
+  - **Giám sát Hiệu suất:** Theo dõi tiến độ chiến dịch, phân tích các chỉ số hiệu suất và điều chỉnh chiến lược khi cần thiết.
+  - **Giao tiếp với Các bên Liên quan:** Đóng vai trò là cầu nối chính giữa chiến dịch và các bên liên quan bên ngoài, bao gồm nhà tài trợ, đối tác và truyền thông.
 
-- **Qualifications:**
-  - Extensive experience in campaign management or a related field.
-  - Strong leadership and organizational skills.
-  - Ability to make decisive and strategic decisions under pressure.
+- **Trình độ:**
+  - Kinh nghiệm phong phú trong quản lý chiến dịch hoặc lĩnh vực liên quan.
+  - Kỹ năng lãnh đạo và tổ chức mạnh mẽ.
+  - Khả năng đưa ra quyết định quyết đoán và chiến lược dưới áp lực.
 
-### **2. Policy Director**
-**[Name]**
+### **2. Giám đốc Chính sách**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Policy Development:** Research, develop, and refine the campaign’s policy positions in alignment with our core values.
-  - **Advisory Role:** Advise the leadership team on policy implications and legislative developments.
-  - **Community Input:** Gather and incorporate constituent feedback into policy proposals.
-  - **Documentation:** Maintain comprehensive documentation of all policy initiatives and revisions.
+- **Trách nhiệm:**
+  - **Phát triển Chính sách:** Nghiên cứu, phát triển và hoàn thiện các lập trường chính sách của chiến dịch phù hợp với các giá trị cốt lõi của chúng tôi.
+  - **Vai trò Tư vấn:** Tư vấn cho đội ngũ lãnh đạo về các tác động chính sách và phát triển lập pháp.
+  - **Ý kiến Cộng đồng:** Thu thập và tích hợp phản hồi từ cử tri vào các đề xuất chính sách.
+  - **Tài liệu:** Duy trì tài liệu toàn diện về tất cả các sáng kiến và sửa đổi chính sách.
 
-- **Qualifications:**
-  - In-depth knowledge of policy analysis and development.
-  - Experience in legislative or governmental roles is advantageous.
-  - Excellent research and analytical skills.
+- **Trình độ:**
+  - Kiến thức sâu rộng về phân tích và phát triển chính sách.
+  - Kinh nghiệm trong các vai trò lập pháp hoặc chính phủ là một lợi thế.
+  - Kỹ năng nghiên cứu và phân tích xuất sắc.
 
-### **3. Communications Lead**
-**[Name]**
+### **3. Trưởng phòng Truyền thông**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Communication Strategy:** Develop and implement the campaign’s communication plan across all channels.
-  - **Media Relations:** Manage relationships with media outlets, handle press releases, and coordinate interviews.
-  - **Content Creation:** Oversee the creation of content for social media, newsletters, speeches, and other campaign materials.
-  - **Brand Consistency:** Ensure all communications are consistent with the campaign’s branding and messaging guidelines.
+- **Trách nhiệm:**
+  - **Chiến lược Truyền thông:** Phát triển và triển khai kế hoạch truyền thông của chiến dịch trên tất cả các kênh.
+  - **Quan hệ Truyền thông:** Quản lý mối quan hệ với các phương tiện truyền thông, xử lý thông cáo báo chí và phối hợp phỏng vấn.
+  - **Sáng tạo Nội dung:** Giám sát việc tạo nội dung cho mạng xã hội, bản tin, bài phát biểu và các tài liệu chiến dịch khác.
+  - **Tính Nhất quán Thương hiệu:** Đảm bảo tất cả các thông điệp đều nhất quán với thương hiệu và hướng dẫn truyền thông của chiến dịch.
 
-- **Qualifications:**
-  - Strong background in communications, public relations, or journalism.
-  - Proven ability to craft compelling messages and engage with media.
-  - Proficiency in digital marketing tools and platforms.
+- **Trình độ:**
+  - Nền tảng vững chắc trong truyền thông, quan hệ công chúng hoặc báo chí.
+  - Khả năng chứng minh trong việc tạo ra các thông điệp hấp dẫn và tương tác với truyền thông.
+  - Thành thạo các công cụ và nền tảng tiếp thị kỹ thuật số.
 
-### **4. Volunteer Coordinator**
-**[Name]**
+### **4. Điều phối viên Tình nguyện viên**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Volunteer Recruitment:** Develop strategies to recruit and retain campaign volunteers.
-  - **Training and Development:** Organize training sessions and provide resources to equip volunteers with necessary skills.
-  - **Volunteer Management:** Assign tasks, monitor volunteer activities, and ensure effective utilization of volunteer efforts.
-  - **Engagement Programs:** Create initiatives to keep volunteers motivated and engaged throughout the campaign.
+- **Trách nhiệm:**
+  - **Tuyển dụng Tình nguyện viên:** Phát triển các chiến lược để tuyển dụng và giữ chân tình nguyện viên cho chiến dịch.
+  - **Đào tạo và Phát triển:** Tổ chức các buổi đào tạo và cung cấp tài nguyên để trang bị cho tình nguyện viên các kỹ năng cần thiết.
+  - **Quản lý Tình nguyện viên:** Phân công nhiệm vụ, theo dõi hoạt động của tình nguyện viên và đảm bảo sử dụng hiệu quả nỗ lực của tình nguyện viên.
+  - **Chương trình Gắn kết:** Tạo ra các sáng kiến để giữ cho tình nguyện viên có động lực và tham gia trong suốt chiến dịch.
 
-- **Qualifications:**
-  - Experience in volunteer management or community organizing.
-  - Excellent interpersonal and motivational skills.
-  - Ability to manage and inspire large groups effectively.
+- **Trình độ:**
+  - Kinh nghiệm trong quản lý tình nguyện viên hoặc tổ chức cộng đồng.
+  - Kỹ năng giao tiếp và động viên xuất sắc.
+  - Khả năng quản lý và truyền cảm hứng cho các nhóm lớn một cách hiệu quả.
 
-### **5. Fundraising Director**
-**[Name]**
+### **5. Giám đốc Gây quỹ**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Fundraising Strategy:** Develop and execute comprehensive fundraising plans to meet campaign financial goals.
-  - **Donor Relations:** Identify, cultivate, and maintain relationships with potential donors and sponsors.
-  - **Event Planning:** Organize fundraising events, including galas, virtual fundraisers, and donor meetings.
-  - **Compliance:** Ensure all fundraising activities comply with federal and state election laws and regulations.
+- **Trách nhiệm:**
+  - **Chiến lược Gây quỹ:** Phát triển và thực hiện các kế hoạch gây quỹ toàn diện để đạt được các mục tiêu tài chính của chiến dịch.
+  - **Quan hệ Nhà tài trợ:** Xác định, nuôi dưỡng và duy trì mối quan hệ với các nhà tài trợ và nhà tài trợ tiềm năng.
+  - **Lập kế hoạch Sự kiện:** Tổ chức các sự kiện gây quỹ, bao gồm gala, gây quỹ trực tuyến và các cuộc họp với nhà tài trợ.
+  - **Tuân thủ:** Đảm bảo tất cả các hoạt động gây quỹ tuân thủ các luật và quy định bầu cử liên bang và tiểu bang.
 
-- **Qualifications:**
-  - Proven success in fundraising, preferably within political campaigns.
-  - Strong networking and relationship-building skills.
-  - Knowledge of fundraising software and financial reporting.
+- **Trình độ:**
+  - Thành công đã được chứng minh trong gây quỹ, ưu tiên trong các chiến dịch chính trị.
+  - Kỹ năng xây dựng mạng lưới và quan hệ mạnh mẽ.
+  - Kiến thức về phần mềm gây quỹ và báo cáo tài chính.
 
-### **6. Data and Analytics Manager**
-**[Name]**
+### **6. Giám đốc Dữ liệu và Phân tích**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Data Management:** Oversee the campaign’s data infrastructure, including voter databases and CRM systems.
-  - **Analytics:** Analyze data to inform strategic decisions, optimize outreach efforts, and measure campaign effectiveness.
-  - **Polling and Surveys:** Design and implement polling and survey initiatives to gauge voter sentiment and policy support.
-  - **Reporting:** Provide regular reports and insights to the leadership team based on data analysis.
+- **Trách nhiệm:**
+  - **Quản lý Dữ liệu:** Giám sát cơ sở hạ tầng dữ liệu của chiến dịch, bao gồm cơ sở dữ liệu cử tri và hệ thống CRM.
+  - **Phân tích:** Phân tích dữ liệu để thông báo quyết định chiến lược, tối ưu hóa nỗ lực tiếp cận và đo lường hiệu quả chiến dịch.
+  - **Khảo sát và Thăm dò:** Thiết kế và triển khai các sáng kiến khảo sát và thăm dò để đánh giá tâm lý cử tri và sự ủng hộ chính sách.
+  - **Báo cáo:** Cung cấp các báo cáo và thông tin thường xuyên cho đội ngũ lãnh đạo dựa trên phân tích dữ liệu.
 
-- **Qualifications:**
-  - Experience in data analysis, statistics, or a related field.
-  - Proficiency in data management tools and software.
-  - Strong analytical and problem-solving skills.
+- **Trình độ:**
+  - Kinh nghiệm trong phân tích dữ liệu, thống kê hoặc lĩnh vực liên quan.
+  - Thành thạo các công cụ và phần mềm quản lý dữ liệu.
+  - Kỹ năng phân tích và giải quyết vấn đề mạnh mẽ.
 
-### **7. Digital Strategy Lead**
-**[Name]**
+### **7. Trưởng phòng Chiến lược Kỹ thuật số**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Digital Campaigns:** Develop and manage online advertising, social media campaigns, and digital outreach strategies.
-  - **Website Management:** Ensure the campaign website is optimized for user engagement and information dissemination.
-  - **SEO and Content Optimization:** Implement SEO best practices to increase online visibility and drive traffic.
-  - **Performance Tracking:** Monitor and analyze digital performance metrics to refine strategies and improve results.
+- **Trách nhiệm:**
+  - **Chiến dịch Kỹ thuật số:** Phát triển và quản lý quảng cáo trực tuyến, chiến dịch truyền thông xã hội và các chiến lược tiếp cận kỹ thuật số.
+  - **Quản lý Website:** Đảm bảo trang web của chiến dịch được tối ưu hóa cho sự tương tác của người dùng và việc phát tán thông tin.
+  - **Tối ưu hóa SEO và Nội dung:** Thực hiện các phương pháp SEO tốt nhất để tăng cường khả năng hiển thị trực tuyến và thu hút lưu lượng truy cập.
+  - **Theo dõi Hiệu suất:** Giám sát và phân tích các chỉ số hiệu suất kỹ thuật số để tinh chỉnh chiến lược và cải thiện kết quả.
 
-- **Qualifications:**
-  - Expertise in digital marketing, SEO, and online advertising.
-  - Experience with website management and content creation.
-  - Strong understanding of digital analytics tools.
+- **Trình độ:**
+  - Chuyên môn trong tiếp thị kỹ thuật số, SEO và quảng cáo trực tuyến.
+  - Kinh nghiệm trong quản lý website và tạo nội dung.
+  - Hiểu biết sâu sắc về các công cụ phân tích kỹ thuật số.
 
-### **8. Field Operations Manager**
+### **8. Giám đốc Hoạt động Thực địa**
 **Megan Castro**
 
-- **Responsibilities:**
-  - **On-the-Ground Activities:** Oversee canvassing, phone banking, and other voter outreach initiatives.
-  - **Grassroots Strategy:** Develop and implement grassroots strategies to mobilize supporters and increase voter engagement.
-  - **Partnerships:** Collaborate with local organizations, community leaders, and other stakeholders to strengthen field operations.
-  - **Performance Evaluation:** Assess the effectiveness of field activities and make data-driven improvements.
+- **Trách nhiệm:**
+  - **Hoạt động Tại chỗ:** Giám sát việc vận động, gọi điện và các sáng kiến tiếp cận cử tri khác.
+  - **Chiến lược Cơ sở:** Phát triển và triển khai các chiến lược cơ sở để huy động người ủng hộ và tăng cường sự tham gia của cử tri.
+  - **Đối tác:** Hợp tác với các tổ chức địa phương, lãnh đạo cộng đồng và các bên liên quan khác để củng cố hoạt động thực địa.
+  - **Đánh giá Hiệu suất:** Đánh giá hiệu quả của các hoạt động thực địa và thực hiện các cải tiến dựa trên dữ liệu.
 
-- **Qualifications:**
-  - Background in grassroots organizing or field campaign work.
-  - Excellent organizational and leadership skills.
-  - Ability to manage multiple teams and projects simultaneously.
+- **Trình độ:**
+  - Nền tảng trong tổ chức cơ sở hoặc công việc chiến dịch thực địa.
+  - Kỹ năng tổ chức và lãnh đạo xuất sắc.
+  - Khả năng quản lý nhiều nhóm và dự án cùng một lúc.
 
-### **9. Finance Director**
-**[Name]**
+### **9. Giám đốc Tài chính**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Financial Planning:** Develop and oversee the campaign’s financial strategy and budgeting processes.
-  - **Expense Management:** Monitor and approve campaign expenditures to ensure financial discipline.
-  - **Reporting:** Maintain accurate financial records and prepare regular financial reports for the leadership team.
-  - **Compliance:** Ensure all financial activities comply with relevant laws and regulations.
+- **Trách nhiệm:**
+  - **Lập kế hoạch Tài chính:** Phát triển và giám sát chiến lược tài chính và quy trình lập ngân sách của chiến dịch.
+  - **Quản lý Chi phí:** Theo dõi và phê duyệt các khoản chi tiêu của chiến dịch để đảm bảo tính kỷ luật tài chính.
+  - **Báo cáo:** Duy trì hồ sơ tài chính chính xác và chuẩn bị các báo cáo tài chính thường xuyên cho đội ngũ lãnh đạo.
+  - **Tuân thủ:** Đảm bảo tất cả các hoạt động tài chính tuân thủ các luật và quy định liên quan.
 
-- **Qualifications:**
-  - Strong background in finance, accounting, or a related field.
-  - Experience with financial management in campaigns or non-profits.
-  - Attention to detail and strong analytical skills.
+- **Trình độ:**
+  - Nền tảng vững chắc trong tài chính, kế toán hoặc lĩnh vực liên quan.
+  - Kinh nghiệm trong quản lý tài chính ở các chiến dịch hoặc tổ chức phi lợi nhuận.
+  - Chú ý đến chi tiết và kỹ năng phân tích mạnh mẽ.
 
-### **10. Legal Counsel**
-**[Name]**
+### **10. Cố vấn Pháp lý**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Legal Advisory:** Provide legal advice to ensure campaign activities comply with election laws and regulations.
-  - **Documentation:** Handle legal documentation, filings, and contracts.
-  - **Risk Management:** Identify potential legal risks and develop strategies to mitigate them.
-  - **Representation:** Represent the campaign in any legal proceedings if necessary.
+- **Trách nhiệm:**
+  - **Tư vấn Pháp lý:** Cung cấp tư vấn pháp lý để đảm bảo các hoạt động của chiến dịch tuân thủ luật bầu cử và quy định.
+  - **Tài liệu:** Xử lý các tài liệu pháp lý, hồ sơ và hợp đồng.
+  - **Quản lý Rủi ro:** Xác định các rủi ro pháp lý tiềm ẩn và phát triển các chiến lược để giảm thiểu chúng.
+  - **Đại diện:** Đại diện cho chiến dịch trong bất kỳ thủ tục pháp lý nào nếu cần thiết.
 
-- **Qualifications:**
-  - Juris Doctor (JD) degree and licensed to practice law.
-  - Experience in election law or political campaigns is highly desirable.
-  - Strong understanding of regulatory compliance and legal procedures.
+- **Trình độ:**
+  - Bằng Juris Doctor (JD) và có giấy phép hành nghề luật.
+  - Kinh nghiệm trong luật bầu cử hoặc các chiến dịch chính trị là rất mong muốn.
+  - Hiểu biết sâu sắc về tuân thủ quy định và quy trình pháp lý.
 
-### **11. Advisory Board**
-**[Names]**
+### **11. Hội đồng Tư vấn**
+**[Tên]**
 
-- **Responsibilities:**
-  - **Strategic Guidance:** Offer strategic advice and insights based on expertise in various fields such as policy, finance, technology, and community organizing.
-  - **Mentorship:** Mentor campaign leaders and provide support in navigating complex campaign challenges.
-  - **Networking:** Leverage personal and professional networks to advance campaign objectives and secure resources.
-  - **Ambassadorship:** Act as ambassadors for the campaign within their respective networks, enhancing credibility and outreach.
+- **Trách nhiệm:**
+  - **Hướng dẫn Chiến lược:** Cung cấp lời khuyên chiến lược và thông tin dựa trên chuyên môn trong các lĩnh vực khác nhau như chính sách, tài chính, công nghệ và tổ chức cộng đồng.
+  - **Mentorship:** Hướng dẫn các nhà lãnh đạo chiến dịch và cung cấp hỗ trợ trong việc điều hướng các thách thức phức tạp của chiến dịch.
+  - **Mạng lưới:** Tận dụng mạng lưới cá nhân và chuyên nghiệp để thúc đẩy các mục tiêu của chiến dịch và đảm bảo tài nguyên.
+  - **Đại diện:** Đóng vai trò là đại sứ cho chiến dịch trong các mạng lưới của họ, nâng cao uy tín và khả năng tiếp cận.
 
-- **Qualifications:**
-  - Recognized experts or influential figures in relevant areas.
-  - Strong commitment to the campaign’s mission and values.
-  - Ability to provide constructive feedback and strategic insights.
-
----
-
-### **Leadership Responsibilities and Accountability**
-
-Each leadership role is accountable for specific aspects of the campaign, ensuring that all operations are aligned with our strategic goals and values. Regular leadership meetings will be held to discuss progress, address challenges, and coordinate efforts across departments. The **Campaign Manager** is responsible for facilitating these meetings, monitoring progress, and ensuring that all leaders are working cohesively towards the campaign’s objectives.
+- **Trình độ:**
+  - Các chuyên gia hoặc nhân vật có ảnh hưởng được công nhận trong các lĩnh vực liên quan.
+  - Cam kết mạnh mẽ với sứ mệnh và giá trị của chiến dịch.
+  - Khả năng cung cấp phản hồi mang tính xây dựng và thông tin chiến lược.
 
 ---
 
-### **Succession Planning**
+### **Trách nhiệm và Trách nhiệm Lãnh đạo**
 
-To maintain campaign resilience and continuity, succession plans are in place for key leadership roles. Potential candidates are identified and trained to step into leadership positions as needed, ensuring stability and ongoing effectiveness throughout the campaign lifecycle.
-
----
-
-### **Diversity and Inclusion in Leadership**
-
-Our leadership team is committed to reflecting the diversity of Georgia's 5th Congressional District. We actively seek individuals from various backgrounds, experiences, and perspectives to enrich our decision-making processes and better represent our constituents. This commitment ensures that our leadership is inclusive, equitable, and responsive to the needs of all community members.
+Mỗi vai trò lãnh đạo chịu trách nhiệm về các khía cạnh cụ thể của chiến dịch, đảm bảo rằng tất cả các hoạt động đều phù hợp với các mục tiêu và giá trị chiến lược của chúng tôi. Các cuộc họp lãnh đạo thường xuyên sẽ được tổ chức để thảo luận về tiến độ, giải quyết các thách thức và phối hợp nỗ lực giữa các phòng ban. **Quản lý Chiến dịch** có trách nhiệm tạo điều kiện cho các cuộc họp này, theo dõi tiến độ và đảm bảo rằng tất cả các nhà lãnh đạo đang làm việc cùng nhau hướng tới các mục tiêu của chiến dịch.
 
 ---
 
-### **Commitment to Ethical Leadership**
+### **Kế hoạch Kế nhiệm**
 
-All members of the leadership team are expected to uphold the highest standards of integrity and ethics. This commitment includes transparency in decision-making, accountability for actions, and adherence to the campaign’s **Code of Conduct**. Ethical leadership fosters trust within the team and with the broader community, reinforcing our dedication to serving the public with honesty and respect.
-
----
-
-### **Values**
-
-Our decision-making processes are guided by the following core values, ensuring that our strategies and actions align with our foundational principles. These values are designed to foster a streamlined, ethical, and effective campaign, reflecting both our commitment to the community and our innovative approach.
+Để duy trì tính bền vững và liên tục của chiến dịch, các kế hoạch kế nhiệm đã được thiết lập cho các vai trò lãnh đạo chính. Các ứng viên tiềm năng được xác định và đào tạo để bước vào các vị trí lãnh đạo khi cần thiết, đảm bảo sự ổn định và hiệu quả liên tục trong suốt vòng đời của chiến dịch.
 
 ---
 
-#### **1. Integrity First**
+### **Đa dạng và Bao gồm trong Lãnh đạo**
 
-- **Description:**  
-  We uphold honesty and transparency in all our actions, building trust with our constituents and maintaining the highest ethical standards throughout the campaign.
-
-- **Application:**  
-  Every decision is made with honesty and openness. We ensure that our communications are truthful, our financial dealings are transparent, and our actions consistently reflect our promises to the community. This commitment to integrity fosters a trustworthy relationship with voters and reinforces our credibility.
+Đội ngũ lãnh đạo của chúng tôi cam kết phản ánh sự đa dạng của Quận 5 Georgia. Chúng tôi tích cực tìm kiếm những cá nhân từ nhiều nền tảng, kinh nghiệm và quan điểm khác nhau để làm phong phú thêm quy trình ra quyết định của chúng tôi và đại diện tốt hơn cho cử tri. Cam kết này đảm bảo rằng lãnh đạo của chúng tôi là bao gồm, công bằng và nhạy cảm với nhu cầu của tất cả các thành viên trong cộng đồng.
 
 ---
 
-#### **2. Innovate Relentlessly**
+### **Cam kết với Lãnh đạo Đạo đức**
 
-- **Description:**  
-  We embrace cutting-edge solutions and creative thinking to address the challenges facing our district, striving for continuous improvement and adaptability in our campaign strategies.
-
-- **Application:**  
-  Our strategies are data-driven and leverage the latest technologies to optimize outreach, engagement, and campaign operations. We encourage our team to think outside the box, adopting innovative approaches to policy development, voter mobilization, and digital engagement to stay ahead in a rapidly evolving political landscape.
+Tất cả các thành viên trong đội ngũ lãnh đạo được kỳ vọng sẽ duy trì các tiêu chuẩn cao nhất về tính chính trực và đạo đức. Cam kết này bao gồm tính minh bạch trong quá trình ra quyết định, trách nhiệm cho các hành động và tuân thủ **Quy tắc Ứng xử** của chiến dịch. Lãnh đạo đạo đức tạo ra sự tin tưởng trong đội ngũ và với cộng đồng rộng lớn hơn, củng cố sự tận tâm của chúng tôi trong việc phục vụ công chúng với sự trung thực và tôn trọng.
 
 ---
 
-#### **3. Inclusive Representation**
+### **Giá trị**
 
-- **Description:**  
-  We ensure that diverse voices and perspectives are reflected in our policies and campaign initiatives, promoting equity and equality for all community members.
-
-- **Application:**  
-  We actively seek input from all segments of the community, integrating their feedback into our policy development and campaign strategies. By fostering an inclusive environment, we ensure that our campaign addresses the needs and concerns of every constituent, thereby building a united and representative movement.
+Các quy trình ra quyết định của chúng tôi được hướng dẫn bởi các giá trị cốt lõi sau đây, đảm bảo rằng các chiến lược và hành động của chúng tôi phù hợp với các nguyên tắc nền tảng của chúng tôi. Những giá trị này được thiết kế để thúc đẩy một chiến dịch hiệu quả, có đạo đức và mạch lạc, phản ánh cả cam kết của chúng tôi đối với cộng đồng và cách tiếp cận đổi mới của chúng tôi.
 
 ---
 
-#### **4. Accountable Leadership**
+#### **1. Đặt Tính Chính trực lên Hàng đầu**
 
-- **Description:**  
-  We take responsibility for our decisions and outcomes, ensuring that our leadership team is answerable to our constituents and committed to delivering on our promises.
+- **Mô tả:**  
+  Chúng tôi duy trì sự trung thực và minh bạch trong tất cả các hành động của mình, xây dựng niềm tin với cử tri và giữ vững các tiêu chuẩn đạo đức cao nhất trong suốt chiến dịch.
 
-- **Application:**  
-  Regular progress reports, transparent financials, and open lines of communication keep our campaign accountable to the people we serve. We implement robust monitoring and evaluation processes to assess the effectiveness of our initiatives, allowing us to make informed adjustments and maintain accountability at every level of the campaign.
+- **Ứng dụng:**  
+  Mọi quyết định đều được đưa ra với sự trung thực và cởi mở. Chúng tôi đảm bảo rằng các thông điệp của mình là đúng sự thật, các giao dịch tài chính của chúng tôi là minh bạch và các hành động của chúng tôi luôn phản ánh những gì chúng tôi đã hứa với cộng đồng. Cam kết này về tính chính trực tạo ra một mối quan hệ đáng tin cậy với cử tri và củng cố uy tín của chúng tôi.
 
 ---
 
-### **Commitment to Our Values**
+#### **2. Đổi mới Không ngừng**
 
-These core values are not just statements; they are the pillars that support every aspect of our campaign. From policy development to voter engagement, each action we take is measured against these principles to ensure that we remain true to our mission and dedicated to serving Georgia's 5th Congressional District with excellence and integrity.
+- **Mô tả:**  
+  Chúng tôi chấp nhận các giải pháp tiên tiến và tư duy sáng tạo để giải quyết những thách thức mà quận chúng tôi đang đối mặt, nỗ lực cải tiến liên tục và khả năng thích ứng trong các chiến lược chiến dịch của chúng tôi.
+
+- **Ứng dụng:**  
+  Các chiến lược của chúng tôi dựa trên dữ liệu và tận dụng công nghệ mới nhất để tối ưu hóa việc tiếp cận, gắn kết và hoạt động của chiến dịch. Chúng tôi khuyến khích đội ngũ của mình suy nghĩ khác biệt, áp dụng các phương pháp đổi mới trong phát triển chính sách, huy động cử tri và tương tác kỹ thuật số để luôn đi trước trong bối cảnh chính trị đang thay đổi nhanh chóng.
+
+---
+
+#### **3. Đại diện Bao gồm**
+
+- **Mô tả:**  
+  Chúng tôi đảm bảo rằng các tiếng nói và quan điểm đa dạng được phản ánh trong các chính sách và sáng kiến chiến dịch của chúng tôi, thúc đẩy sự công bằng và bình đẳng cho tất cả các thành viên trong cộng đồng.
+
+- **Ứng dụng:**  
+  Chúng tôi tích cực tìm kiếm ý kiến từ tất cả các phân khúc của cộng đồng, tích hợp phản hồi của họ vào phát triển chính sách và chiến lược chiến dịch. Bằng cách tạo ra một môi trường bao gồm, chúng tôi đảm bảo rằng chiến dịch của chúng tôi giải quyết nhu cầu và mối quan tâm của mọi cử tri, từ đó xây dựng một phong trào thống nhất và đại diện.
+
+---
+
+#### **4. Lãnh đạo Có Trách nhiệm**
+
+- **Mô tả:**  
+  Chúng tôi chịu trách nhiệm về các quyết định và kết quả của mình, đảm bảo rằng đội ngũ lãnh đạo của chúng tôi có trách nhiệm với cử tri và cam kết thực hiện những gì đã hứa.
+
+- **Ứng dụng:**  
+  Các báo cáo tiến độ thường xuyên, tài chính minh bạch và các kênh giao tiếp mở giữ cho chiến dịch của chúng tôi có trách nhiệm với những người mà chúng tôi phục vụ. Chúng tôi thực hiện các quy trình giám sát và đánh giá mạnh mẽ để đánh giá hiệu quả của các sáng kiến của mình, cho phép chúng tôi thực hiện các điều chỉnh thông minh và duy trì trách nhiệm ở mọi cấp độ của chiến dịch.
+
+---
+
+### **Cam kết với Các Giá trị của Chúng tôi**
+
+Những giá trị cốt lõi này không chỉ là những tuyên bố; chúng là những trụ cột hỗ trợ mọi khía cạnh của chiến dịch của chúng tôi. Từ phát triển chính sách đến gắn kết cử tri, mỗi hành động mà chúng tôi thực hiện đều được đo lường dựa trên những nguyên tắc này để đảm bảo rằng chúng tôi vẫn trung thành với sứ mệnh của mình và tận tâm phục vụ Quận 5 Georgia với sự xuất sắc và tính chính trực.

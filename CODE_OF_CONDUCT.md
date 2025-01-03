@@ -1,99 +1,99 @@
-# Code of Conduct
+# Quy tắc ứng xử
 
-## Our Pledge
+## Cam kết của chúng tôi
 
-We are committed to creating and maintaining a welcoming and respectful environment for everyone involved in the **Andres Castro for Georgia's 5th Congressional District** campaign. Whether you are a volunteer, supporter, constituent, or collaborator, we expect all participants to uphold the highest standards of conduct.
+Chúng tôi cam kết tạo ra và duy trì một môi trường chào đón và tôn trọng cho tất cả mọi người tham gia vào chiến dịch **Andres Castro cho Khu vực Quốc hội thứ 5 của Georgia**. Dù bạn là tình nguyện viên, người ủng hộ, cử tri hay cộng tác viên, chúng tôi mong muốn tất cả các thành viên tham gia đều tuân thủ các tiêu chuẩn ứng xử cao nhất.
 
-## Standards of Behavior
+## Tiêu chuẩn hành vi
 
-### **Be Respectful and Considerate**
+### **Tôn trọng và chu đáo**
 
-- Treat all individuals with kindness and respect.
-- Acknowledge and value diverse perspectives and experiences.
-- Listen actively and engage in constructive dialogue.
+- Đối xử với mọi người bằng sự tử tế và tôn trọng.
+- Thừa nhận và đánh giá cao các quan điểm và trải nghiệm đa dạng.
+- Lắng nghe một cách chủ động và tham gia vào các cuộc đối thoại mang tính xây dựng.
 
-### **Refrain from Offensive Language and Behavior**
+### **Tránh ngôn ngữ và hành vi xúc phạm**
 
-- Do not use profanity, slurs, or derogatory language.
-- Avoid personal attacks, harassment, or intimidation.
-- Steer clear of discriminatory remarks based on race, gender, sexual orientation, religion, nationality, disability, or any other protected characteristic.
+- Không sử dụng lời lẽ thô tục, từ ngữ phân biệt hay ngôn ngữ miệt thị.
+- Tránh các cuộc tấn công cá nhân, quấy rối hoặc đe dọa.
+- Không có những nhận xét phân biệt dựa trên chủng tộc, giới tính, xu hướng tình dục, tôn giáo, quốc tịch, khuyết tật hoặc bất kỳ đặc điểm nào khác được bảo vệ.
 
-### **Focus on Issues, Not Individuals**
+### **Tập trung vào vấn đề, không phải cá nhân**
 
-- Center discussions around policies, ideas, and solutions.
-- Critique concepts and actions without targeting individuals personally.
-- Maintain professionalism in all forms of communication.
+- Tập trung thảo luận về chính sách, ý tưởng và giải pháp.
+- Phê bình các khái niệm và hành động mà không nhắm vào cá nhân.
+- Duy trì tính chuyên nghiệp trong tất cả các hình thức giao tiếp.
 
-### **Maintain Privacy and Confidentiality**
+### **Bảo vệ quyền riêng tư và tính bảo mật**
 
-- Respect the privacy of others by not sharing personal information without consent.
-- Handle sensitive campaign information responsibly and securely.
+- Tôn trọng quyền riêng tư của người khác bằng cách không chia sẻ thông tin cá nhân mà không có sự đồng ý.
+- Xử lý thông tin nhạy cảm của chiến dịch một cách có trách nhiệm và an toàn.
 
-### **Promote Inclusivity and Accessibility**
+### **Thúc đẩy tính bao gồm và khả năng tiếp cận**
 
-- Ensure that all campaign activities and materials are accessible to everyone.
-- Encourage participation from individuals of all backgrounds and abilities.
+- Đảm bảo rằng tất cả các hoạt động và tài liệu của chiến dịch đều có thể tiếp cận được với mọi người.
+- Khuyến khích sự tham gia của những cá nhân đến từ mọi nền tảng và khả năng khác nhau.
 
-## Responsibilities of Participants
+## Trách nhiệm của người tham gia
 
-- **Leaders and Organizers:**
-  - Set a positive example by adhering to the Code of Conduct.
-  - Address and resolve any reported violations promptly and fairly.
-  - Foster an inclusive and supportive environment.
+- **Lãnh đạo và tổ chức:**
+  - Làm gương tốt bằng cách tuân thủ Quy tắc ứng xử.
+  - Giải quyết và xử lý kịp thời và công bằng bất kỳ vi phạm nào được báo cáo.
+  - Thúc đẩy một môi trường bao gồm và hỗ trợ.
 
-- **Participants:**
-  - Abide by the standards outlined in this Code of Conduct.
-  - Report any misconduct or violations to the designated channels.
-  - Support a culture of respect and collaboration.
+- **Người tham gia:**
+  - Tuân thủ các tiêu chuẩn được nêu trong Quy tắc ứng xử này.
+  - Báo cáo bất kỳ hành vi sai trái hoặc vi phạm nào đến các kênh được chỉ định.
+  - Hỗ trợ một văn hóa tôn trọng và hợp tác.
 
-## Reporting and Enforcement
+## Báo cáo và thực thi
 
-### **How to Report Violations**
+### **Cách báo cáo vi phạm**
 
-If you experience or witness any behavior that violates this Code of Conduct, please report it immediately through one of the following methods:
+Nếu bạn trải qua hoặc chứng kiến bất kỳ hành vi nào vi phạm Quy tắc ứng xử này, vui lòng báo cáo ngay lập tức qua một trong các phương thức sau:
 
-- **Email:** Send a detailed report to [ethics@andrescastro.us](mailto:ethics@andrescastro.us).
-- **Online Form:** [Report a Ethics Violation](https://www.andrescastro.us/ethics-complaint)
+- **Email:** Gửi báo cáo chi tiết đến [ethics@andrescastro.us](mailto:ethics@andrescastro.us).
+- **Mẫu trực tuyến:** [Báo cáo vi phạm đạo đức](https://www.andrescastro.us/ethics-complaint)
 
-### **What to Include in a Report**
+### **Nội dung cần có trong báo cáo**
 
-- A clear description of the incident(s).
-- Names or identifiers of individuals involved (if known).
-- Date, time, and location of the incident.
-- Any supporting evidence (e.g., screenshots, messages).
-- Your contact information (optional, for follow-up).
+- Mô tả rõ ràng về sự cố.
+- Tên hoặc thông tin nhận dạng của những người liên quan (nếu biết).
+- Ngày, giờ và địa điểm của sự cố.
+- Bất kỳ bằng chứng hỗ trợ nào (ví dụ: ảnh chụp màn hình, tin nhắn).
+- Thông tin liên lạc của bạn (tùy chọn, để theo dõi).
 
-### **Confidentiality and Anonymity**
+### **Bảo mật và ẩn danh**
 
-All reports will be treated with the utmost confidentiality. You may choose to remain anonymous; however, providing contact information can help us address the issue more effectively.
+Tất cả các báo cáo sẽ được xử lý với sự bảo mật tối đa. Bạn có thể chọn giữ ẩn danh; tuy nhiên, việc cung cấp thông tin liên lạc có thể giúp chúng tôi giải quyết vấn đề hiệu quả hơn.
 
-### **No Retaliation**
+### **Không trả thù**
 
-Retaliation against anyone who reports a violation or participates in an investigation is strictly prohibited. Such actions will result in severe consequences.
+Hành động trả thù đối với bất kỳ ai báo cáo vi phạm hoặc tham gia vào cuộc điều tra là hoàn toàn bị cấm. Những hành động như vậy sẽ dẫn đến hậu quả nghiêm trọng.
 
-## Consequences of Violations
+## Hậu quả của các vi phạm
 
-Violations of this Code of Conduct may result in the following actions, depending on the severity and frequency of the behavior:
+Các vi phạm Quy tắc ứng xử này có thể dẫn đến các hành động sau, tùy thuộc vào mức độ nghiêm trọng và tần suất của hành vi:
 
-1. **Warning:** A formal notice addressing the inappropriate behavior and outlining expectations for future conduct.
-2. **Temporary Suspension:** A temporary removal from campaign activities or access to certain resources.
-3. **Permanent Removal:** A permanent ban from participating in campaign activities and access to all campaign resources.
+1. **Cảnh cáo:** Một thông báo chính thức về hành vi không phù hợp và nêu rõ kỳ vọng cho hành vi trong tương lai.
+2. **Tạm đình chỉ:** Tạm thời loại bỏ khỏi các hoạt động của chiến dịch hoặc quyền truy cập vào một số tài nguyên nhất định.
+3. **Loại bỏ vĩnh viễn:** Cấm vĩnh viễn tham gia vào các hoạt động của chiến dịch và quyền truy cập vào tất cả các tài nguyên của chiến dịch.
 
-## Addressing Grievances
+## Giải quyết khiếu nại
 
-If you are unsatisfied with how your report was handled, you can escalate the matter by contacting:
+Nếu bạn không hài lòng với cách mà báo cáo của bạn được xử lý, bạn có thể nâng cao vấn đề bằng cách liên hệ với:
 
-- **Campaign Ethics Committee:** [ethics@andrescastro.us](mailto:ethics@andrescastro.us)
-- **Third-Party Mediator:** *(Optional: Include contact information if applicable)*
+- **Ủy ban Đạo đức Chiến dịch:** [ethics@andrescastro.us](mailto:ethics@andrescastro.us)
+- **Người hòa giải bên thứ ba:** *(Tùy chọn: Bao gồm thông tin liên hệ nếu có thể)*
 
-## Acknowledgments
+## Lời cảm ơn
 
-This Code of Conduct is inspired by the [Contributor Covenant](https://www.contributor-covenant.org/) and best practices from successful campaigns and organizations committed to fostering inclusive and respectful environments.
+Quy tắc ứng xử này được lấy cảm hứng từ [Contributor Covenant](https://www.contributor-covenant.org/) và các thực tiễn tốt nhất từ các chiến dịch và tổ chức thành công cam kết thúc đẩy môi trường bao gồm và tôn trọng.
 
-## Changes to This Code
+## Thay đổi Quy tắc này
 
-We reserve the right to modify this Code of Conduct at any time. Updates will be communicated through official campaign channels.
+Chúng tôi có quyền sửa đổi Quy tắc ứng xử này bất cứ lúc nào. Các cập nhật sẽ được thông báo qua các kênh chính thức của chiến dịch.
 
 ---
 
-**Thank you for contributing to a positive and impactful campaign! Together, we can build a better future for Georgia's 5th Congressional District.**
+**Cảm ơn bạn đã góp phần vào một chiến dịch tích cực và có ảnh hưởng! Cùng nhau, chúng ta có thể xây dựng một tương lai tốt đẹp hơn cho Khu vực Quốc hội thứ 5 của Georgia.**

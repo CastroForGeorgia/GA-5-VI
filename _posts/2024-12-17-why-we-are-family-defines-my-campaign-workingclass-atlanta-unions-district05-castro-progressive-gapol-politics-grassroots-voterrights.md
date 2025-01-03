@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why 'We Are Family' Defines My Campaign"
-description: "Whether you’re a working parent, a veteran, an immigrant, or someone just trying to make ends meet, I believe we’re all connected. My campaign is built on the belief that we must uplift one another like family—because that’s how we create real change."
+title: "Tại Sao 'Chúng Ta Là Gia Đình' Định Nghĩa Chiến Dịch Của Tôi"
+description: "Dù bạn là một bậc phụ huynh đang làm việc, một cựu chiến binh, một người nhập cư, hay chỉ là ai đó đang cố gắng để trang trải cuộc sống, tôi tin rằng chúng ta đều có sự kết nối. Chiến dịch của tôi được xây dựng dựa trên niềm tin rằng chúng ta phải nâng đỡ nhau như gia đình—bởi vì đó là cách chúng ta tạo ra sự thay đổi thực sự."
 date: 2024-12-17
 image: '/images/housing-policy-header.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-we-are-family-campaign/
 ---
 
-When I think about the challenges we face as a community, one thing becomes clear: we can’t tackle them alone. Whether it’s the struggle to find affordable housing, access healthcare, or make ends meet, these challenges affect us all. And just like in a family, the only way to overcome them is by looking out for one another, lifting each other up, and fighting for a better future together.
+Khi tôi nghĩ về những thách thức mà chúng ta phải đối mặt như một cộng đồng, một điều trở nên rõ ràng: chúng ta không thể giải quyết chúng một mình. Dù đó là cuộc chiến để tìm kiếm nhà ở giá cả phải chăng, tiếp cận dịch vụ y tế, hay chỉ để trang trải cuộc sống, những thách thức này ảnh hưởng đến tất cả chúng ta. Và giống như trong một gia đình, cách duy nhất để vượt qua chúng là chăm sóc lẫn nhau, nâng đỡ nhau, và cùng nhau chiến đấu vì một tương lai tốt đẹp hơn.
 
-That’s why “We Are Family” is more than just a campaign slogan—it’s the foundation of everything I stand for. It’s the belief that our differences don’t divide us; they make us stronger. It’s the commitment to building a community where everyone has a place, where no one is left behind, and where we rise together.
+Đó là lý do tại sao “Chúng Ta Là Gia Đình” không chỉ là một khẩu hiệu chiến dịch—nó là nền tảng của tất cả những gì tôi đứng lên vì. Đó là niềm tin rằng sự khác biệt của chúng ta không chia rẽ chúng ta; chúng làm cho chúng ta mạnh mẽ hơn. Đó là cam kết xây dựng một cộng đồng nơi mọi người đều có chỗ đứng, nơi không ai bị bỏ lại phía sau, và nơi chúng ta cùng nhau vươn lên.
 
-## The Power of Connection
+## Sức Mạnh Của Sự Kết Nối
 
-Growing up, I learned the importance of family in all its forms. My own family was a mix of cultures, identities, and perspectives—immigrants, veterans, working parents, and queer relatives who taught me the value of acceptance and resilience. I’ve seen the strength that comes from coming together, even when times are hard.
+Khi lớn lên, tôi đã học được tầm quan trọng của gia đình trong tất cả các hình thức. Gia đình của tôi là sự pha trộn của các nền văn hóa, danh tính và quan điểm—các người nhập cư, cựu chiến binh, bậc phụ huynh đang làm việc, và những người thân LGBTQ+ đã dạy tôi giá trị của sự chấp nhận và kiên cường. Tôi đã thấy sức mạnh đến từ việc đoàn kết, ngay cả khi thời gian khó khăn.
 
-I also learned that family isn’t just about blood. It’s about the people who stand by you, who support you, and who fight for you. That’s the spirit I want to bring to this campaign: a sense of connection that reminds us we’re all in this together.
+Tôi cũng đã học rằng gia đình không chỉ là về huyết thống. Nó là về những người đứng bên bạn, những người ủng hộ bạn, và những người chiến đấu vì bạn. Đó là tinh thần mà tôi muốn mang đến cho chiến dịch này: một cảm giác kết nối nhắc nhở chúng ta rằng chúng ta đều ở đây cùng nhau.
 
-## Who We Fight For
+## Chúng Ta Chiến Đấu Vì Ai
 
-When I say, “We Are Family,” I’m talking about all of us:
+Khi tôi nói, “Chúng Ta Là Gia Đình,” tôi đang nói về tất cả chúng ta:
 
-- **If you’re a working parent trying to provide for your children**—we are family.
-- **If you’re a veteran who’s sacrificed for this country**—we are family.
-- **If you’re an immigrant chasing the promise of a better life**—we are family.
-- **If you’re struggling with healthcare costs or fighting for your reproductive rights**—we are family.
-- **If you’re an LGBTQ+ individual demanding equality**—we are family.
-- **If you’re a teacher, a nurse, or a service worker keeping our communities strong**—we are family.
-- **If you’re just trying to make ends meet**—we are family.
+- **Nếu bạn là một bậc phụ huynh đang làm việc để nuôi dạy con cái**—chúng ta là gia đình.
+- **Nếu bạn là một cựu chiến binh đã hy sinh vì đất nước này**—chúng ta là gia đình.
+- **Nếu bạn là một người nhập cư đang theo đuổi giấc mơ về một cuộc sống tốt đẹp hơn**—chúng ta là gia đình.
+- **Nếu bạn đang vật lộn với chi phí y tế hoặc chiến đấu vì quyền sinh sản của mình**—chúng ta là gia đình.
+- **Nếu bạn là một cá nhân LGBTQ+ đang đòi hỏi sự bình đẳng**—chúng ta là gia đình.
+- **Nếu bạn là một giáo viên, một y tá, hoặc một công nhân dịch vụ đang giữ cho cộng đồng của chúng ta mạnh mẽ**—chúng ta là gia đình.
+- **Nếu bạn chỉ đang cố gắng để trang trải cuộc sống**—chúng ta là gia đình.
 
-No matter your background, your struggles, or your dreams, we are connected. And when we embrace that connection, we can achieve real change.
+Dù bạn có xuất thân, những khó khăn, hay ước mơ gì, chúng ta đều có sự kết nối. Và khi chúng ta chấp nhận sự kết nối đó, chúng ta có thể đạt được sự thay đổi thực sự.
 
-## A Campaign Rooted in Solidarity
+## Một Chiến Dịch Gắn Kết Trong Tình Đoàn Kết
 
-The challenges we face—rising inequality, unaffordable housing, systemic injustice—require bold solutions. But bold solutions don’t happen in isolation. They happen when we come together, when we share our stories, and when we fight for one another like family.
+Những thách thức mà chúng ta phải đối mặt—sự bất bình đẳng gia tăng, nhà ở không thể chi trả, bất công hệ thống—cần những giải pháp táo bạo. Nhưng những giải pháp táo bạo không xảy ra trong sự cô lập. Chúng xảy ra khi chúng ta đoàn kết, khi chúng ta chia sẻ câu chuyện của mình, và khi chúng ta chiến đấu cho nhau như một gia đình.
 
-This campaign is built on solidarity. It’s about listening to your needs, amplifying your voices, and creating policies that uplift everyone—not just the wealthy or powerful. It’s about recognizing that when one of us struggles, we all do, and when one of us succeeds, we all benefit.
+Chiến dịch này được xây dựng trên nền tảng đoàn kết. Nó là về việc lắng nghe nhu cầu của bạn, khuếch đại tiếng nói của bạn, và tạo ra các chính sách nâng đỡ mọi người—không chỉ những người giàu có hoặc quyền lực. Nó là về việc nhận ra rằng khi một người trong chúng ta gặp khó khăn, tất cả chúng ta đều gặp khó khăn, và khi một người trong chúng ta thành công, tất cả chúng ta đều được hưởng lợi.
 
-## Uplifting Each Other, Building Together
+## Nâng Đỡ Lẫn Nhau, Xây Dựng Cùng Nhau
 
-The idea of family reminds us of our responsibility to each other. It’s about lifting up those who’ve been left behind, empowering those who’ve been silenced, and building systems that work for all of us. Whether it’s fighting for universal healthcare, affordable housing, or economic justice, every step we take together brings us closer to a brighter future.
+Ý tưởng về gia đình nhắc nhở chúng ta về trách nhiệm đối với nhau. Nó là về việc nâng đỡ những người đã bị bỏ lại phía sau, trao quyền cho những người đã bị im lặng, và xây dựng các hệ thống hoạt động cho tất cả chúng ta. Dù đó là chiến đấu vì dịch vụ y tế toàn cầu, nhà ở giá cả phải chăng, hay công lý kinh tế, mỗi bước đi chúng ta cùng nhau đưa chúng ta đến gần hơn với một tương lai tươi sáng hơn.
 
-“We Are Family” isn’t just a slogan—it’s a call to action. It’s a reminder that we’re stronger when we stand together, that our shared humanity is more powerful than our differences, and that the future we want is one we must build as one.
+“Chúng Ta Là Gia Đình” không chỉ là một khẩu hiệu—nó là một lời kêu gọi hành động. Nó là một lời nhắc nhở rằng chúng ta mạnh mẽ hơn khi đứng bên nhau, rằng nhân tính chung của chúng ta mạnh mẽ hơn sự khác biệt của chúng ta, và rằng tương lai mà chúng ta mong muốn là một tương lai mà chúng ta phải xây dựng cùng nhau.
 
 ---
 
-**This is why I’m running: to fight for all of us, to stand by you like family, and to build a future where no one is left behind. Let’s create real change—together.**
+**Đó là lý do tại sao tôi ra tranh cử: để chiến đấu cho tất cả chúng ta, để đứng bên bạn như một gia đình, và để xây dựng một tương lai mà không ai bị bỏ lại phía sau. Hãy cùng nhau tạo ra sự thay đổi thực sự.**
