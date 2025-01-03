@@ -1,0 +1,85 @@
+<!-- begin header -->
+<header class="header">
+  <div class="container-big">
+    <div class="row">
+      <div class="header__inner col col-12">
+
+        <div class="logo">
+          <a class="logo__link" href="{{ site.baseurl }}/">
+          {% if site.data.settings.logo %}
+            <img class="logo__image" src="{{ site.data.settings.logo | relative_url }}" alt="{{ site.data.settings.title }}">
+            <img class="logo__image__dark" src="{{ site.data.settings.logo_dark | relative_url }}" alt="{{ site.data.settings.title }}">
+          {% else %}
+            {{ site.data.settings.title }}
+          {% endif %}
+          </a>
+        </div>
+
+        <div class="hamburger">
+          <div></div>
+        </div>
+
+        <nav class="main-nav" aria-label="Main menu">
+          <div class="main-nav__box">
+            <ul class="nav__list list-reset">
+
+              {% for item in site.data.settings.menu_settings.menu_items %}
+              {% if item.submenu %}
+              <li class="nav__item dropdown">
+                <a href="#" class="nav__link dropdown-toggle">{{ item.title }} <i class="fa-solid fa-chevron-down"></i></a>
+                <div class="dropdown-menu">
+                  {% for submenu-item in item.submenu %}
+                  <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                  {% endfor %}
+                </div>
+              </li>
+              {% else %}
+              <li class="nav__item">
+                <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{
+                  item.title }}</a>
+              </li>
+              {% endif %}
+              {% endfor %}
+
+            </ul>
+          </div>
+
+          <div class="nav-button">
+            <ul class="nav__list list-reset">
+              <li class="nav__item dropdown">
+                {% assign current_lang_code = site.languages.default %}
+                {% assign current_lang = site.languages.supported | where: "lang_code", current_lang_code | first %}
+              
+                <a href="#" class="nav__link dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-language" aria-hidden="true"></i>
+                  <i class="fa-solid fa-chevron-down"></i>
+                </a>
+                <div class="dropdown-menu" aria-label="Language options">
+                  {% for lang in site.languages.supported %}
+                    {% if lang.lang_code == "en" %}
+                      <a href="https://andrescastro.us{{ page.url | prepend: '/' | remove_first: '/' }}" class="nav__link{% if current_lang_code == lang.lang_code %} active-link{% endif %}">
+                        {{ lang.lang_name }}
+                      </a>
+                    {% else %}
+                      <a href="https://{{ lang.lang_code }}.andrescastro.us{{ page.url | prepend: '/' | remove_first: '/' }}" class="nav__link{% if current_lang_code == lang.lang_code %} active-link{% endif %}">
+                        {{ lang.lang_name }}
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+              </li>
+            </ul>    
+            <div class="search-button">
+              <i class="search-button__icon fa-solid fa-magnifying-glass"></i>
+              <span class="search-button__text">Search</span>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+  </div>
+</header>
+<!-- end header -->
+
+{% include search.html %}
