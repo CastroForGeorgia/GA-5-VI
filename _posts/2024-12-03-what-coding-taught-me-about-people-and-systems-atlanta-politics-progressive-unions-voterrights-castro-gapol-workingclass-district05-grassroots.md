@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What Coding Taught Me About People and Systems"
-description: "As an engineer, I don’t just see the lines of code—I try to understand the context: the deadlines, the culture, and the challenges of the person who wrote it. This perspective shapes how I tackle issues in society—with empathy, not blame, and a focus on fixing broken systems."
+title: "Những gì lập trình dạy tôi về con người và hệ thống"
+description: "Là một kỹ sư, tôi không chỉ nhìn thấy những dòng mã—tôi cố gắng hiểu bối cảnh: thời hạn, văn hóa và những thách thức của người đã viết nó. Quan điểm này định hình cách tôi giải quyết các vấn đề trong xã hội—với sự đồng cảm, không phải đổ lỗi, và tập trung vào việc sửa chữa những hệ thống hỏng hóc."
 date: 2024-12-03
 image: '/images/agi-header.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-coding-and-systems/
 ---
 
-When I first started coding, I thought it was all about writing perfect lines of logic—systems that worked exactly as intended with no bugs, no hiccups, and no errors. But as I gained more experience, I realized that coding isn’t just about the code. It’s about people—their ideas, their struggles, and the context in which the work is done.
+Khi tôi mới bắt đầu lập trình, tôi nghĩ rằng tất cả chỉ là viết những dòng logic hoàn hảo—những hệ thống hoạt động chính xác như mong muốn mà không có lỗi, không có trục trặc, và không có sai sót. Nhưng khi tôi có thêm kinh nghiệm, tôi nhận ra rằng lập trình không chỉ là về mã. Nó còn liên quan đến con người—những ý tưởng của họ, những khó khăn của họ, và bối cảnh mà công việc được thực hiện.
 
-As an engineer, I’ve learned to approach broken systems with empathy, not blame. I’ve learned that before you can fix anything, you have to understand why it’s broken—what pressures shaped it, what constraints existed, and what challenges the person before you was trying to solve. These lessons go far beyond coding; they shape how I approach problems in society, from economic inequality to systemic injustice.
+Là một kỹ sư, tôi đã học cách tiếp cận những hệ thống hỏng hóc với sự đồng cảm, không phải đổ lỗi. Tôi đã học rằng trước khi bạn có thể sửa chữa bất cứ điều gì, bạn phải hiểu tại sao nó lại hỏng—những áp lực nào đã hình thành nó, những rào cản nào đã tồn tại, và những thách thức mà người trước bạn đang cố gắng giải quyết. Những bài học này vượt xa lập trình; chúng định hình cách tôi tiếp cận các vấn đề trong xã hội, từ bất bình đẳng kinh tế đến bất công hệ thống.
 
-## The Story Behind the Code
+## Câu chuyện phía sau mã
 
-Every line of code tells a story. Sometimes it’s a story of tight deadlines, where shortcuts were taken to ship a product on time. Sometimes it’s a story of a team struggling with limited resources, doing their best to meet impossible expectations. And sometimes it’s a story of a person learning as they go, trying their hardest to solve a problem with the tools they have.
+Mỗi dòng mã đều kể một câu chuyện. Đôi khi đó là câu chuyện về những thời hạn gấp gáp, nơi mà những lối tắt đã được thực hiện để kịp giao sản phẩm đúng hạn. Đôi khi đó là câu chuyện của một đội ngũ vật lộn với nguồn lực hạn chế, cố gắng hết sức để đáp ứng những kỳ vọng không thể. Và đôi khi đó là câu chuyện của một người đang học hỏi trong quá trình làm việc, cố gắng hết sức để giải quyết một vấn đề với những công cụ họ có.
 
-When you inherit someone else’s code, it’s easy to criticize—to point out what’s wrong, what’s inefficient, and what doesn’t work. But real progress comes when you approach it with empathy. Why was it written this way? What challenges did they face? What can we learn from their approach, even if it wasn’t perfect?
+Khi bạn thừa kế mã của người khác, thật dễ dàng để chỉ trích—để chỉ ra những gì sai, những gì không hiệu quả, và những gì không hoạt động. Nhưng tiến bộ thực sự đến khi bạn tiếp cận nó với sự đồng cảm. Tại sao nó lại được viết theo cách này? Những thách thức nào họ đã phải đối mặt? Chúng ta có thể học được gì từ cách tiếp cận của họ, ngay cả khi nó không hoàn hảo?
 
-This mindset doesn’t just make you a better engineer—it makes you a better leader.
+Tư duy này không chỉ làm bạn trở thành một kỹ sư tốt hơn—nó còn làm bạn trở thành một nhà lãnh đạo tốt hơn.
 
-## Systems Reflect People
+## Hệ thống phản ánh con người
 
-What I’ve learned from coding is that systems—whether they’re technical, social, or economic—aren’t inherently broken. They reflect the people who built them, the constraints they faced, and the values they prioritized. When a system doesn’t work for everyone, it’s not because the people who built it were inherently bad. It’s because they were working within limitations, or they didn’t anticipate every outcome.
+Những gì tôi đã học được từ lập trình là các hệ thống—dù là kỹ thuật, xã hội, hay kinh tế—không phải là những thứ vốn đã hỏng. Chúng phản ánh những người đã xây dựng chúng, những rào cản họ đã phải đối mặt, và những giá trị họ đã ưu tiên. Khi một hệ thống không hoạt động cho tất cả mọi người, không phải vì những người đã xây dựng nó vốn đã xấu. Mà là vì họ đang làm việc trong những giới hạn, hoặc họ không lường trước được mọi kết quả.
 
-This perspective shapes how I tackle societal issues. Instead of placing blame, I ask questions: What created this outcome? Who benefits from the system as it is, and who’s being left behind? What changes can we make to ensure it serves everyone, not just a select few?
+Quan điểm này định hình cách tôi giải quyết các vấn đề xã hội. Thay vì đổ lỗi, tôi đặt ra câu hỏi: Điều gì đã tạo ra kết quả này? Ai được hưởng lợi từ hệ thống như hiện tại, và ai đang bị bỏ lại phía sau? Những thay đổi nào chúng ta có thể thực hiện để đảm bảo nó phục vụ cho tất cả mọi người, không chỉ một số ít?
 
-## Empathy Drives Solutions
+## Sự đồng cảm thúc đẩy giải pháp
 
-Approaching problems with empathy doesn’t mean excusing harm or ignoring injustices. It means understanding the root causes so you can create lasting solutions. It means recognizing that people—whether they’re writing code or making policies—are shaped by the systems they’re part of.
+Tiếp cận các vấn đề với sự đồng cảm không có nghĩa là tha thứ cho những tổn hại hoặc phớt lờ những bất công. Nó có nghĩa là hiểu rõ nguyên nhân gốc rễ để bạn có thể tạo ra những giải pháp lâu dài. Nó có nghĩa là nhận ra rằng con người—dù là họ đang viết mã hay xây dựng chính sách—đều bị ảnh hưởng bởi những hệ thống mà họ tham gia.
 
-For example, when we look at economic inequality, it’s easy to blame individuals for their circumstances. But if we dig deeper, we see a system that rewards the wealthy while punishing the poor, that makes it harder for working families to get ahead, and that perpetuates cycles of poverty. The solution isn’t to blame—it’s to rebuild the system.
+Ví dụ, khi chúng ta nhìn vào bất bình đẳng kinh tế, thật dễ dàng để đổ lỗi cho từng cá nhân về hoàn cảnh của họ. Nhưng nếu chúng ta đào sâu hơn, chúng ta sẽ thấy một hệ thống thưởng cho người giàu trong khi trừng phạt người nghèo, làm cho các gia đình lao động khó khăn hơn để tiến lên, và duy trì các chu kỳ nghèo đói. Giải pháp không phải là đổ lỗi—mà là xây dựng lại hệ thống.
 
-## Fixing Broken Systems
+## Sửa chữa những hệ thống hỏng
 
-As an engineer, I know that fixing a broken system takes time, patience, and collaboration. You don’t just patch the surface; you dig into the root cause and make changes that ensure the problem doesn’t happen again. The same is true for societal issues.
+Là một kỹ sư, tôi biết rằng việc sửa chữa một hệ thống hỏng cần thời gian, kiên nhẫn và sự hợp tác. Bạn không chỉ vá bề mặt; bạn phải đào sâu vào nguyên nhân gốc rễ và thực hiện những thay đổi đảm bảo rằng vấn đề không xảy ra lần nữa. Điều này cũng đúng với các vấn đề xã hội.
 
-Whether it’s healthcare, housing, or education, the systems we rely on were built by people—and they can be rebuilt by people. But it takes leadership that’s willing to ask tough questions, listen to the voices of those impacted, and create solutions that address the real problems.
+Dù là y tế, nhà ở, hay giáo dục, các hệ thống mà chúng ta dựa vào đều được xây dựng bởi con người—và chúng có thể được xây dựng lại bởi con người. Nhưng điều này cần sự lãnh đạo sẵn sàng đặt ra những câu hỏi khó, lắng nghe tiếng nói của những người bị ảnh hưởng, và tạo ra những giải pháp giải quyết các vấn đề thực sự.
 
-## The Power of Understanding
+## Sức mạnh của sự hiểu biết
 
-What coding has taught me is that every problem, no matter how complex, has a solution. But finding that solution requires understanding—of the people involved, the context in which the system was built, and the constraints that shaped it. It requires empathy, persistence, and a willingness to challenge the status quo.
+Những gì lập trình đã dạy tôi là mỗi vấn đề, dù phức tạp đến đâu, đều có một giải pháp. Nhưng việc tìm ra giải pháp đó đòi hỏi sự hiểu biết—về những người liên quan, bối cảnh mà hệ thống được xây dựng, và những rào cản đã hình thành nó. Nó đòi hỏi sự đồng cảm, sự kiên trì, và một sự sẵn sàng thách thức hiện trạng.
 
-This is the approach I bring to leadership: tackling issues not with blame, but with understanding; not with shortcuts, but with real, lasting solutions. It’s about fixing what’s broken and building systems that serve everyone.
+Đây là cách tiếp cận mà tôi mang đến cho lãnh đạo: giải quyết các vấn đề không phải bằng cách đổ lỗi, mà bằng sự hiểu biết; không phải bằng những lối tắt, mà bằng những giải pháp thực sự, lâu dài. Đó là về việc sửa chữa những gì đã hỏng và xây dựng những hệ thống phục vụ cho tất cả mọi người.
 
 ---
 
-**This is why I fight: to approach challenges with empathy, to rebuild broken systems, and to create a future where every person has the opportunity to thrive. Together, we can fix what’s broken—and build something better.**
+**Đây là lý do tại sao tôi chiến đấu: để tiếp cận những thách thức với sự đồng cảm, để xây dựng lại những hệ thống hỏng, và để tạo ra một tương lai mà mỗi người đều có cơ hội phát triển. Cùng nhau, chúng ta có thể sửa chữa những gì đã hỏng—và xây dựng một điều gì đó tốt đẹp hơn.**

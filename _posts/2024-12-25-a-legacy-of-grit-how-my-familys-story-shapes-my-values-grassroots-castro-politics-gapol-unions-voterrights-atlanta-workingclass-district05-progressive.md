@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Legacy of Grit: How My Family’s Story Shapes My Values"
-description: "My family’s Grit in the face of adversity taught me to never back down from a challenge. It’s this legacy that drives my commitment to fighting for justice, equity, and opportunity for all."
+title: "Di sản của sự kiên cường: Câu chuyện gia đình tôi định hình giá trị của tôi"
+description: "Sự kiên cường của gia đình tôi trước nghịch cảnh đã dạy tôi không bao giờ lùi bước trước thử thách. Chính di sản này thúc đẩy cam kết của tôi trong việc đấu tranh cho công lý, bình đẳng và cơ hội cho tất cả mọi người."
 date: 2024-12-25
 image: '/images/immigration-policy-header.webp'
 
@@ -9,49 +9,49 @@ redirect_from:
   - /2025-01-01-legacy-of-grit/
 ---
 
-Grit isn’t something you’re born with—it’s something you learn through experience, through struggle, and through the examples of the people who come before you. For me, that example was my family. Their grit in the face of adversity shaped not only who I am but also the values I carry with me every day. 
+Sự kiên cường không phải là điều bạn sinh ra đã có—đó là điều bạn học được qua trải nghiệm, qua những khó khăn, và qua những tấm gương của những người đi trước bạn. Đối với tôi, tấm gương đó chính là gia đình tôi. Sự kiên cường của họ trước nghịch cảnh không chỉ định hình con người tôi mà còn cả những giá trị tôi mang theo mỗi ngày.
 
-Their Grit taught me to never back down from a challenge and to always fight for what’s right, no matter how steep the climb. It’s this legacy that drives my commitment to fighting for justice, equity, and opportunity for all.
+Sự kiên cường của họ đã dạy tôi không bao giờ lùi bước trước thử thách và luôn đấu tranh cho những điều đúng đắn, bất kể con đường có gian nan đến đâu. Chính di sản này đã thúc đẩy cam kết của tôi trong việc đấu tranh cho công lý, bình đẳng và cơ hội cho tất cả mọi người.
 
-## Lessons of Grit From My Mother
+## Bài học về sự kiên cường từ mẹ tôi
 
-My mother’s story is the cornerstone of my family’s legacy of grit. As an immigrant, she worked tirelessly to build a better life for her children. Balancing multiple jobs, navigating a system that wasn’t built for people like her, and sacrificing so much along the way, she showed me the power of determination.
+Câu chuyện của mẹ tôi là nền tảng của di sản kiên cường trong gia đình tôi. Là một người nhập cư, bà đã làm việc không mệt mỏi để xây dựng một cuộc sống tốt đẹp hơn cho các con. Cân bằng giữa nhiều công việc, điều hướng một hệ thống không dành cho những người như bà, và hy sinh rất nhiều trên con đường đó, bà đã cho tôi thấy sức mạnh của sự quyết tâm.
 
-Her journey to citizenship through the Reagan-era Amnesty program wasn’t just a milestone for her—it was a turning point for our family. It gave us stability, opportunity, and the chance to dream bigger. Her strength in the face of struggle taught me the value of perseverance and the importance of creating systems that offer everyone a fair shot.
+Hành trình trở thành công dân của bà thông qua chương trình ân xá thời Reagan không chỉ là một cột mốc đối với bà—nó còn là một bước ngoặt cho gia đình chúng tôi. Nó đã mang lại cho chúng tôi sự ổn định, cơ hội, và cơ hội để mơ ước lớn hơn. Sức mạnh của bà trước những khó khăn đã dạy tôi giá trị của sự kiên trì và tầm quan trọng của việc tạo ra các hệ thống mang lại cơ hội công bằng cho mọi người.
 
-## Watching My Sister’s Struggle
+## Quan sát cuộc đấu tranh của chị gái tôi
 
-Another profound influence on my understanding of Grit came from watching my sister navigate life as a teen mom. At just 17, she faced challenges that could have overwhelmed anyone. Balancing school, work, and raising my niece, she showed me what it means to rise to the occasion, even when the odds are stacked against you.
+Một ảnh hưởng sâu sắc khác đến sự hiểu biết của tôi về sự kiên cường đến từ việc quan sát chị gái tôi điều hướng cuộc sống như một bà mẹ tuổi teen. Chỉ mới 17 tuổi, chị đã phải đối mặt với những thử thách có thể khiến bất kỳ ai cũng phải choáng ngợp. Cân bằng giữa việc học, làm việc và nuôi dưỡng cháu gái, chị đã cho tôi thấy ý nghĩa của việc vươn lên trong hoàn cảnh khó khăn, ngay cả khi mọi thứ chống lại bạn.
 
-Her experience also opened my eyes to the systemic barriers young mothers face—the lack of affordable childcare, limited access to education, and the judgment from a society that too often offers criticism instead of support. Her Grit inspired me to fight for policies that uplift families and ensure that no one has to face these challenges alone.
+Kinh nghiệm của chị cũng mở mắt tôi về những rào cản hệ thống mà các bà mẹ trẻ phải đối mặt—thiếu hụt dịch vụ chăm sóc trẻ em giá cả phải chăng, hạn chế trong việc tiếp cận giáo dục, và sự phán xét từ một xã hội thường xuyên chỉ đưa ra chỉ trích thay vì hỗ trợ. Sự kiên cường của chị đã truyền cảm hứng cho tôi đấu tranh cho các chính sách nâng đỡ các gia đình và đảm bảo rằng không ai phải đối mặt với những thử thách này một mình.
 
-## The Grit of Everyday People
+## Sự kiên cường của những người bình thường
 
-What I’ve learned from my family’s story is that grit isn’t unique to us—it’s a quality shared by millions of families across this country. It’s the single mother working overtime to provide for her kids. It’s the immigrant striving for a better future despite countless obstacles. It’s the student juggling work and school to create a path forward.
+Những gì tôi học được từ câu chuyện của gia đình mình là sự kiên cường không chỉ thuộc về chúng tôi—đó là một phẩm chất được chia sẻ bởi hàng triệu gia đình trên khắp đất nước này. Đó là người mẹ đơn thân làm việc thêm giờ để nuôi sống con cái. Đó là người nhập cư cố gắng vì một tương lai tốt đẹp hơn mặc cho vô vàn trở ngại. Đó là sinh viên vừa học vừa làm để tạo dựng một con đường phía trước.
 
-This grit is what drives our communities, but it’s not enough on its own. People shouldn’t have to rely solely on Grit to get by. That’s why I’m committed to building systems that don’t just reward grit but actively support it—systems that provide opportunity, stability, and fairness for everyone.
+Chính sự kiên cường này thúc đẩy các cộng đồng của chúng ta, nhưng nó không đủ chỉ một mình. Con người không nên chỉ dựa vào sự kiên cường để sống sót. Đó là lý do tại sao tôi cam kết xây dựng các hệ thống không chỉ thưởng cho sự kiên cường mà còn hỗ trợ nó một cách chủ động—những hệ thống cung cấp cơ hội, sự ổn định, và công bằng cho mọi người.
 
-## Fighting for Justice and Equity
+## Đấu tranh cho công lý và bình đẳng
 
-My family’s legacy of grit is the foundation of my commitment to justice and equity. It’s why I fight for:
+Di sản kiên cường của gia đình tôi là nền tảng cho cam kết của tôi đối với công lý và bình đẳng. Đó là lý do tôi đấu tranh cho:
 
-- **Affordable Housing**: Ensuring every family has a safe and stable place to call home.  
-- **Universal Healthcare**: Guaranteeing access to quality care for everyone, regardless of income.  
-- **Equitable Education**: Providing resources and opportunities that empower all students, no matter their background.  
-- **Economic Justice**: Closing wage gaps, creating fair job opportunities, and supporting working families.  
+- **Nhà ở giá cả phải chăng**: Đảm bảo mỗi gia đình có một nơi an toàn và ổn định để gọi là nhà.  
+- **Chăm sóc sức khỏe toàn dân**: Đảm bảo quyền tiếp cận dịch vụ chăm sóc chất lượng cho mọi người, bất kể thu nhập.  
+- **Giáo dục công bằng**: Cung cấp tài nguyên và cơ hội giúp tất cả học sinh, bất kể hoàn cảnh của họ, có thể phát triển.  
+- **Công lý kinh tế**: Thu hẹp khoảng cách lương, tạo ra cơ hội việc làm công bằng, và hỗ trợ các gia đình đang làm việc.  
 
-These policies aren’t just abstract goals—they’re solutions rooted in the struggles I’ve seen and the values I hold dear.
+Những chính sách này không chỉ là những mục tiêu trừu tượng—chúng là những giải pháp được xây dựng từ những khó khăn tôi đã chứng kiến và những giá trị tôi trân trọng.
 
-## A Legacy That Drives Action
+## Một di sản thúc đẩy hành động
 
-The grit my family showed in overcoming adversity isn’t just a source of pride—it’s a call to action. It reminds me that while Grit is admirable, it shouldn’t be a requirement for survival. Everyone deserves a fair chance, and it’s the responsibility of leaders to create the systems that make that possible.
+Sự kiên cường mà gia đình tôi thể hiện trong việc vượt qua nghịch cảnh không chỉ là nguồn tự hào—nó là một lời kêu gọi hành động. Nó nhắc nhở tôi rằng trong khi sự kiên cường là đáng quý, nó không nên là điều kiện cần thiết để sống sót. Mọi người đều xứng đáng có một cơ hội công bằng, và trách nhiệm của các nhà lãnh đạo là tạo ra những hệ thống giúp điều đó trở nên khả thi.
 
-My leadership is built on this legacy: a deep understanding of the struggles families face, a commitment to addressing systemic barriers, and a determination to fight for justice and equity every step of the way.
+Lãnh đạo của tôi được xây dựng trên di sản này: một sự hiểu biết sâu sắc về những khó khăn mà các gia đình phải đối mặt, một cam kết giải quyết các rào cản hệ thống, và một quyết tâm đấu tranh cho công lý và bình đẳng trong từng bước đi.
 
-## Why It Matters
+## Tại sao điều này quan trọng
 
-Grit is what gets us through hard times, but it shouldn’t be the only thing people can rely on. My family’s story is proof of what’s possible when Grit meets opportunity. It’s a reminder of the power of determination, but also of the need for leaders who fight to make opportunity accessible to everyone.
+Sự kiên cường là điều giúp chúng ta vượt qua những thời điểm khó khăn, nhưng nó không nên là điều duy nhất mà mọi người có thể dựa vào. Câu chuyện của gia đình tôi là minh chứng cho những gì có thể xảy ra khi sự kiên cường gặp cơ hội. Nó nhắc nhở về sức mạnh của sự quyết tâm, nhưng cũng về nhu cầu có những nhà lãnh đạo đấu tranh để làm cho cơ hội trở nên dễ tiếp cận với mọi người.
 
 ---
 
-**This is why I fight: to honor the legacy of grit that shaped me, to create systems that uplift every family, and to ensure that justice, equity, and opportunity are within reach for all. Together, we can build a future that reflects the strength of our shared Grit.**
+**Đó là lý do tôi đấu tranh: để tôn vinh di sản kiên cường đã định hình tôi, để tạo ra những hệ thống nâng đỡ mọi gia đình, và để đảm bảo rằng công lý, bình đẳng, và cơ hội đều nằm trong tầm tay của tất cả mọi người. Cùng nhau, chúng ta có thể xây dựng một tương lai phản ánh sức mạnh của sự kiên cường chung của chúng ta.**

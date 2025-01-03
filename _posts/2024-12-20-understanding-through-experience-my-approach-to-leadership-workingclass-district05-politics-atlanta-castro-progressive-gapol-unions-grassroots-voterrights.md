@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Understanding Through Experience: My Approach to Leadership"
-description: "Whether in my engineering career or community advocacy, I’ve learned that true understanding comes from lived experience. I approach leadership with a focus on listening, learning, and finding solutions that address real-world struggles."
+title: "Hiểu Biết Qua Kinh Nghiệm: Cách Tiếp Cận Lãnh Đạo Của Tôi"
+description: "Dù trong sự nghiệp kỹ thuật hay hoạt động cộng đồng, tôi đã học được rằng sự hiểu biết thực sự đến từ những trải nghiệm sống. Tôi tiếp cận lãnh đạo với sự chú trọng vào việc lắng nghe, học hỏi và tìm kiếm giải pháp giải quyết những khó khăn trong cuộc sống thực."
 date: 2024-12-20
 image: '/images/open-government-header.webp'
 
@@ -9,49 +9,49 @@ redirect_from:
   - /2025-01-01-understanding-through-experience/
 ---
 
-Leadership isn’t about knowing everything—it’s about understanding the struggles of the people you serve and finding ways to make their lives better. Whether in my engineering career or my work as a community advocate, I’ve learned that true understanding comes from experience: listening to people’s stories, learning from their challenges, and addressing the systems that shape their lives.
+Lãnh đạo không phải là biết mọi thứ—mà là hiểu những khó khăn của những người mà bạn phục vụ và tìm cách cải thiện cuộc sống của họ. Dù trong sự nghiệp kỹ thuật hay công việc của tôi với tư cách là một người vận động cộng đồng, tôi đã học được rằng sự hiểu biết thực sự đến từ kinh nghiệm: lắng nghe câu chuyện của mọi người, học hỏi từ những thách thức của họ và giải quyết các hệ thống định hình cuộc sống của họ.
 
-My approach to leadership is rooted in this belief. It’s about listening first, learning always, and crafting solutions that meet the needs of real people.
+Cách tiếp cận lãnh đạo của tôi được xây dựng trên niềm tin này. Đó là lắng nghe trước tiên, luôn luôn học hỏi và tạo ra những giải pháp đáp ứng nhu cầu của những người thực sự.
 
-## Understanding Through Lived Experience
+## Hiểu Biết Qua Kinh Nghiệm Sống
 
-Growing up in a working-class family, I saw firsthand how hard it was to make ends meet. I watched my mother juggle multiple jobs, my sister struggle as a teen mom, and my own family navigate a system that often felt stacked against us. These experiences shaped my understanding of the challenges working families face and instilled in me a deep empathy for others going through the same struggles.
+Lớn lên trong một gia đình công nhân, tôi đã thấy rõ ràng việc kiếm sống khó khăn như thế nào. Tôi đã chứng kiến mẹ tôi phải làm nhiều công việc, chị gái tôi vật lộn với vai trò làm mẹ ở tuổi teen, và gia đình tôi phải điều hướng một hệ thống mà thường cảm thấy như đang chống lại chúng tôi. Những trải nghiệm này đã hình thành sự hiểu biết của tôi về những thách thức mà các gia đình lao động phải đối mặt và nuôi dưỡng trong tôi một lòng đồng cảm sâu sắc với những người khác cũng đang trải qua những khó khăn tương tự.
 
-This understanding is what drives me to fight for affordable housing, universal healthcare, and equitable education. It’s not just policy to me—it’s personal. I know the stakes because I’ve lived them.
+Sự hiểu biết này là động lực thúc đẩy tôi chiến đấu cho nhà ở giá cả phải chăng, chăm sóc sức khỏe toàn cầu và giáo dục công bằng. Đối với tôi, đó không chỉ là chính sách—mà là điều cá nhân. Tôi hiểu rõ những gì đang bị đe dọa vì tôi đã sống trong hoàn cảnh đó.
 
-## Lessons From My Career in Engineering
+## Bài Học Từ Sự Nghiệp Kỹ Thuật Của Tôi
 
-In my engineering career, I learned that solutions are only as good as the understanding behind them. Designing a system that works requires asking the right questions, listening to feedback, and addressing the root causes of the problem. It’s not enough to apply a quick fix—you need to create something sustainable, something that works for the people using it.
+Trong sự nghiệp kỹ thuật của mình, tôi đã học được rằng các giải pháp chỉ tốt khi có sự hiểu biết đứng sau chúng. Thiết kế một hệ thống hoạt động đòi hỏi phải đặt ra những câu hỏi đúng, lắng nghe phản hồi và giải quyết nguyên nhân gốc rễ của vấn đề. Chỉ áp dụng một giải pháp tạm thời là không đủ—bạn cần tạo ra điều gì đó bền vững, điều gì đó thực sự có ích cho những người sử dụng nó.
 
-This mindset has shaped my approach to leadership. Whether it’s tackling systemic inequality or improving access to public resources, I prioritize understanding the context, listening to those most affected, and building solutions that last.
+Tư duy này đã hình thành cách tiếp cận lãnh đạo của tôi. Dù là giải quyết bất bình đẳng hệ thống hay cải thiện quyền tiếp cận tài nguyên công, tôi ưu tiên việc hiểu bối cảnh, lắng nghe những người bị ảnh hưởng nhất và xây dựng những giải pháp lâu dài.
 
-## Leadership Through Listening
+## Lãnh Đạo Qua Việc Lắng Nghe
 
-One of the most important lessons I’ve learned is the power of listening. True leadership starts by hearing people’s stories—understanding their struggles, hopes, and needs. When you take the time to listen, you gain the insight needed to create meaningful change.
+Một trong những bài học quan trọng nhất mà tôi đã học được là sức mạnh của việc lắng nghe. Lãnh đạo thực sự bắt đầu bằng việc nghe câu chuyện của mọi người—hiểu những khó khăn, hy vọng và nhu cầu của họ. Khi bạn dành thời gian để lắng nghe, bạn sẽ có được cái nhìn sâu sắc cần thiết để tạo ra sự thay đổi có ý nghĩa.
 
-In my work, this means engaging directly with the people impacted by policies, holding open forums, and fostering an ongoing dialogue. Leadership isn’t about making decisions in isolation—it’s about working together to find the best path forward.
+Trong công việc của tôi, điều này có nghĩa là tham gia trực tiếp với những người bị ảnh hưởng bởi các chính sách, tổ chức các diễn đàn mở và thúc đẩy một cuộc đối thoại liên tục. Lãnh đạo không phải là đưa ra quyết định trong sự cô lập—mà là làm việc cùng nhau để tìm ra con đường tốt nhất phía trước.
 
-## Addressing Real-World Struggles
+## Giải Quyết Những Khó Khăn Trong Cuộc Sống
 
-Understanding isn’t just about listening—it’s about action. The insights gained through lived experience and community engagement must lead to solutions that address real-world struggles. This is why I focus on policies that tackle the root causes of inequality and create pathways for opportunity:
+Sự hiểu biết không chỉ là lắng nghe—mà còn là hành động. Những hiểu biết thu được từ trải nghiệm sống và sự tham gia của cộng đồng phải dẫn đến những giải pháp giải quyết những khó khăn trong cuộc sống thực. Đó là lý do tại sao tôi tập trung vào các chính sách giải quyết nguyên nhân gốc rễ của bất bình đẳng và tạo ra các con đường cho cơ hội:
 
-- **Affordable Housing**: Ensuring every family has a stable, safe place to call home.  
-- **Universal Healthcare**: Guaranteeing access to quality care for everyone, regardless of income.  
-- **Economic Equity**: Closing wage gaps, expanding job opportunities, and supporting working families.  
-- **Educational Access**: Providing resources that empower students and families to succeed.  
+- **Nhà Ở Giá Cả Phải Chăng**: Đảm bảo mỗi gia đình có một nơi ở ổn định và an toàn.  
+- **Chăm Sóc Sức Khỏe Toàn Cầu**: Đảm bảo quyền tiếp cận chăm sóc chất lượng cho mọi người, bất kể thu nhập.  
+- **Công Bằng Kinh Tế**: Thu hẹp khoảng cách lương, mở rộng cơ hội việc làm và hỗ trợ các gia đình lao động.  
+- **Quyền Tiếp Cận Giáo Dục**: Cung cấp tài nguyên giúp sinh viên và gia đình thành công.  
 
-Each of these solutions is informed by the experiences of the people they’re meant to serve.
+Mỗi giải pháp này được thông tin bởi những trải nghiệm của những người mà chúng phục vụ.
 
-## Building Systems That Work for Everyone
+## Xây Dựng Các Hệ Thống Hoạt Động Cho Tất Cả Mọi Người
 
-My approach to leadership is grounded in the belief that systems should work for everyone, not just the privileged few. Too often, the people who design policies are disconnected from the realities of the people affected by them. My goal is to bridge that gap—to bring lived experience into the decision-making process and ensure that policies reflect the needs of real people.
+Cách tiếp cận lãnh đạo của tôi dựa trên niềm tin rằng các hệ thống nên hoạt động cho tất cả mọi người, không chỉ cho một số ít người có đặc quyền. Quá thường xuyên, những người thiết kế chính sách lại không gắn bó với thực tế của những người bị ảnh hưởng bởi chúng. Mục tiêu của tôi là thu hẹp khoảng cách đó—đưa kinh nghiệm sống vào quá trình ra quyết định và đảm bảo rằng các chính sách phản ánh nhu cầu của những người thực sự.
 
-Whether through my technical expertise or my advocacy, I’ve seen how understanding systems—and the people within them—can lead to better outcomes. It’s this blend of empathy, expertise, and action that defines my leadership.
+Dù thông qua chuyên môn kỹ thuật hay hoạt động của tôi, tôi đã thấy cách mà việc hiểu các hệ thống—và những người trong đó—có thể dẫn đến kết quả tốt hơn. Chính sự kết hợp giữa lòng đồng cảm, chuyên môn và hành động đã định hình phong cách lãnh đạo của tôi.
 
-## Why Understanding Matters
+## Tại Sao Sự Hiểu Biết Quan Trọng
 
-Understanding is the foundation of effective leadership. Without it, policies fail to address the real needs of the people. But when leaders take the time to listen, to learn, and to act with purpose, they can create systems that uplift everyone.
+Sự hiểu biết là nền tảng của lãnh đạo hiệu quả. Nếu không có nó, các chính sách sẽ không giải quyết được những nhu cầu thực sự của người dân. Nhưng khi các nhà lãnh đạo dành thời gian để lắng nghe, học hỏi và hành động có mục đích, họ có thể tạo ra các hệ thống nâng đỡ tất cả mọi người.
 
 ---
 
-**This is why I fight: to lead with understanding, to listen and learn from real experiences, and to create solutions that address the struggles of everyday people. Together, we can build a future where leadership reflects the needs of all.**
+**Đó là lý do tại sao tôi chiến đấu: để lãnh đạo với sự hiểu biết, để lắng nghe và học hỏi từ những trải nghiệm thực tế, và để tạo ra những giải pháp giải quyết những khó khăn của những người dân thường. Cùng nhau, chúng ta có thể xây dựng một tương lai mà lãnh đạo phản ánh nhu cầu của tất cả mọi người.**

@@ -1,117 +1,117 @@
 ---
 layout: post
-title: "The End of Legacy Democrats: A Call for Bold, People-Powered Leadership"
-description: "To build a stronger, more progressive future, the Democratic Party must move beyond legacy politics and prioritize people-driven leadership, equity, and bold reform."
+title: "Kết Thúc Thời Kỳ Chính Trị Di Sản: Lời Kêu Gọi Lãnh Đạo Mạnh Mẽ, Hướng Về Nhân Dân"
+description: "Để xây dựng một tương lai mạnh mẽ và tiến bộ hơn, Đảng Dân Chủ cần vượt qua chính trị di sản và ưu tiên lãnh đạo dựa trên con người, công bằng và cải cách táo bạo."
 date: 2024-12-26
 image: '/images/party_reform.jpeg'
-categories: [Politics, Reform, Progressivism]
+categories: [Chính trị, Cải cách, Chủ nghĩa tiến bộ]
 
 redirect_from:
   - /2024-12-01-the-end-of-legacy-democrats/
 ---
 
-The Democratic Party stands at a crossroads. To truly serve the people and tackle the urgent crises of our time, we must confront uncomfortable truths: outdated leadership, legacy-driven politics, and a system that has too often prioritized political inertia over bold, people-powered change.  
+Đảng Dân Chủ đang đứng trước một ngã rẽ. Để thực sự phục vụ nhân dân và giải quyết những khủng hoảng cấp bách của thời đại, chúng ta phải đối mặt với những sự thật khó chịu: lãnh đạo lỗi thời, chính trị di sản, và một hệ thống thường ưu tiên sự trì trệ chính trị hơn là những thay đổi mạnh mẽ, hướng về con người.
 
-The time has come for the Democratic Party to embrace transformative reforms—reforms that center **equity, working-class leadership, and progress**. We must build a party that **listens to its base**, **rejects corporate influence**, and fights relentlessly for everyday people.
-
----
-
-## What Are Legacy Democrats?  
-
-Legacy Democrats can be defined in two ways:  
-
-1. **Nostalgic Leadership**: Leaders who cling to outdated policies and political instincts, believing solutions from decades past are enough to address today’s systemic crises.  
-2. **Personal Legacy Over Progress**: Leaders whose tenure, while marked by early achievements, has led to stagnation because they are unable or unwilling to step aside for a new generation of leaders.  
-
-This is not about erasing the legacies of dedicated public servants but about **learning from them**. Figures like Dianne Feinstein, Ruth Bader Ginsburg, Bernie Sanders, and Nancy Pelosi broke barriers and achieved tremendous progress, laying the foundation for many of the rights and protections we hold dear today. Their courage, resilience, and unwavering commitment to justice will always be celebrated.  
-
-However, **their hesitation to pass the torch** left us waiting—often at critical moments—navigating political disarray, uncertainty, and missed opportunities to build upon their legacies. By holding on too long, they unintentionally delayed the emergence of new leadership ready to address the challenges of today with fresh energy and urgency.  
-
-To honor their work, we must not cling to them as irreplaceable but instead recognize that true leadership means **knowing when to step aside** to make room for those who will carry the movement forward. It is not an act of dismissal but one of trust—trust in the next generation to build on their achievements and forge a path toward an even stronger, more progressive future.  
-
-The Democratic Party cannot thrive if we cling to the past while neglecting the **needs of the future**.  
+Thời điểm đã đến để Đảng Dân Chủ chấp nhận những cải cách mang tính chuyển mình—những cải cách tập trung vào **công bằng, lãnh đạo từ tầng lớp lao động, và tiến bộ**. Chúng ta phải xây dựng một đảng mà **lắng nghe cơ sở của mình**, **từ chối ảnh hưởng của các tập đoàn**, và chiến đấu không ngừng vì những người dân bình thường.
 
 ---
 
-## Reimagining the Democratic Party: Bold Reforms for Progress  
+## Các Chính Trị Gia Di Sản Là Ai?  
 
-Here’s what we must do to build a party that works for the people and lives up to its promise of justice, equity, and transformative leadership:  
+Các chính trị gia di sản có thể được định nghĩa theo hai cách:  
 
----
+1. **Lãnh đạo hoài niệm**: Những nhà lãnh đạo bám víu vào các chính sách và bản năng chính trị lỗi thời, tin rằng những giải pháp từ nhiều thập kỷ trước là đủ để giải quyết những khủng hoảng hệ thống ngày nay.  
+2. **Di sản cá nhân hơn là tiến bộ**: Những nhà lãnh đạo có thời gian cầm quyền, mặc dù đã đạt được những thành tựu ban đầu, nhưng đã dẫn đến sự trì trệ vì họ không thể hoặc không muốn nhường chỗ cho một thế hệ lãnh đạo mới.  
 
-### 1. **Age Limits and Leadership Transition**  
-Leadership requires both **wisdom and energy**. By aligning candidacy with the **Social Security retirement age**, we create a natural transition that balances experience with new, forward-thinking leadership.  
+Điều này không phải là xóa bỏ những di sản của các công bộc tận tâm mà là **học hỏi từ họ**. Những nhân vật như Dianne Feinstein, Ruth Bader Ginsburg, Bernie Sanders, và Nancy Pelosi đã phá vỡ rào cản và đạt được những tiến bộ to lớn, đặt nền tảng cho nhiều quyền lợi và bảo vệ mà chúng ta trân trọng ngày nay. Sự dũng cảm, kiên cường, và cam kết không ngừng nghỉ của họ đối với công lý sẽ luôn được tôn vinh.
 
-- Leaders over the retirement age should still be celebrated contributors through **advisory roles, mentorship, and policy guidance** outside of elected office.  
-- This reform ensures stability and prevents sudden vacancies while preparing the next generation of progressive leaders to carry the torch.  
+Tuy nhiên, **sự do dự của họ trong việc truyền lại ngọn đuốc** đã khiến chúng ta phải chờ đợi—thường là vào những thời điểm quan trọng—đi qua sự hỗn loạn chính trị, sự không chắc chắn, và những cơ hội bị bỏ lỡ để xây dựng trên những di sản của họ. Bằng cách bám víu quá lâu, họ đã vô tình trì hoãn sự xuất hiện của những lãnh đạo mới sẵn sàng đối mặt với những thách thức của hôm nay với năng lượng và sự khẩn trương mới.
 
-We must foster a political culture where leaders embrace the role of **builders for the future**, not gatekeepers of the past.  
+Để tôn vinh công việc của họ, chúng ta không nên bám víu vào họ như những người không thể thay thế mà thay vào đó, nhận ra rằng lãnh đạo thực sự có nghĩa là **biết khi nào nên nhường chỗ** cho những người sẽ tiếp tục đưa phong trào tiến về phía trước. Đây không phải là một hành động bác bỏ mà là một hành động tin tưởng—tin tưởng vào thế hệ tiếp theo để xây dựng trên những thành tựu của họ và mở ra một con đường hướng tới một tương lai mạnh mẽ và tiến bộ hơn.
 
----
-
-### 2. **End Billionaire-Funded Super PACs**  
-Democracy cannot belong to billionaires. Super PACs funded by the wealthiest individuals distort democracy, leaving working families and grassroots voices in the shadows.  
-
-- We must champion **bold campaign finance reforms** to reduce the role of big money in politics.  
-- Real democracy means funding campaigns through **small-dollar donations and people-powered fundraising** that reflect the will of the people—not the wealth of the few.
-
-It’s time to close the door on billionaire-backed influence and open it to **grassroots movements**.
+Đảng Dân Chủ không thể phát triển nếu chúng ta bám víu vào quá khứ trong khi bỏ qua **nhu cầu của tương lai**.
 
 ---
 
-### 3. **Term Limits for Leadership and Committees**  
-Entrenched leadership stifles progress. Establishing **term limits for congressional leadership roles and committee chairs** ensures new voices, fresh ideas, and evolving strategies have a platform.  
+## Tái Tưởng Tượng Đảng Dân Chủ: Những Cải Cách Mạnh Mẽ Để Tiến Bộ  
 
-- Term limits prevent stagnation, create accountability, and allow leaders to serve with a sense of **urgency and purpose**.  
-- New leadership pathways empower underrepresented voices, bringing diverse perspectives into decision-making spaces.  
+Dưới đây là những gì chúng ta cần làm để xây dựng một đảng làm việc vì nhân dân và sống đúng với lời hứa về công lý, công bằng, và lãnh đạo chuyển mình:  
 
 ---
 
-### 4. **Prioritize Grassroots, Working-Class Leadership**  
-The Democratic Party must be led by those who understand the struggles of everyday people because they **live them**.  
+### 1. **Giới Hạn Tuổi Tác và Chuyển Giao Lãnh Đạo**  
+Lãnh đạo cần cả **sự khôn ngoan và năng lượng**. Bằng cách liên kết ứng cử với **tuổi nghỉ hưu của An sinh xã hội**, chúng ta tạo ra một sự chuyển giao tự nhiên cân bằng giữa kinh nghiệm và lãnh đạo mới, tư duy tiến bộ.
 
-- Actively recruit and uplift candidates from **working-class backgrounds**, including educators, healthcare workers, service workers, and community organizers.  
-- Offer **financial and structural support** to grassroots candidates to challenge wealthy, corporate-backed opponents.  
+- Những lãnh đạo trên tuổi nghỉ hưu vẫn nên được tôn vinh như những người đóng góp qua **vai trò cố vấn, hướng dẫn, và chỉ đạo chính sách** bên ngoài chức vụ được bầu.  
+- Cải cách này đảm bảo sự ổn định và ngăn chặn những khoảng trống đột ngột trong khi chuẩn bị cho thế hệ lãnh đạo tiến bộ tiếp theo để tiếp tục công việc.
 
-The party must reflect the **diversity, energy, and resolve** of the people it claims to serve. A Congress filled with nurses, union leaders, and educators will fight harder for working families than one dominated by millionaires.
-
----
-
-### 5. **A Party That Reflects Its Base**  
-The Democratic Party must stand for something bigger than any single leader, election, or political calculation.  
-
-- **Build coalitions** that listen to grassroots movements and amplify the voices of labor, youth organizers, and marginalized communities.  
-- **Champion bold policies** like Medicare for All, the Green New Deal, workers’ rights, and affordable housing—not because they’re politically safe but because they’re morally urgent.  
-- **End the “electability” myth** that prioritizes political centrism over real solutions. Our base wants bold leadership, not watered-down promises.  
-
-The Democratic Party thrives when it is powered by the **collective energy** of movements demanding justice, equity, and a better future for all.  
+Chúng ta phải nuôi dưỡng một văn hóa chính trị mà ở đó, các lãnh đạo chấp nhận vai trò là **những người xây dựng cho tương lai**, không phải là những người giữ cửa cho quá khứ.
 
 ---
 
-## A Movement Bigger Than Any One Leader  
+### 2. **Chấm Dứt Các Siêu PAC Được Tài Trợ Bởi Tỷ Phú**  
+Dân chủ không thể thuộc về các tỷ phú. Các Siêu PAC được tài trợ bởi những cá nhân giàu có nhất làm biến dạng nền dân chủ, để lại các gia đình lao động và tiếng nói từ cơ sở trong bóng tối.
 
-The strength of our movement lies in its people. While legacy-driven politics clings to power, people-driven leadership builds pathways for **renewal, progress, and solidarity**.  
+- Chúng ta phải ủng hộ **các cải cách tài chính chiến dịch mạnh mẽ** để giảm vai trò của tiền lớn trong chính trị.  
+- Dân chủ thực sự có nghĩa là tài trợ cho các chiến dịch thông qua **các khoản đóng góp nhỏ và quyên góp từ nhân dân** phản ánh ý chí của nhân dân—chứ không phải sự giàu có của một số ít.
 
-We must honor past leaders not by replicating their tenure but by carrying forward their vision with **new energy, new ideas, and new leadership** that meets the challenges of today.  
-
-- A party that values its **future over its past** will earn trust.  
-- A party that **prioritizes people over corporations** will inspire movements.  
-- A party that fights boldly for **working-class families** will deliver real change.  
+Đã đến lúc đóng cửa đối với ảnh hưởng của các tỷ phú và mở cửa cho **các phong trào từ cơ sở**.
 
 ---
 
-## **The Future of the Democratic Party Starts with Us**  
+### 3. **Giới Hạn Thời Gian Đối Với Lãnh Đạo và Các Ủy Ban**  
+Lãnh đạo bám víu vào quyền lực làm tắc nghẽn sự tiến bộ. Việc thiết lập **giới hạn thời gian cho các vai trò lãnh đạo quốc hội và chủ tịch ủy ban** đảm bảo rằng những tiếng nói mới, ý tưởng mới, và các chiến lược đang phát triển có một nền tảng.
 
-This is more than a call for reform—it’s a call to **restore faith in democracy itself**. It’s a call to create a party that stands with workers, champions justice, and renews itself to meet the moment.  
-
-We are not defined by legacy. We are defined by our vision for the future.  
-
-The time for bold leadership is now. The time to build a **Democratic Party for the people, by the people** is here.  
+- Giới hạn thời gian ngăn chặn sự trì trệ, tạo ra trách nhiệm, và cho phép các lãnh đạo phục vụ với một cảm giác **khẩn trương và mục đích**.  
+- Các con đường lãnh đạo mới trao quyền cho những tiếng nói chưa được đại diện, mang đến những quan điểm đa dạng vào các không gian ra quyết định.
 
 ---
 
-## Join the Movement for Bold, People-First Change  
+### 4. **Ưu Tiên Lãnh Đạo Từ Cơ Sở, Tầng Lớp Lao Động**  
+Đảng Dân Chủ phải được lãnh đạo bởi những người hiểu rõ những khó khăn của người dân bình thường vì họ **sống trong đó**.
 
-Let’s build a party that fights for the many, not the privileged few.  
+- Tích cực tuyển dụng và nâng đỡ các ứng cử viên từ **các nền tảng lao động**, bao gồm giáo viên, nhân viên y tế, công nhân dịch vụ, và các nhà tổ chức cộng đồng.  
+- Cung cấp **hỗ trợ tài chính và cấu trúc** cho các ứng cử viên từ cơ sở để thách thức những đối thủ giàu có, được các tập đoàn hỗ trợ.
 
-**#EndLegacyPolitics #PeopleFirstLeadership #ProgressiveReform #BoldChangeNow**
+Đảng phải phản ánh **sự đa dạng, năng lượng, và quyết tâm** của những người mà nó tuyên bố phục vụ. Một Quốc hội đầy những y tá, lãnh đạo công đoàn, và giáo viên sẽ chiến đấu mạnh mẽ hơn cho các gia đình lao động hơn là một Quốc hội bị chi phối bởi những triệu phú.
+
+---
+
+### 5. **Một Đảng Phản Ánh Cơ Sở Của Mình**  
+Đảng Dân Chủ phải đứng lên vì điều gì đó lớn hơn bất kỳ nhà lãnh đạo, cuộc bầu cử, hay tính toán chính trị nào.
+
+- **Xây dựng các liên minh** lắng nghe các phong trào từ cơ sở và khuếch đại tiếng nói của lao động, các nhà tổ chức trẻ, và các cộng đồng bị thiệt thòi.  
+- **Ủng hộ các chính sách mạnh mẽ** như Medicare cho Tất cả, Thỏa thuận Xanh Mới, quyền của người lao động, và nhà ở giá cả phải chăng—không phải vì chúng an toàn về chính trị mà vì chúng cấp bách về mặt đạo đức.  
+- **Chấm dứt huyền thoại “có thể bầu”** mà ưu tiên chủ nghĩa trung dung chính trị hơn là những giải pháp thực sự. Cơ sở của chúng ta muốn lãnh đạo mạnh mẽ, không phải những lời hứa nhạt nhòa.
+
+Đảng Dân Chủ phát triển khi nó được thúc đẩy bởi **năng lượng tập thể** của các phong trào đòi công lý, công bằng, và một tương lai tốt đẹp hơn cho tất cả.
+
+---
+
+## Một Phong Trào Lớn Hơn Bất Kỳ Một Nhà Lãnh Đạo Nào  
+
+Sức mạnh của phong trào của chúng ta nằm ở con người của nó. Trong khi chính trị di sản bám víu vào quyền lực, lãnh đạo hướng về con người xây dựng những con đường cho **sự đổi mới, tiến bộ, và đoàn kết**.
+
+Chúng ta phải tôn vinh các lãnh đạo trong quá khứ không bằng cách sao chép thời gian cầm quyền của họ mà bằng cách tiếp tục thực hiện tầm nhìn của họ với **năng lượng mới, ý tưởng mới, và lãnh đạo mới** đáp ứng những thách thức của hôm nay.
+
+- Một đảng coi trọng **tương lai của mình hơn quá khứ** sẽ giành được lòng tin.  
+- Một đảng **ưu tiên con người hơn các tập đoàn** sẽ truyền cảm hứng cho các phong trào.  
+- Một đảng chiến đấu mạnh mẽ vì **các gia đình lao động** sẽ mang lại sự thay đổi thực sự.
+
+---
+
+## **Tương Lai Của Đảng Dân Chủ Bắt Đầu Từ Chúng Ta**  
+
+Đây không chỉ là một lời kêu gọi cải cách—đây là một lời kêu gọi **khôi phục niềm tin vào chính trị dân chủ**. Đây là một lời kêu gọi tạo ra một đảng đứng về phía người lao động, ủng hộ công lý, và đổi mới để đáp ứng thời điểm này.
+
+Chúng ta không được định nghĩa bởi di sản. Chúng ta được định nghĩa bởi tầm nhìn của chúng ta cho tương lai.
+
+Thời điểm cho lãnh đạo mạnh mẽ là bây giờ. Thời điểm để xây dựng một **Đảng Dân Chủ vì nhân dân, bởi nhân dân** là ở đây.
+
+---
+
+## Tham Gia Phong Trào Để Đem Lại Thay Đổi Mạnh Mẽ, Hướng Về Con Người  
+
+Hãy cùng nhau xây dựng một đảng chiến đấu vì số đông, không phải vì những người đặc quyền.  
+
+**#ChấmDứtChínhTrịDiSản #LãnhĐạoHướngVềConNgười #CảiCáchTiếnBộ #ThayĐổiMạnhMẽNgayBâyGiờ**

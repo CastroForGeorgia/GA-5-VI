@@ -1,53 +1,53 @@
-# Contributing to Castro for GA5
+# Đóng góp cho Castro cho GA5
 
-Thank you for your interest in contributing to the **Andres Castro for Georgia's 5th Congressional District** campaign! Your support and participation are invaluable to our mission. Please follow these guidelines to ensure a smooth and effective collaboration.
+Cảm ơn bạn đã quan tâm đến việc đóng góp cho chiến dịch **Andres Castro cho Khu vực Quốc hội thứ 5 của Georgia**! Sự hỗ trợ và tham gia của bạn là vô giá đối với sứ mệnh của chúng tôi. Xin hãy làm theo những hướng dẫn này để đảm bảo một sự hợp tác suôn sẻ và hiệu quả.
 
-## How to Contribute
+## Cách Đóng Góp
 
-We offer several ways for you to get involved and make a meaningful impact on our campaign. Please choose the option that best fits your interests and expertise:
+Chúng tôi cung cấp nhiều cách để bạn tham gia và tạo ra tác động có ý nghĩa cho chiến dịch của chúng tôi. Xin hãy chọn tùy chọn phù hợp nhất với sở thích và chuyên môn của bạn:
 
-### **1. Propose a Policy**
+### **1. Đề Xuất Chính Sách**
 
-Help shape our campaign's policies by suggesting new ideas or improvements to existing ones.
+Giúp định hình các chính sách của chiến dịch bằng cách gợi ý những ý tưởng mới hoặc cải tiến cho những chính sách hiện có.
 
-- **How to Contribute:**  
-  Open an issue using the [Policy Suggestion template](./.github/ISSUE_TEMPLATE/policy_suggestion.md).
+- **Cách Đóng Góp:**  
+  Mở một vấn đề bằng cách sử dụng [mẫu Đề Xuất Chính Sách](./.github/ISSUE_TEMPLATE/policy_suggestion.md).
 
-### **2. Volunteer**
+### **2. Tình Nguyện Viên**
 
-Join our team and contribute your time and skills to support various campaign activities.
+Tham gia vào đội ngũ của chúng tôi và đóng góp thời gian cũng như kỹ năng của bạn để hỗ trợ các hoạt động của chiến dịch.
 
-- **How to Contribute:**  
-  Open an issue using the [Volunteer Sign-Up template](./.github/ISSUE_TEMPLATE/volunteer_sign_up.md).
+- **Cách Đóng Góp:**  
+  Mở một vấn đề bằng cách sử dụng [mẫu Đăng Ký Tình Nguyện](./.github/ISSUE_TEMPLATE/volunteer_sign_up.md).
 
-### **3. Propose an Event Idea**
+### **3. Đề Xuất Ý Tưởng Sự Kiện**
 
-Have an idea for a rally, town hall, or any other campaign event? We’d love to hear it!
+Có ý tưởng cho một buổi biểu tình, hội nghị công dân, hoặc bất kỳ sự kiện nào khác của chiến dịch? Chúng tôi rất muốn nghe ý kiến của bạn!
 
-- **How to Contribute:**  
-  Open an issue using the [Event Idea template](./.github/ISSUE_TEMPLATE/event_idea.md).
+- **Cách Đóng Góp:**  
+  Mở một vấn đề bằng cách sử dụng [mẫu Ý Tưởng Sự Kiện](./.github/ISSUE_TEMPLATE/event_idea.md).
 
-### **4. Provide General Feedback**
+### **4. Cung Cấp Phản Hồi Chung**
 
-Share your thoughts on our campaign strategies, materials, or any other aspect you think can be improved.
+Chia sẻ suy nghĩ của bạn về các chiến lược, tài liệu của chiến dịch, hoặc bất kỳ khía cạnh nào khác mà bạn nghĩ có thể cải thiện.
 
-- **How to Contribute:**  
-  Open an issue using the [General Feedback template](./.github/ISSUE_TEMPLATE/general_feedback.md).
+- **Cách Đóng Góp:**  
+  Mở một vấn đề bằng cách sử dụng [mẫu Phản Hồi Chung](./.github/ISSUE_TEMPLATE/general_feedback.md).
 
-### **5. Report an Issue**
+### **5. Báo Cáo Vấn Đề**
 
-Encountered a problem with our campaign website, materials, or other resources? Let us know so we can address it promptly.
+Gặp phải vấn đề với trang web, tài liệu, hoặc các nguồn lực khác của chiến dịch? Hãy cho chúng tôi biết để chúng tôi có thể giải quyết kịp thời.
 
-- **How to Contribute:**  
-  Open an issue using the [Report an Issue template](./.github/ISSUE_TEMPLATE/report_issue.md).
+- **Cách Đóng Góp:**  
+  Mở một vấn đề bằng cách sử dụng [mẫu Báo Cáo Vấn Đề](./.github/ISSUE_TEMPLATE/report_issue.md).
 
-### **6. Update Contact Information**
+### **6. Cập Nhật Thông Tin Liên Lạc**
 
-Need to update or correct your contact details in our records? Please inform us through the designated channel.
+Cần cập nhật hoặc sửa chữa thông tin liên lạc của bạn trong hồ sơ của chúng tôi? Xin hãy thông báo cho chúng tôi qua kênh đã chỉ định.
 
-- **How to Contribute:**  
-  Open an issue using the [Contact Information Update template](./.github/ISSUE_TEMPLATE/contact_update.md).
+- **Cách Đóng Góp:**  
+  Mở một vấn đề bằng cách sử dụng [mẫu Cập Nhật Thông Tin Liên Lạc](./.github/ISSUE_TEMPLATE/contact_update.md).
 
-## Code of Conduct
+## Quy Tắc Ứng Xử
 
-Please ensure that you adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the campaign team and fellow contributors. We are committed to maintaining a respectful and inclusive environment for everyone.
+Xin hãy đảm bảo rằng bạn tuân thủ [Quy Tắc Ứng Xử](CODE_OF_CONDUCT.md) trong tất cả các tương tác của bạn với đội ngũ chiến dịch và các cộng tác viên khác. Chúng tôi cam kết duy trì một môi trường tôn trọng và bao gồm cho tất cả mọi người.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Building Bridges Across Differences: Lessons from My Family"
-description: "My family, with its mix of progressive and conservative values, taught me the importance of listening and finding common ground. This ability to connect with people across divides shapes my approach to advocacy and leadership."
+title: "Xây Dựng Cầu Nối Giữa Những Khác Biệt: Bài Học Từ Gia Đình Tôi"
+description: "Gia đình tôi, với sự pha trộn giữa các giá trị tiến bộ và bảo thủ, đã dạy tôi tầm quan trọng của việc lắng nghe và tìm kiếm điểm chung. Khả năng kết nối với mọi người qua những ranh giới này định hình cách tôi tiếp cận hoạt động vận động và lãnh đạo."
 date: 2024-12-24
 image: '/images/open-government-header.webp'
 
@@ -9,38 +9,38 @@ redirect_from:
   - /2025-01-01-building-bridges/
 ---
 
-Growing up in a family that spanned a wide spectrum of beliefs and values was both a challenge and a gift. On one side, I had relatives who were feminists queer advocates, and activists who fought for justice and equality. On the other, I had conservative family members, including staunch Trump supporters, who valued tradition and stability. The conversations weren’t always easy, but they were always meaningful.
+Lớn lên trong một gia đình có nhiều quan điểm và giá trị khác nhau vừa là một thách thức vừa là một món quà. Một bên, tôi có những người thân là những nhà hoạt động nữ quyền, những người ủng hộ LGBTQ+ và những nhà hoạt động đấu tranh cho công lý và bình đẳng. Bên kia, tôi có những thành viên gia đình bảo thủ, bao gồm cả những người ủng hộ Trump kiên định, những người coi trọng truyền thống và sự ổn định. Những cuộc trò chuyện không phải lúc nào cũng dễ dàng, nhưng chúng luôn có ý nghĩa.
 
-My family taught me one of the most important lessons I carry with me today: the power of listening and the importance of finding common ground. It’s a lesson that shapes how I approach advocacy, leadership, and the way I connect with people across divides.
+Gia đình tôi đã dạy tôi một trong những bài học quan trọng nhất mà tôi mang theo cho đến hôm nay: sức mạnh của việc lắng nghe và tầm quan trọng của việc tìm kiếm điểm chung. Đây là một bài học định hình cách tôi tiếp cận hoạt động vận động, lãnh đạo và cách tôi kết nối với mọi người qua những ranh giới.
 
-## A Family of Contrasts
+## Một Gia Đình Đầy Đối Lập
 
-The differences in my family weren’t just ideological—they were deeply personal. One side of the dinner table might discuss the urgent need for reproductive rights or LGBTQ+ equality, while the other side expressed concerns about preserving traditional values and resisting rapid societal change. 
+Sự khác biệt trong gia đình tôi không chỉ là về tư tưởng—chúng còn rất cá nhân. Một bên bàn ăn có thể bàn về nhu cầu cấp bách về quyền sinh sản hoặc bình đẳng LGBTQ+, trong khi bên kia bày tỏ lo ngại về việc bảo tồn các giá trị truyền thống và chống lại sự thay đổi xã hội nhanh chóng.
 
-Rather than dividing us, these contrasts forced us to engage. We didn’t always agree, but we listened. We shared stories, we argued (sometimes passionately), and we found ways to stay connected despite our differences. It wasn’t about winning an argument—it was about understanding the people I loved.
+Thay vì chia rẽ chúng tôi, những khác biệt này đã buộc chúng tôi phải tham gia vào cuộc trò chuyện. Chúng tôi không phải lúc nào cũng đồng ý, nhưng chúng tôi đã lắng nghe. Chúng tôi chia sẻ câu chuyện, tranh luận (thỉnh thoảng rất nhiệt tình), và tìm cách giữ kết nối mặc dù có sự khác biệt. Điều này không phải là để thắng cuộc tranh luận—mà là để hiểu những người mà tôi yêu quý.
 
-## The Importance of Listening
+## Tầm Quan Trọng Của Việc Lắng Nghe
 
-What I’ve learned is that listening isn’t just a courtesy—it’s a tool for building trust. When you take the time to truly hear someone, you begin to understand the fears, hopes, and values that drive their beliefs. It doesn’t mean you have to agree, but it opens the door to empathy and connection.
+Những gì tôi đã học được là lắng nghe không chỉ là một phép lịch sự—đó là một công cụ để xây dựng lòng tin. Khi bạn dành thời gian để thực sự lắng nghe ai đó, bạn bắt đầu hiểu những nỗi sợ hãi, hy vọng và giá trị thúc đẩy niềm tin của họ. Điều này không có nghĩa là bạn phải đồng ý, nhưng nó mở ra cánh cửa cho sự đồng cảm và kết nối.
 
-This ability to listen and empathize has become a cornerstone of my leadership. Whether I’m speaking with a young activist fighting for climate action or a small business owner worried about government overreach, I approach every conversation with the goal of understanding—not judging.
+Khả năng lắng nghe và đồng cảm này đã trở thành nền tảng trong phong cách lãnh đạo của tôi. Dù tôi đang nói chuyện với một nhà hoạt động trẻ đấu tranh cho hành động khí hậu hay một chủ doanh nghiệp nhỏ lo lắng về sự can thiệp của chính phủ, tôi tiếp cận mỗi cuộc trò chuyện với mục tiêu hiểu biết—không phải phán xét.
 
-## Finding Common Ground
+## Tìm Kiếm Điểm Chung
 
-One of the greatest lessons from my family is that unity doesn’t mean uniformity. We don’t have to agree on every issue to find common ground. At the heart of our differences, I found shared values: a desire for safety, opportunity, and dignity for our families and communities. These shared values became the foundation for building bridges, both within my family and in the broader world.
+Một trong những bài học lớn nhất từ gia đình tôi là sự thống nhất không có nghĩa là đồng nhất. Chúng tôi không cần phải đồng ý về mọi vấn đề để tìm kiếm điểm chung. Ở trung tâm của những khác biệt, tôi đã tìm thấy những giá trị chung: mong muốn về sự an toàn, cơ hội và phẩm giá cho gia đình và cộng đồng của chúng tôi. Những giá trị chung này đã trở thành nền tảng để xây dựng cầu nối, cả trong gia đình tôi và trong thế giới rộng lớn hơn.
 
-In my advocacy, I prioritize finding solutions that reflect these shared values. I believe in crafting policies that uplift everyone—regardless of political affiliation—because real progress requires collaboration and a willingness to bridge divides.
+Trong hoạt động vận động của mình, tôi ưu tiên tìm kiếm những giải pháp phản ánh những giá trị chung này. Tôi tin vào việc xây dựng các chính sách nâng cao tất cả mọi người—bất kể quan điểm chính trị—bởi vì tiến bộ thực sự cần sự hợp tác và sẵn sàng vượt qua những ranh giới.
 
-## Building Bridges in Leadership
+## Xây Dựng Cầu Nối Trong Lãnh Đạo
 
-The lessons from my family go beyond personal relationships—they shape my approach to leadership. In a time when our society feels more divided than ever, we need leaders who can bring people together, who can focus on solutions instead of partisanship, and who understand that our differences are a source of strength, not division.
+Những bài học từ gia đình tôi không chỉ dừng lại ở các mối quan hệ cá nhân—chúng định hình cách tôi tiếp cận lãnh đạo. Trong một thời điểm mà xã hội của chúng ta cảm thấy chia rẽ hơn bao giờ hết, chúng ta cần những nhà lãnh đạo có thể đưa mọi người lại gần nhau, những người có thể tập trung vào giải pháp thay vì sự phân cực, và những người hiểu rằng sự khác biệt của chúng ta là nguồn sức mạnh, không phải sự chia rẽ.
 
-Building bridges isn’t about compromise for the sake of appeasement—it’s about creating spaces where everyone feels heard and valued. It’s about crafting policies that address the root causes of our challenges and ensuring that every voice contributes to the solution.
+Xây dựng cầu nối không phải là sự thỏa hiệp vì sự hài lòng—mà là tạo ra không gian mà mọi người đều cảm thấy được lắng nghe và trân trọng. Đó là việc xây dựng các chính sách giải quyết các nguyên nhân gốc rễ của những thách thức của chúng ta và đảm bảo rằng mọi tiếng nói đều góp phần vào giải pháp.
 
-## Why It Matters
+## Tại Sao Điều Này Quan Trọng
 
-Our country is at its best when we work together, not against each other. My family taught me that it’s possible to have hard conversations, to disagree, and still find ways to move forward. That’s the kind of leadership I strive to bring to public life—a leadership that listens, empathizes, and builds connections.
+Đất nước của chúng ta tốt đẹp nhất khi chúng ta làm việc cùng nhau, chứ không phải chống lại nhau. Gia đình tôi đã dạy tôi rằng có thể có những cuộc trò chuyện khó khăn, có thể bất đồng, và vẫn tìm ra cách để tiến về phía trước. Đó là kiểu lãnh đạo mà tôi cố gắng mang đến cho đời sống công cộng—một kiểu lãnh đạo lắng nghe, đồng cảm và xây dựng kết nối.
 
 ---
 
-**This is why I fight: to bridge divides, to build a future that reflects our shared values, and to create a world where everyone—regardless of their beliefs—has the opportunity to thrive. Together, we can build bridges and create lasting change.**
+**Đó là lý do tại sao tôi chiến đấu: để nối liền những khác biệt, để xây dựng một tương lai phản ánh những giá trị chung của chúng ta, và để tạo ra một thế giới mà mọi người—bất kể niềm tin của họ—đều có cơ hội phát triển. Cùng nhau, chúng ta có thể xây dựng cầu nối và tạo ra sự thay đổi bền vững.**

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Accountability and Action: How I Found My Voice"
-description: "Witnessing political inaction during moments of crisis showed me the importance of stepping up. I found my voice by learning to act decisively, speak up for others, and demand better from those in power—principles that drive me to this day."
+title: "Trách Nhiệm và Hành Động: Cách Tôi Tìm Thấy Giọng Nói Của Mình"
+description: "Chứng kiến sự thiếu hành động chính trị trong những khoảnh khắc khủng hoảng đã cho tôi thấy tầm quan trọng của việc đứng lên. Tôi đã tìm thấy giọng nói của mình bằng cách học cách hành động quyết đoán, lên tiếng cho người khác và yêu cầu những điều tốt đẹp hơn từ những người nắm quyền—những nguyên tắc vẫn dẫn dắt tôi đến ngày hôm nay."
 date: 2024-12-05
 image: '/images/civil-rights-equality.webp'
 
@@ -9,48 +9,48 @@ redirect_from:
   - /2025-01-01-accountability-and-action/
 ---
 
-For much of my life, I believed that change came from trusting the systems in place—that the leaders we elect would take action when we needed it most. But time and time again, I witnessed political inaction during moments of crisis. I saw how decisions made—or not made—by those in power could devastate communities while leaving the most vulnerable to fend for themselves.
+Trong suốt phần lớn cuộc đời, tôi tin rằng sự thay đổi đến từ việc tin tưởng vào các hệ thống hiện có—rằng những nhà lãnh đạo mà chúng ta bầu chọn sẽ hành động khi chúng ta cần nhất. Nhưng hết lần này đến lần khác, tôi chứng kiến sự thiếu hành động chính trị trong những khoảnh khắc khủng hoảng. Tôi thấy cách mà những quyết định được đưa ra—hoặc không được đưa ra—bởi những người nắm quyền có thể tàn phá các cộng đồng trong khi để lại những người dễ bị tổn thương nhất tự lo cho bản thân.
 
-Those moments of inaction lit a fire in me. They showed me the importance of stepping up, speaking out, and demanding better. They pushed me to find my voice—not just for myself, but for others who couldn’t speak up. That voice, and the principles it’s built on, drive me to this day.
+Những khoảnh khắc thiếu hành động đó đã thắp lên trong tôi một ngọn lửa. Chúng cho tôi thấy tầm quan trọng của việc đứng lên, lên tiếng và yêu cầu những điều tốt đẹp hơn. Chúng đã thúc đẩy tôi tìm thấy giọng nói của mình—không chỉ cho bản thân mà còn cho những người không thể lên tiếng. Giọng nói đó, và những nguyên tắc mà nó được xây dựng, vẫn dẫn dắt tôi đến ngày hôm nay.
 
-## Witnessing Inaction
+## Chứng Kiến Sự Thiếu Hành Động
 
-I’ll never forget the helplessness I felt watching leaders fail to act during critical moments. Whether it was the 2008 financial crisis, where families like mine lost everything while corporations were bailed out, or the ongoing struggle for affordable housing and healthcare, the message was clear: the systems designed to protect us weren’t working.
+Tôi sẽ không bao giờ quên cảm giác bất lực khi chứng kiến những nhà lãnh đạo không hành động trong những khoảnh khắc quan trọng. Dù là cuộc khủng hoảng tài chính năm 2008, nơi những gia đình như tôi mất tất cả trong khi các tập đoàn được cứu trợ, hay cuộc chiến không ngừng nghỉ cho nhà ở và chăm sóc sức khỏe giá cả phải chăng, thông điệp rất rõ ràng: các hệ thống được thiết kế để bảo vệ chúng ta đã không hoạt động.
 
-The inaction wasn’t just frustrating—it was devastating. I saw families evicted from their homes, friends who couldn’t afford healthcare, and parents forced to choose between paying rent or putting food on the table. And while those in power debated endlessly, the people they were supposed to serve suffered in silence.
+Sự thiếu hành động không chỉ gây thất vọng—nó còn tàn phá. Tôi thấy những gia đình bị đuổi khỏi nhà, những người bạn không đủ khả năng chi trả cho chăm sóc sức khỏe, và những bậc phụ huynh buộc phải chọn giữa việc trả tiền thuê nhà hay mua thực phẩm. Và trong khi những người nắm quyền tranh luận không ngừng, những người mà họ đáng lẽ phải phục vụ lại phải chịu đựng trong im lặng.
 
-## Finding My Voice
+## Tìm Thấy Giọng Nói Của Mình
 
-It was during these moments that I realized the importance of speaking up. Change doesn’t happen when we wait for others to act—it happens when we take action ourselves. I found my voice by learning to act decisively, to speak up for others, and to hold those in power accountable for their failures.
+Chính trong những khoảnh khắc này, tôi nhận ra tầm quan trọng của việc lên tiếng. Sự thay đổi không xảy ra khi chúng ta chờ đợi người khác hành động—nó xảy ra khi chúng ta tự mình hành động. Tôi đã tìm thấy giọng nói của mình bằng cách học cách hành động quyết đoán, lên tiếng cho người khác và yêu cầu những người nắm quyền phải chịu trách nhiệm về những thất bại của họ.
 
-Finding my voice wasn’t easy. Like many, I was hesitant at first—afraid of making waves or standing out. But I knew that staying silent wasn’t an option. If the systems we relied on weren’t working, then it was up to us to demand better. And that’s exactly what I did.
+Việc tìm thấy giọng nói của tôi không hề dễ dàng. Giống như nhiều người khác, tôi đã do dự lúc đầu—sợ làm rối loạn mọi thứ hoặc nổi bật. Nhưng tôi biết rằng im lặng không phải là một lựa chọn. Nếu các hệ thống mà chúng ta dựa vào không hoạt động, thì chúng ta phải yêu cầu những điều tốt đẹp hơn. Và đó chính xác là những gì tôi đã làm.
 
-## Turning Accountability Into Action
+## Biến Trách Nhiệm Thành Hành Động
 
-Accountability means more than just pointing out what’s wrong—it means putting power into the hands of the people who experience those wrongs every day. My commitment to a people-centered campaign is about more than just policy—it’s about creating a movement where action comes directly from the voices of the community.
+Trách nhiệm không chỉ có nghĩa là chỉ ra những điều sai trái—nó có nghĩa là trao quyền cho những người trải nghiệm những điều sai trái đó mỗi ngày. Cam kết của tôi đối với một chiến dịch tập trung vào con người không chỉ là về chính sách—nó là về việc tạo ra một phong trào mà hành động đến từ chính những tiếng nói của cộng đồng.
 
-Here’s how I plan to turn accountability into action:
+Dưới đây là cách tôi dự định biến trách nhiệm thành hành động:
 
-1. **Community-Led Solutions**: My campaign will prioritize listening to the people most affected by broken systems—working families, immigrants, small business owners, and those often overlooked. I will host regular town halls, workshops, and listening sessions to ensure policies are shaped by the needs of the community, not political insiders.
+1. **Giải Pháp Dẫn Dắt Từ Cộng Đồng**: Chiến dịch của tôi sẽ ưu tiên lắng nghe những người bị ảnh hưởng nhiều nhất bởi các hệ thống hỏng—các gia đình làm việc, người nhập cư, chủ doanh nghiệp nhỏ và những người thường bị bỏ qua. Tôi sẽ tổ chức các buổi họp thị trấn, hội thảo và phiên lắng nghe thường xuyên để đảm bảo rằng các chính sách được hình thành từ nhu cầu của cộng đồng, không phải từ những người trong chính trị.
 
-2. **Transparent and Inclusive Governance**: I believe in open government, where every resident has access to decision-making processes. From publishing spending reports to creating open feedback platforms, I’ll ensure that constituents have a direct line to hold me and our systems accountable.
+2. **Quản Trị Minh Bạch và Bao Gồm**: Tôi tin vào chính phủ mở, nơi mọi cư dân đều có quyền truy cập vào các quy trình ra quyết định. Từ việc công bố báo cáo chi tiêu đến việc tạo ra các nền tảng phản hồi mở, tôi sẽ đảm bảo rằng cử tri có một kênh trực tiếp để giữ tôi và các hệ thống của chúng ta chịu trách nhiệm.
 
-3. **Empowering Grassroots Movements**: Real change comes from the ground up. That’s why I’m committed to building coalitions of people who are ready to act—organizing for affordable housing, healthcare access, climate action, and more. My campaign isn’t just about what I can do—it’s about amplifying the power of collective action.
+3. **Trao Quyền Cho Các Phong Trào Cơ Sở**: Sự thay đổi thực sự đến từ dưới lên. Đó là lý do tại sao tôi cam kết xây dựng các liên minh của những người sẵn sàng hành động—tổ chức cho nhà ở giá cả phải chăng, quyền tiếp cận chăm sóc sức khỏe, hành động vì khí hậu và nhiều hơn nữa. Chiến dịch của tôi không chỉ là về những gì tôi có thể làm—nó là về việc khuếch đại sức mạnh của hành động tập thể.
 
-4. **Follow-Through with Results**: Accountability doesn’t stop with promises. It requires measurable results. I’ll set clear goals for every policy we push forward, regularly report on progress, and ensure that every step we take brings tangible benefits to the community.
+4. **Theo Dõi Kết Quả**: Trách nhiệm không dừng lại ở những lời hứa. Nó đòi hỏi kết quả có thể đo lường được. Tôi sẽ đặt ra các mục tiêu rõ ràng cho mỗi chính sách mà chúng tôi thúc đẩy, thường xuyên báo cáo về tiến độ và đảm bảo rằng mỗi bước đi của chúng tôi mang lại lợi ích cụ thể cho cộng đồng.
 
-## A People-Centered Campaign
+## Một Chiến Dịch Tập Trung Vào Con Người
 
-A people-centered campaign means recognizing that the power to create change doesn’t come from one person—it comes from all of us. It means building systems where leaders are directly accountable to the people they serve and where action is driven by collective effort.
+Một chiến dịch tập trung vào con người có nghĩa là nhận ra rằng sức mạnh để tạo ra sự thay đổi không đến từ một người—nó đến từ tất cả chúng ta. Nó có nghĩa là xây dựng các hệ thống mà trong đó các nhà lãnh đạo phải chịu trách nhiệm trực tiếp với những người mà họ phục vụ và nơi hành động được thúc đẩy bởi nỗ lực tập thể.
 
-This approach isn’t just about leadership—it’s about trust. It’s about showing people that their voices matter, that their struggles are seen, and that their ideas are the foundation of real progress.
+Cách tiếp cận này không chỉ là về lãnh đạo—nó còn là về niềm tin. Nó là về việc cho mọi người thấy rằng tiếng nói của họ quan trọng, rằng những khó khăn của họ được nhìn nhận, và rằng những ý tưởng của họ là nền tảng cho sự tiến bộ thực sự.
 
-## Why Accountability Matters
+## Tại Sao Trách Nhiệm Quan Trọng
 
-Accountability is the foundation of good leadership. It’s what ensures that the promises we make are the promises we keep. It’s what holds systems and people in power responsible for their actions—or their inactions. And it’s what drives meaningful change in a world that too often rewards complacency.
+Trách nhiệm là nền tảng của lãnh đạo tốt. Nó đảm bảo rằng những lời hứa mà chúng ta đưa ra là những lời hứa mà chúng ta giữ. Nó giữ cho các hệ thống và những người nắm quyền phải chịu trách nhiệm về hành động của họ—hoặc sự thiếu hành động của họ. Và nó thúc đẩy sự thay đổi có ý nghĩa trong một thế giới mà quá thường xuyên thưởng cho sự thỏa mãn.
 
-For me, accountability isn’t just a principle—it’s a responsibility. It’s a commitment to never turn away from a challenge, to never stay silent in the face of injustice, and to always fight for the people who need it most.
+Đối với tôi, trách nhiệm không chỉ là một nguyên tắc—nó là một trách nhiệm. Đó là một cam kết không bao giờ quay lưng lại với một thách thức, không bao giờ im lặng trước sự bất công, và luôn chiến đấu cho những người cần nhất.
 
 ---
 
-**This is why I fight: to hold power accountable, to empower communities to take action, and to build a future where leadership reflects the needs and voices of the people. Together, we can demand better—and create the change we deserve.**
+**Đó là lý do tại sao tôi chiến đấu: để giữ quyền lực chịu trách nhiệm, để trao quyền cho cộng đồng hành động, và để xây dựng một tương lai mà lãnh đạo phản ánh nhu cầu và tiếng nói của người dân. Cùng nhau, chúng ta có thể yêu cầu những điều tốt đẹp hơn—và tạo ra sự thay đổi mà chúng ta xứng đáng.**
