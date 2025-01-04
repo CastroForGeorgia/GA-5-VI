@@ -27,6 +27,8 @@ languages:
     lang_name: "Español (MX)"
   - lang_code: vi
     lang_name: "Vietnamese (VN)"
+  - lang_code: ko
+    lang_name: "Korean (KR)"
 
 #-------------------------------
 # Collections
