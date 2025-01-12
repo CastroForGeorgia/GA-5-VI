@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Giới thiệu'
       url: '/about/'
     - title: "Tại sao tôi ứng cử"
-      url: '/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol'
+      url: '/blog/why-im-running/'
     - title: 'Chính sách'
       url: '/projects/'
     - title: 'Blog'

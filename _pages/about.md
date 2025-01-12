@@ -23,7 +23,7 @@ Tôi tranh cử vào Quốc hội để đấu tranh cho:
 Chiến dịch này là về **bạn**, gia đình bạn, và xây dựng một tương lai nơi mọi người đều có thể phát triển.
 
 ## Tìm hiểu thêm về câu chuyện và tầm nhìn của tôi:
-- [Tại sao tôi tranh cử vào Quốc hội](/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol/)
+- [Tại sao tôi tranh cử vào Quốc hội](/blog/why-im-running/)
 - [Bảo đảm Nhà ở cho Người lao động: Nhà ở Giá cả phải chăng cho Tất cả](/project/housing-community/)
 - [Chăm sóc sức khỏe là Quyền con người: Kế hoạch của tôi cho Medicare cho Tất cả](/project/healthcare/)
 - [Quyền Công dân và Bình đẳng: Đứng lên vì Công lý](/project/civil-rights-equality)
