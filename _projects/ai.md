@@ -1,148 +1,167 @@
 ---
 title: "Trí Tuệ Nhân Tạo Tổng Quát (AGI)"
-description: "Đảm bảo rằng AI và tự động hóa hỗ trợ công nhân, bảo vệ việc làm và thúc đẩy phát triển đạo đức, lấy con người làm trung tâm tại Quận Quốc hội thứ 5 của Georgia."
+description: "Đảm bảo AI và tự động hóa nâng cao sức mạnh cho người lao động, bảo vệ việc làm và thúc đẩy phát triển đạo đức, lấy con người làm trung tâm."
 date: 2024-12-09 00:00:00 +0000
 label: "Chính sách"
 image: "/images/agi-header.webp"
-keywords: [Chính sách AI, Trí tuệ nhân tạo tổng quát, Bảo vệ công nhân, An ninh việc làm, Phát triển AI đạo đức, Tác động của tự động hóa, Quận Quốc hội thứ 5 của Georgia, Chương trình đào tạo lại, Công nghệ lấy con người làm trung tâm, Dân chủ kinh tế, Mạng lưới an sinh xã hội]
 ---
 
-# Trí Tuệ Nhân Tạo: Công Nghệ Phục Vụ Cho Người Lao Động
+# **Trí Tuệ Nhân Tạo: Công Nghệ Phục Vụ Người Lao Động**  
 
-## Tổng Quan
+## **AI Phải Phục Vụ Con Người—Không Thay Thế Họ**  
 
-Sự gia tăng của **Trí Tuệ Nhân Tạo (AI)** và **tự động hóa** đại diện cho một trong những thay đổi kinh tế quan trọng nhất của thế hệ chúng ta. Nhưng công nghệ nên **phục vụ con người, chứ không thay thế họ**. Tại **Quận Quốc hội thứ 5 của Georgia**, chúng tôi cam kết hướng tới một tương lai mà AI và robot **tăng cường tiềm năng con người**, bảo vệ việc làm và thúc đẩy cơ hội kinh tế.
+Sự gia tăng của **Trí Tuệ Nhân Tạo (AI) và tự động hóa** đang biến đổi các ngành công nghiệp, nhưng nếu không có **các chính sách lấy người lao động làm trung tâm**, công nghệ có nguy cơ thay thế việc làm và làm sâu sắc thêm sự bất bình đẳng. Tại **Quận 5 của Georgia**, chúng tôi cam kết đảm bảo AI nâng cao tiềm năng con người, **bảo vệ người lao động và mở rộng cơ hội kinh tế—không để ai bị bỏ lại phía sau**.  
 
-Chính sách này đảm bảo rằng AI hoạt động vì lợi ích của công nhân—**tăng cường cộng đồng, cải thiện an toàn**, và tạo ra những con đường cho sự thịnh vượng chung mà không để ai bị bỏ lại phía sau.
-
----
-
-## **Mục Tiêu Chính Của Chúng Tôi**
-
-### 🛠️ **1. Bảo Vệ Công Nhân Thông Qua Công Nghệ Lấy Con Người Làm Trung Tâm**  
-- **Khung xương ngoài và Công cụ Hỗ trợ**:  
-  Đầu tư vào công nghệ đeo được nhằm nâng cao an toàn và năng suất của công nhân, đặc biệt trong các ngành như sản xuất và xây dựng. Những công cụ này **giảm bớt căng thẳng thể chất** và ngăn ngừa chấn thương trong khi vẫn giữ cho việc làm được bảo đảm.
-
-- **Không Thay Thế Việc Làm Mà Không Tăng Cường**:  
-  Thông qua luật yêu cầu AI phải **tăng cường khả năng của công nhân**—chứ không thay thế họ—trước khi các công ty có thể triển khai hệ thống tự động hóa.
+**Mục tiêu của chúng tôi: một tương lai mà AI phục vụ cho chúng ta, không chống lại chúng ta.**  
 
 ---
 
-### 📋 **2. An Ninh Việc Làm và Tiếng Nói của Công Nhân Trong Tự Động Hóa**  
-- **Đánh Giá Tác Động Tự Động Hóa**:  
-  Yêu cầu các công ty thực hiện **đánh giá tác động công khai** trước khi tự động hóa công việc, nêu rõ cách họ sẽ bảo vệ công nhân hoặc đào tạo lại những nhân viên bị mất việc.
+## **Những Thách Thức Chúng Ta Đối Mặt**  
 
-- **Đại Diện Công Nhân**:  
-  Thành lập **ủy ban công nhân** để giám sát việc triển khai AI tại nơi làm việc, đảm bảo rằng nhân viên có tiếng nói trong các quyết định ảnh hưởng đến công việc của họ.
+### ❌ **Thay Thế Việc Làm Mà Không Có Bảo Vệ**  
+- AI và robot đang thay thế người lao động trong **sản xuất, logistics, bán lẻ, và thậm chí cả các ngành công nghiệp văn phòng**.  
+- Các công ty ưu tiên tự động hóa **để tăng lợi nhuận**, phớt lờ tác động của nó đến người lao động.  
 
-- **Tiêu Chuẩn AI Hỗ Trợ Công Nhân**:  
-  Cấm các hệ thống AI tự động đưa ra quyết định về tuyển dụng, sa thải hoặc tiền lương mà không có **sự giám sát trực tiếp của con người**.
+### ❌ **Thiếu Giám Sát và Minh Bạch Về AI**  
+- Các quyết định về tuyển dụng, sa thải và lương thường diễn ra **mà không có sự giám sát của con người**.  
+- Người lao động bị loại trừ khỏi các cuộc thảo luận về cách AI được triển khai tại nơi làm việc của họ.  
 
----
+### ❌ **Tiếp Cận Không Công Bằng Đến Việc Làm và Đào Tạo AI**  
+- Nếu không có đầu tư vào **các chương trình đào tạo lại**, những người lao động bị thay thế sẽ bị bỏ lại phía sau.  
+- **Cộng đồng có thu nhập thấp và người lao động da màu** có ít cơ hội hơn trong các ngành công nghiệp dựa vào AI.  
 
-### 📚 **3. Đào Tạo Lại và Giáo Dục Cho Tương Lai**  
-- **Chương Trình Đào Tạo Lại Miễn Phí**:  
-  Khởi động các chương trình miễn phí hoặc chi phí thấp để dạy công nhân các kỹ năng trong bảo trì AI, lập trình robot và các lĩnh vực sẵn sàng cho tương lai khác.
-
-- **Trung Tâm Công Nghệ Cộng Đồng**:  
-  Thành lập **các trung tâm công nghệ địa phương** nơi cư dân có thể học các kỹ năng mới, hợp tác trong các dự án và khám phá cơ hội khởi nghiệp.
-
-- **Công Bằng Trong Tiếp Cận**:  
-  Đảm bảo rằng công nhân nhập cư, có thu nhập thấp và nhóm thiệt thòi có quyền truy cập vào các chương trình đào tạo lại với hỗ trợ bằng **nhiều ngôn ngữ và định dạng linh hoạt**.
+### ❌ **Rủi Ro Về Độc Quyền AI**  
+- Một số ít tập đoàn thống trị AI, **tập trung quyền lực và tài sản** vào tay một số người, gây thiệt hại cho người lao động.  
+- Nếu không có can thiệp chính sách, **người lao động sẽ mất kiểm soát về cách công nghệ ảnh hưởng đến sinh kế của họ**.  
 
 ---
 
-### 🛡️ **4. Tăng Cường Mạng Lưới An Sinh Xã Hội**  
-- **Hỗ Trợ Thất Nghiệp và Đào Tạo Lại**:  
-  Mở rộng phúc lợi thất nghiệp để bao gồm trợ cấp cho các chương trình đào tạo lại và thời gian bảo hiểm dài hơn cho những công nhân bị mất việc do áp dụng AI.
+## **Một Chương Trình AI Lấy Con Người Làm Trung Tâm**  
 
-- **Chương Trình Thí Điểm Thu Nhập Cơ Bản Toàn Cầu (UBI)**:  
-  Khám phá UBI như một mạng lưới an sinh cho các gia đình đang điều hướng những chuyển đổi do tự động hóa và sự gián đoạn kinh tế.
+### 🛠️ **1. Bảo Vệ Việc Làm Thông Qua AI Tập Trung Vào Người Lao Động**  
+- **AI Nên Hỗ Trợ, Không Thay Thế:**  
+  - Yêu cầu các công ty sử dụng AI **để nâng cao, không loại bỏ** lao động con người.  
+  - Đầu tư vào **khung xương đeo và công cụ hỗ trợ AI** để ngăn ngừa chấn thương và cải thiện năng suất.  
 
-- **Hỗ Trợ Chăm Sóc Sức Khỏe và Tâm Lý**:  
-  Đảm bảo quyền truy cập vào chăm sóc sức khỏe và dịch vụ sức khỏe tâm thần giá cả phải chăng cho công nhân bị ảnh hưởng bởi sự thay thế công nghệ.
+- **Đánh Giá Tác Động Tự Động Hóa:**  
+  - Các công ty phải tiến hành **báo cáo tác động công khai** trước khi tự động hóa công việc.  
+  - Doanh nghiệp phải cam kết **các chương trình đào tạo lại cho người lao động** trước khi cắt giảm việc làm.  
 
----
-
-### 💡 **5. Thúc Đẩy Dân Chủ Kinh Tế**  
-- **Sở Hữu Công Nhân Các Công Ty AI**:  
-  Khuyến khích việc tạo ra **doanh nghiệp do nhân viên sở hữu** trong các ngành AI và robot để công nhân có cổ phần trong những tiến bộ công nghệ và lợi nhuận.
-
-- **Hỗ Trợ Đổi Mới Địa Phương**:  
-  Cung cấp các khoản trợ cấp, vay vốn và hướng dẫn để giúp công nhân và doanh nghiệp nhỏ xây dựng **các công ty khởi nghiệp dựa trên AI** tạo ra việc làm và phục vụ cộng đồng.
+- **Giám Sát Quyết Định AI Bởi Người Lao Động:**  
+  - **Cấm AI đưa ra quyết định sa thải và lương** mà không có sự xem xét của con người.  
+  - Thiết lập **các ủy ban giám sát AI do người lao động lãnh đạo** trong các ngành công nghiệp lớn.  
 
 ---
 
-### 🧭 **6. Phát Triển và Giám Sát AI Đạo Đức**  
-- **Đạo Đức Trước Tự Động Hóa**:  
-  Yêu cầu các công ty thực hiện **đánh giá tác động** để đánh giá cách các hệ thống AI ảnh hưởng đến công nhân, cộng đồng và quyền riêng tư trước khi triển khai.
+### 📚 **2. Đào Tạo và Giáo Dục Cho Tương Lai**  
+- **Đào Tạo Miễn Phí Về AI và Robot Cho Người Lao Động**  
+  - Cung cấp các **chương trình đào tạo** miễn phí hoặc chi phí thấp về bảo trì AI, robot và quản lý tự động hóa.  
+  - Đảm bảo các khóa học có sẵn bằng **nhiều ngôn ngữ và định dạng linh hoạt**.  
 
-- **Minh Bạch và Trách Nhiệm**:  
-  Bắt buộc các hệ thống AI phải minh bạch, với tài liệu rõ ràng về quy trình ra quyết định.
+- **Trung Tâm Công Nghệ Cộng Đồng Tại Quận 5 của Georgia**  
+  - Thiết lập **các trung tâm học tập AI công cộng** để đào tạo cư dân trong các ngành công nghiệp công nghệ.  
+  - Cung cấp các hội thảo về **khởi nghiệp AI** để giúp các doanh nghiệp nhỏ sử dụng tự động hóa một cách có đạo đức.  
 
-- **Giám Sát Cộng Đồng**:  
-  Thành lập các hội đồng do công dân lãnh đạo để cung cấp ý kiến và giám sát cách AI được tích hợp vào các lĩnh vực công và tư, đảm bảo trách nhiệm công cộng.
-
----
-
-## **Kế Hoạch Hành Động**
-
-✅ **1. Lãnh Đạo Lập Pháp**  
-- Giới thiệu các luật yêu cầu các hệ thống AI ưu tiên an toàn cho công nhân, tăng cường vai trò của con người và trải qua các đánh giá tác động cộng đồng.  
-- Hợp tác với các công đoàn và chuyên gia ngành để thiết lập **tiêu chuẩn AI đạo đức** bảo vệ việc làm và cộng đồng.
-
-✅ **2. Đầu Tư Vào Lực Lượng Lao Động và Giáo Dục**  
-- Tài trợ cho **các chương trình đào tạo lại miễn phí** và các trung tâm công nghệ cộng đồng để đảm bảo công nhân có thể thích ứng với các ngành công nghiệp dựa trên AI.  
-- Hợp tác với các trường học, cao đẳng và công đoàn địa phương để cung cấp các chương trình đào tạo linh hoạt, tập trung vào tương lai.
-
-✅ **3. Mở Rộng Mạng Lưới An Sinh Xã Hội**  
-- Tăng cường phúc lợi thất nghiệp và cung cấp trợ cấp đào tạo lại cho công nhân bị mất việc.  
-- Thí điểm các chương trình **UBI** để đảm bảo sự ổn định tài chính trong các chuyển đổi kinh tế do tự động hóa.
-
-✅ **4. Tạo Cơ Hội Cho Đổi Mới Địa Phương**  
-- Cung cấp trợ cấp, khoản vay lãi suất thấp và hướng dẫn cho các doanh nghiệp nhỏ và các công ty khởi nghiệp sử dụng AI để tạo ra **việc làm tốt với mức lương cao tại địa phương**.  
-- Khuyến khích các công ty AI do công nhân sở hữu để đảm bảo nhân viên được hưởng lợi trực tiếp từ tiến bộ công nghệ.
-
-✅ **5. Phát Triển Đạo Đức và Minh Bạch**  
-- Thực hiện các **đánh giá tác động** bắt buộc và yêu cầu các công ty công bố các tác động xã hội của các hệ thống AI.  
-- Thành lập các hội đồng công khai, do công dân lãnh đạo để giám sát việc triển khai AI đạo đức trong cả lĩnh vực công và tư.
+- **Công Bằng Trong Tiếp Cận**  
+  - Ưu tiên tài trợ cho **các công nhân da màu, người nhập cư và người lao động có thu nhập thấp** để tiếp cận các chương trình đào tạo AI.  
 
 ---
 
-## **Tại Sao Điều Này Quan Trọng**
+### 🛡️ **3. Tăng Cường Mạng Lưới An Sinh Xã Hội**  
+- **Bảo Hiểm Thất Nghiệp và Lợi Ích Đào Tạo Lại**  
+  - Mở rộng **bảo vệ thất nghiệp** cho những người lao động bị thay thế bởi tự động hóa.  
+  - Cung cấp **trợ cấp cho người lao động** tham gia các chương trình đào tạo lại.  
 
-### ✅ **Bảo Vệ Việc Làm**  
-Chúng ta phải đảm bảo rằng công nghệ **tăng cường lao động con người**, tạo ra môi trường làm việc an toàn và hiệu quả mà không làm mất đi sinh kế.
+- **Thí Điểm Thu Nhập Cơ Bản Toàn Cầu (UBI) Cho Người Lao Động Bị Thay Thế Bởi AI**  
+  - Khởi động một **thí điểm UBI** tại Quận 5 của Georgia để hỗ trợ những người lao động bị ảnh hưởng bởi tự động hóa.  
+  - Đo lường tác động của nó đến việc chuyển đổi công việc và ổn định kinh tế.  
 
-### 📈 **Cơ Hội Kinh Tế**  
-Bằng cách đầu tư vào đào tạo lại, đổi mới và khởi nghiệp, chúng ta sẽ chuẩn bị cho công nhân những việc làm có nhu cầu cao trong các ngành công nghiệp dựa trên AI.
-
-### 🌍 **Phát Triển Đạo Đức**  
-AI phải được phát triển một cách minh bạch và có trách nhiệm, ưu tiên phúc lợi của con người hơn là lợi nhuận.
-
-### 🛡️ **Hỗ Trợ Cho Công Nhân**  
-Một mạng lưới an sinh vững chắc, hỗ trợ sức khỏe tâm thần và các con đường sở hữu sẽ đảm bảo rằng công nhân và gia đình họ phát triển trong quá trình chuyển đổi này.
+- **Chăm Sóc Sức Khỏe Hợp Lý Cho Người Lao Động Bị Ảnh Hưởng Bởi AI**  
+  - Đảm bảo tất cả người lao động bị thay thế nhận được **chăm sóc sức khỏe, hỗ trợ sức khỏe tâm thần và trợ giúp tìm việc**.  
 
 ---
 
-## **Cam Kết Của Chúng Tôi Đối Với Quận Thứ 5 Của Georgia**
+### 💡 **4. Thúc Đẩy Quyền Sở Hữu Của Người Lao Động và Dân Chủ Kinh Tế**  
+- **AI Nên Tạo Ra Sự Giàu Có Chia Sẻ, Không Chỉ Lợi Nhuận Doanh Nghiệp**  
+  - Khuyến khích **các hợp tác xã AI do người lao động sở hữu** cho phép nhân viên hưởng lợi từ tự động hóa.  
+  - Cung cấp các khoản tài trợ và vay cho **các doanh nghiệp nhỏ dựa vào AI** tạo ra việc làm tại địa phương.  
 
-Tương lai của công việc không nhất thiết phải đồng nghĩa với sự không chắc chắn. Bằng cách đảm bảo rằng AI và tự động hóa được triển khai **một cách có trách nhiệm**, chúng ta có thể bảo vệ công nhân, củng cố cộng đồng và tạo ra cơ hội cho sự thịnh vượng chung.
-
-Công nghệ phải **phục vụ cho chúng ta, chứ không thay thế chúng ta**—và với những chính sách táo bạo, lấy con người làm trung tâm, chúng ta sẽ dẫn đầu trong việc xây dựng một tương lai công bằng và bao trùm.
-
----
-
-## Kết Luận: Một Tương Lai Phục Vụ Cho Mọi Người  
-
-Chúng ta đang đứng trước một bước ngoặt. Sự gia tăng của AI và tự động hóa có thể mở rộng sự bất bình đẳng hoặc tạo ra những con đường hướng tới sự trao quyền và tiến bộ. Với các chính sách đặt **công nhân lên hàng đầu**, đầu tư vào đào tạo lại và thực thi phát triển đạo đức, chúng ta có thể đảm bảo rằng **không ai bị bỏ lại phía sau** trong cuộc cách mạng công nghệ.
-
-**Cùng nhau, chúng ta sẽ xây dựng một tương lai mà công nghệ phục vụ cho tất cả chúng ta—không chỉ cho một số ít đặc quyền.**
+- **Đổi Mới Công Nghệ Ở Lại Quận 5 của Georgia**  
+  - Hỗ trợ nghiên cứu và phát triển AI có **lợi ích cho nền kinh tế địa phương**.  
+  - Đảm bảo **tài trợ công cho các dự án AI** mang lại lợi ích cho cộng đồng, không chỉ cho các tập đoàn.  
 
 ---
 
-### **Tham Gia Cùng Chúng Tôi Trong Việc Định Hình Một Tương Lai AI Lấy Con Người Làm Trung Tâm**
+### 🤖 **5. Phát Triển AI Đạo Đức và Giám Sát Công Khai**  
+- **Báo Cáo Tác Động AI Trước Khi Triển Khai**  
+  - Yêu cầu các công ty tiến hành **nghiên cứu tác động cộng đồng** trước khi triển khai tự động hóa dựa vào AI.  
 
-Hãy đứng về phía chúng tôi trong cuộc chiến cho các chính sách bảo vệ công nhân, thúc đẩy đổi mới và đảm bảo rằng AI phục vụ cho nhân loại.
+- **Minh Bạch Trong Quyết Định AI**  
+  - **Bắt buộc giải thích AI**—người lao động nên biết cách AI đưa ra quyết định ảnh hưởng đến công việc của họ.  
+  - Tạo ra **các hội đồng giám sát AI công khai** để giữ các công ty chịu trách nhiệm.  
 
-**#Công NghệChoCông Nhân #AIConNgườiTrước #AnNinhViệcLàm #AIDànhChoTấtCả #Quận5Georgia**
+- **Cấm AI Trong Các Khu Vực Rủi Ro Cao**  
+  - Cấm AI **đưa ra quyết định sống hoặc chết trong chăm sóc sức khỏe, cảnh sát và xét xử pháp lý**.  
+  - Thiết lập **các hướng dẫn đạo đức cho AI** trong an toàn công cộng và thị trường lao động.  
+
+---
+
+## **Kế Hoạch Hành Động Cho Quận 5 của Georgia**  
+
+✅ **1. Hành Động Lập Pháp**  
+- Giới thiệu các luật yêu cầu **AI nâng cao, không thay thế, lao động con người**.  
+- Yêu cầu **trách nhiệm của doanh nghiệp** đối với việc thay thế việc làm và tự động hóa.  
+- Cấm **quyết định tuyển dụng và sa thải chỉ dựa vào AI** mà không có sự giám sát của con người.  
+
+✅ **2. Đầu Tư Vào Lực Lượng Lao Động**  
+- Tài trợ **các chương trình đào tạo lại miễn phí** và **các trung tâm công nghệ** trên toàn Quận 5 của Georgia.  
+- Đảm bảo **người lao động bị thay thế nhận được hỗ trợ tài chính** trong quá trình chuyển đổi công việc.  
+
+✅ **3. Minh Bạch AI và Thực Thi Đạo Đức**  
+- Thiết lập **các hội đồng giám sát của người lao động và công dân** để điều chỉnh việc sử dụng AI tại nơi làm việc.  
+- Bắt buộc **công khai các quyết định dựa vào AI** trong việc làm và lương.  
+
+✅ **4. Hỗ Trợ Đổi Mới Địa Phương**  
+- Đầu tư vào **các công ty khởi nghiệp AI do người lao động sở hữu** và các doanh nghiệp nhỏ sử dụng AI một cách có đạo đức.  
+- Cung cấp tài trợ cho **các dự án AI trong khu vực công** mang lại lợi ích cho Quận 5 của Georgia.  
+
+---
+
+## **Tại Sao Điều Này Quan Trọng Đối Với Quận 5 của Georgia**  
+
+### ✅ **Bảo Vệ Việc Làm và Người Lao Động**  
+Chúng ta phải đảm bảo AI **nâng cao lao động con người**, giữ cho nơi làm việc **an toàn và hiệu quả hơn** mà không làm mất đi sinh kế.  
+
+### 📈 **Mở Rộng Cơ Hội Kinh Tế**  
+Đầu tư vào **đào tạo lại AI, đổi mới và khởi nghiệp** sẽ chuẩn bị cho Quận 5 của Georgia những công việc sẵn sàng cho tương lai với nhu cầu cao.  
+
+### 🌍 **Phát Triển Đạo Đức, Minh Bạch**  
+AI nên phục vụ cho **tất cả chúng ta, không chỉ cho Big Tech và các tập đoàn**.  
+
+### 🛡️ **Mạng Lưới An Sinh Mạnh Mẽ Hơn Cho Người Lao Động**  
+Bằng cách mở rộng **hỗ trợ thất nghiệp, lợi ích đào tạo và thí điểm UBI**, chúng ta có thể bảo vệ người lao động khỏi các cú sốc kinh tế.  
+
+---
+
+## **Cam Kết Của Chúng Tôi Đối Với Quận 5 của Georgia**  
+
+Tương lai của công việc **không nên chỉ được quyết định bởi các tập đoàn**. Chúng ta cần **các chính sách mạnh mẽ** bảo vệ người lao động, đảm bảo AI được sử dụng có trách nhiệm và tạo ra cơ hội cho sự thịnh vượng chung tại **Quận 5 của Georgia**.  
+
+Công nghệ phải **phục vụ cho chúng ta—không thay thế chúng ta**. Bằng cách đầu tư vào **các chính sách AI lấy con người làm trung tâm**, chúng ta sẽ dẫn đầu trong việc xây dựng một nền kinh tế **phục vụ cho tất cả mọi người**.  
+
+---
+
+## **Kết Luận: Một Tương Lai Phục Vụ Cho Mọi Người**  
+
+AI và tự động hóa **không nhất thiết phải là một mối đe dọa**—nhưng nếu không hành động, chúng sẽ trở thành. Lựa chọn là rõ ràng:  
+
+✅ **Chúng ta có thể để các tập đoàn kiểm soát AI, thay thế người lao động và tích trữ lợi nhuận.**  
+✅ **Hoặc chúng ta có thể xây dựng một nền kinh tế AI lấy con người làm trung tâm, bảo vệ việc làm, củng cố người lao động và mở rộng cơ hội.**  
+
+**Quận 5 của Georgia phải dẫn đầu trong việc biến AI thành một công cụ cho công lý, thịnh vượng và công bằng.**  
+
+---
+
+### **Tham Gia Cùng Chúng Tôi Trong Việc Định Hình Một Tương Lai AI Lấy Con Người Làm Trung Tâm**  
+
+Hãy đứng về phía chúng tôi trong cuộc chiến cho các chính sách bảo vệ người lao động, thúc đẩy đổi mới và đảm bảo AI phục vụ cho nhân loại.

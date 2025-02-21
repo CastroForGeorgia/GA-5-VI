@@ -1,119 +1,128 @@
 ---
-title: "Kinh tế"
-description: "Tạo ra cơ hội công bằng bằng cách bảo vệ việc làm địa phương, xây dựng nhà ở giá cả phải chăng và đóng cửa các lỗ hổng thuế không công bằng để thúc đẩy một nền kinh tế thịnh vượng và công bằng tại Khu vực 5 của Georgia."
-date: 2024-11-28 00:00:00 +0000
+title: "Kinh Tế"
+description: "Tăng cường việc làm địa phương, xây dựng nhà ở giá cả phải chăng và đảm bảo thuế công bằng để tạo ra một nền kinh tế thịnh vượng và công bằng."
+date: 2025-02-16 00:00:00 +0000
 label: "Chính sách"
 image: "/images/economy-policy-header.webp"
-keywords: [Chính sách Kinh tế, Thuế công bằng, Tự động hóa, Nhà ở giá cả phải chăng, Đảm bảo nhà ở cho công nhân, Việc làm địa phương, Tạo việc làm, Khu vực 5 của Quốc hội Georgia, Công lý kinh tế, Bất bình đẳng tài sản]
 ---
 
-# Xây dựng một nền kinh tế phục vụ cho mọi người
+# **Xây Dựng Một Nền Kinh Tế Phục Vụ Mọi Người**  
 
-## Tổng quan
+## **Một Nền Kinh Tế Công Bằng Bắt Đầu Từ Lớp Lao Động**  
 
-Tại **Khu vực 5 của Quốc hội Georgia**, các gia đình lao động là xương sống của nền kinh tế chúng ta. Tuy nhiên, họ phải gánh chịu gánh nặng thuế không công bằng, đối mặt với sự bất ổn về nhà ở và vật lộn với những tác động tiêu cực của tự động hóa. Chính sách kinh tế của chúng tôi sẽ **cân bằng sân chơi**, bảo vệ việc làm địa phương và xây dựng một tương lai mà mọi cư dân đều có quyền truy cập vào nhà ở, cơ hội và một cơ hội công bằng để thịnh vượng.
+Nền kinh tế hiện không phục vụ cho tất cả mọi người. **Khi các tập đoàn lách thuế và những người tỷ phú ngày càng giàu có, các gia đình lao động lại chật vật với mức lương không tăng, chi phí nhà ở và sự không ổn định trong công việc.** Tại **Quận 5 của Georgia**, chúng tôi đang xây dựng một nền kinh tế đặt con người lên hàng đầu—**bảo vệ người lao động, đảm bảo thuế công bằng và mở rộng cơ hội kinh tế.**  
 
----
-
-## **Mục tiêu Kinh tế của Chúng tôi**
-
-### 🛡️ **1. Bảo vệ Công nhân khỏi lòng tham của Doanh nghiệp**
-- **Chấm dứt các lỗ hổng thuế ngoài khơi**: Xóa bỏ các thiên đường thuế và hình phạt cho phép các công ty chuyển giao việc làm và giấu lợi nhuận ở nước ngoài.
-- **Phạt việc chuyển giao công việc**: Các công ty chuyển giao **hơn 1% lực lượng lao động hàng năm** sẽ phải đối mặt với các hình phạt tài chính để ngăn chặn việc sa thải hàng loạt.
-- **Đóng cửa các lỗ hổng về đòn bẩy cổ phiếu**: Các nhà đầu tư giàu có phải đóng góp phần công bằng của họ khi sử dụng cổ phiếu như thu nhập lỏng.
+Đã đến lúc **chấm dứt việc trợ cấp cho các tập đoàn, đầu tư vào nhà ở giá cả phải chăng và tạo ra một tương lai mà mỗi gia đình đều có cơ hội thực sự để thịnh vượng.**  
 
 ---
 
-### 🏗️ **2. Đảm bảo Nhà ở giá cả phải chăng cho Công nhân**
-**Đảm bảo Nhà ở cho Công nhân** là nền tảng trong kế hoạch của chúng tôi nhằm giải quyết tình trạng bất ổn về nhà ở và thúc đẩy tăng trưởng kinh tế.
+## **Những Thách Thức Chúng Ta Phải Đối Mặt**  
 
-- **Tạo ra hàng nghìn việc làm**:  
-  Xây dựng nhà ở giá cả phải chăng kích thích các ngành như **xây dựng, sản xuất và dịch vụ địa phương**, tạo ra cơ hội việc làm bền vững.
+### ❌ **Các Gia Đình Lao Động Gánh Vác Gánh Nặng Thuế Trong Khi Người Giàu Trả Ít Hơn**  
+- Những người tỷ phú và các tập đoàn **lợi dụng các kẽ hở** để tránh thuế trong khi người lao động phải gánh chịu.  
+- Tài sản dựa trên cổ phiếu **không bị đánh thuế**, ngay cả khi được sử dụng như thu nhập.  
 
-- **Xây dựng Nhà ở Giá cả phải chăng**:  
-  Đầu tư vào **nhà ở an toàn, dễ tiếp cận** để đảm bảo mọi công nhân có thể chi trả cho một ngôi nhà ổn định, cải thiện an ninh tài chính và phúc lợi cộng đồng.
+### ❌ **Chi Phí Nhà Ở Vượt Quá Kiểm Soát**  
+- Mức lương không theo kịp với sự gia tăng của **giá thuê và giá nhà**.  
+- Các khoản đầu tư công vào **nhà ở giá cả phải chăng đã chậm lại**, khiến các gia đình trở nên dễ bị tổn thương.  
 
-- **Củng cố Kinh tế Địa phương**:  
-  Nhà ở ổn định cho phép các gia đình tiết kiệm, đầu tư vào địa phương và hỗ trợ các doanh nghiệp nhỏ—tăng cường sức sống kinh tế.
-
----
-
-### 🤝 **3. Thuế công bằng cho Tăng trưởng bền vững**
-Chúng tôi sẽ đóng cửa các lỗ hổng và đảm bảo rằng những người giàu có và các công ty phải đóng góp phần công bằng của họ:
-
-- **Đánh thuế đòn bẩy cổ phiếu như thu nhập**:  
-  Khi cổ phiếu được sử dụng làm tài sản thế chấp cho các khoản vay hoặc thanh khoản khác, chúng sẽ bị đánh thuế như **thu nhập**, giống như tiền lương của công nhân.
-
-- **Chấm dứt các lỗ hổng lòng tham của Doanh nghiệp**:  
-  - Ngăn chặn việc trốn thuế thông qua các tài khoản nước ngoài.  
-  - Loại bỏ các ưu đãi cho các công ty thay thế công nhân bằng tự động hóa mà không có kế hoạch tái đào tạo hoặc điều chuyển những nhân viên đó.  
-
-- **Hỗ trợ Các Gia đình Lao động**:  
-  Thuế công bằng cho phép chúng tôi tái đầu tư vào các chương trình như nhà ở giá cả phải chăng, giáo dục và cơ sở hạ tầng có lợi cho tất cả mọi người.
+### ❌ **Công Việc Bị Thay Thế Bởi Tự Động Hóa Mà Không Có Bảo Vệ Cho Người Lao Động**  
+- Các tập đoàn cắt giảm chi phí bằng tự động hóa **trong khi bỏ rơi người lao động**.  
+- Các chương trình đào tạo và mạng lưới an sinh **không theo kịp** với sự thay thế công việc.  
 
 ---
 
-### ⚙️ **4. Giải quyết Tác động của Tự động hóa đối với Công nhân**
-Tự động hóa có thể là công cụ cho sự tiến bộ—nhưng không phải với cái giá phải trả cho sinh kế của công nhân.
+## **Một Kế Hoạch Táo Bạo Cho Công Bằng Kinh Tế**  
 
-- **Quy định Tự động hóa lấy việc làm**:  
-  Thực hiện các biện pháp bảo vệ để đảm bảo **các công nghệ mới bổ sung cho công nhân**, thay vì thay thế họ hoàn toàn.
-
-- **Đào tạo nghề và Chuyển đổi Nghề nghiệp**:  
-  - Tài trợ cho **các chương trình tái đào tạo** cho công nhân bị mất việc do tự động hóa.  
-  - Cung cấp tư vấn nghề nghiệp và tài nguyên để giúp công nhân tìm kiếm việc làm bền vững, sẵn sàng cho tương lai.
-
-- **Hỗ trợ Tự động hóa Hợp tác**:  
-  Khuyến khích các doanh nghiệp sử dụng tự động hóa để tăng năng suất trong khi bảo vệ hoặc mở rộng cơ hội việc làm cho nhân viên.
+### 🏛️ **1. Đóng Các Kẽ Hở Thuế và Buộc Các Tập Đoàn Trả Phần Thuế Công Bằng**  
+- **Đánh Thuế Tài Sản Cổ Phiếu Như Thu Nhập**  
+  - Nếu người giàu **vay mượn dựa trên cổ phiếu như thu nhập, họ nên bị đánh thuế như mức lương của người lao động.**  
+- **Chấm Dứt Các Thiên Đường Thuế Doanh Nghiệp**  
+  - Ngăn chặn các công ty **giấu lợi nhuận ở nước ngoài** để tránh đóng góp cho nền kinh tế.  
+- **Phạt Việc Đưa Công Việc Ra Nước Ngoài**  
+  - Các công ty chuyển **hơn 1% lực lượng lao động của họ ra nước ngoài mỗi năm** nên bị phạt thuế.  
 
 ---
 
-## **Lợi ích của Kế hoạch của Chúng tôi cho Khu vực 5**
-
-### 📈 **Tăng trưởng Kinh tế Thông qua Chính sách Công bằng**
-- Đóng cửa các lỗ hổng thuế và tái đầu tư vào nhà ở giá cả phải chăng sẽ thúc đẩy **tạo việc làm** và nâng cao nền kinh tế địa phương.
-- Thuế công bằng đảm bảo rằng những người giàu có đóng góp phần của họ, giảm bớt gánh nặng cho các gia đình lao động.
-
-### 🏘️ **Ổn định Nhà ở cho Tất cả**
-- **Đảm bảo Nhà ở cho Công nhân** đảm bảo nhà ở giá cả phải chăng cho các gia đình, cải thiện an ninh tài chính và chất lượng cuộc sống.
-- Xây dựng nhà ở tạo ra hàng nghìn việc làm địa phương trong các ngành.
-
-### 🤖 **Bảo vệ Tương lai cho Việc làm**
-- Bằng cách giải quyết những thách thức của tự động hóa một cách trực tiếp, công nhân sẽ có quyền truy cập vào đào tạo, hỗ trợ và bảo vệ để đảm bảo **không ai bị bỏ lại phía sau**.
-
-### 💪 **Cộng đồng Địa phương Mạnh mẽ hơn**
-- Ổn định nhà ở, tạo việc làm và chính sách thuế công bằng giúp các gia đình **tiết kiệm, đầu tư vào địa phương và phát triển**—thúc đẩy sự phát triển cộng đồng sôi động.
+### 🏗️ **2. Mở Rộng Nhà Ở Giá Cả Phải Chăng Thông Qua Bảo Đảm Nhà Ở Cho Người Lao Động**  
+- **Xây Dựng Nhà Ở Giá Rẻ Cho Các Gia Đình Lao Động**  
+  - Đầu tư vào **nhà ở hỗn hợp, tiết kiệm năng lượng** để làm cho việc sở hữu nhà và thuê nhà trở nên dễ tiếp cận hơn.  
+- **Tạo Việc Làm Thông Qua Xây Dựng Nhà Ở**  
+  - Các dự án cơ sở hạ tầng sẽ **kích thích các ngành công nghiệp** như xây dựng, sản xuất và dịch vụ địa phương.  
+- **Bảo Vệ Những Cư Dân Lâu Năm Tránh Bị Đuổi Ra**  
+  - Giới thiệu **các biện pháp bảo vệ người thuê** để ngăn chặn việc đuổi nhà không công bằng và tăng giá thuê đột ngột.  
 
 ---
 
-## **Kế hoạch Hành động**
-
-✅ **1. Luật pháp để Đóng cửa các Lỗ hổng Thuế**
-- Giới thiệu các luật để đánh thuế đòn bẩy cổ phiếu như thu nhập và chấm dứt việc trốn thuế ngoài khơi.  
-- Phạt các doanh nghiệp chuyển giao việc làm mà không tái đầu tư vào cộng đồng địa phương.
-
-✅ **2. Đầu tư vào Nhà ở và Việc làm**
-- Khởi động **Đảm bảo Nhà ở cho Công nhân** để xây dựng nhà ở giá cả phải chăng và tạo ra hàng nghìn việc làm trong ngành xây dựng.  
-- Tài trợ cho các dự án cơ sở hạ tầng tạo ra cơ hội việc làm lâu dài và cải thiện tài nguyên cộng đồng.
-
-✅ **3. Bảo vệ Công nhân khỏi Tự động hóa**
-- Thực hiện các quy định yêu cầu các doanh nghiệp áp dụng **tự động hóa thân thiện với công nhân**.  
-- Thiết lập các chương trình tái đào tạo được tài trợ liên bang cho công nhân bị mất việc để đảm bảo họ có kỹ năng cần thiết để thành công trong các ngành đang phát triển.
-
-✅ **4. Hỗ trợ Tăng trưởng Kinh tế Địa phương**
-- Hợp tác với các doanh nghiệp nhỏ để củng cố việc tạo việc làm địa phương.  
-- Đầu tư vào các chương trình mở rộng quyền truy cập vào giáo dục, đào tạo nghề và chăm sóc trẻ em giá cả phải chăng.
+### 🤖 **3. Quản Lý Tự Động Hóa Để Bảo Vệ Việc Làm**  
+- **Đảm Bảo AI và Robot Phục Vụ Người Lao Động, Không Chỉ Các CEO**  
+  - Các công ty phải **chứng minh rằng tự động hóa mang lại lợi ích cho nhân viên** trước khi thực hiện sa thải hàng loạt.  
+- **Quỹ Đào Tạo Lại và Chuyển Đổi Nghề Nghiệp**  
+  - Thiết lập **các chương trình đào tạo lại miễn phí hoặc giá rẻ** cho những người lao động bị ảnh hưởng bởi tự động hóa.  
+- **Hỗ Trợ Các Doanh Nghiệp Nhỏ Áp Dụng Công Nghệ Thân Thiện Với Người Lao Động**  
+  - Cung cấp các ưu đãi thuế cho **các doanh nghiệp tích hợp tự động hóa trong khi bảo vệ việc làm**.  
 
 ---
 
-## Kết luận
-
-Tầm nhìn kinh tế của chúng tôi cho **Khu vực 5 của Quốc hội Georgia** rất đơn giản: **công bằng, cơ hội và thịnh vượng cho tất cả**. Bằng cách đóng cửa các lỗ hổng của doanh nghiệp, bảo vệ công nhân và xây dựng nhà ở giá cả phải chăng, chúng tôi sẽ tạo ra một nền kinh tế mà mọi gia đình đều có cơ hội phát triển.
-
-Chúng tôi tin tưởng vào một nền kinh tế mà **tài sản được chia sẻ, không bị tích trữ**, nơi việc làm địa phương được bảo vệ, và không ai bị bỏ lại phía sau trước những thay đổi kinh tế.  
-
-**Hãy đứng về phía chúng tôi khi chúng tôi xây dựng một nền kinh tế công bằng, mạnh mẽ và bền vững hơn cho Khu vực 5 của Georgia.**
+### 💼 **4. Đầu Tư Vào Việc Làm Địa Phương và Tăng Trưởng Doanh Nghiệp Nhỏ**  
+- **Mở Rộng Tiếp Cận Vốn Cho Các Doanh Nghiệp Nhỏ**  
+  - Cung cấp **các khoản trợ cấp và khoản vay lãi suất thấp** cho các doanh nghiệp địa phương và hợp tác xã do người lao động sở hữu.  
+- **Tăng Cường Bảo Vệ Người Lao Động và Công Đoàn**  
+  - Đảm bảo **mức lương công bằng, nghỉ phép có lương và quyền thương lượng tập thể** cho tất cả người lao động.  
+- **Đầu Tư Vào Cơ Sở Hạ Tầng Tạo Ra Việc Làm**  
+  - Tài trợ cho **các dự án giao thông, băng thông rộng và năng lượng sạch** để thúc đẩy việc làm địa phương.  
 
 ---
 
-**#ĐảmBảoNhàỞChoCôngNhân #ThuếCôngBằng #ViệcLàmChoTấtCả #CôngBằngTựĐộngHóa #CôngLýKinhTế**
+## **Lợi Ích Của Kế Hoạch Này Đối Với Quận 5 Của Georgia**  
+
+### 📈 **Tăng Trưởng Kinh Tế Thông Qua Các Chính Sách Công Bằng**  
+- Đóng các kẽ hở thuế **tăng doanh thu cho các khoản đầu tư công** và giảm bớt gánh nặng cho các gia đình lao động.  
+- Đầu tư vào **nhà ở và doanh nghiệp địa phương** giữ cho tiền bạc lưu thông trong cộng đồng.  
+
+### 🏘️ **Nhà Ở Ổn Định và Giá Cả Phải Chăng Cho Người Lao Động**  
+- **Bảo Đảm Nhà Ở Cho Người Lao Động** đảm bảo nhà ở **giá cả phải chăng và dễ tiếp cận** cho tất cả mọi người.  
+- Các dự án xây dựng **tạo ra hàng ngàn việc làm** trên nhiều ngành công nghiệp.  
+
+### 🤝 **Bảo Vệ Việc Làm Trong Một Nền Kinh Tế Tự Động Hóa**  
+- Các chương trình đào tạo chuẩn bị cho người lao động cho **các nghề nghiệp bền vững, có lương cao** trong **công nghệ, năng lượng sạch và nghề thủ công**.  
+- Quản lý tự động hóa đảm bảo rằng **người lao động không bị hy sinh vì lợi nhuận của các tập đoàn**.  
+
+### 💪 **Cộng Đồng Mạnh Mẽ, Gia Đình Thịnh Vượng**  
+- Khi mọi người có việc làm và nhà ở ổn định, họ có thể **tiết kiệm, đầu tư và tham gia vào cộng đồng** của mình—dẫn đến một nền kinh tế mạnh mẽ hơn cho tất cả mọi người.  
+
+---
+
+## **Kế Hoạch Hành Động: Một Nền Kinh Tế Phục Vụ Nhiều Người, Không Phải Ít Người**  
+
+✅ **1. Đóng Các Kẽ Hở Thuế Doanh Nghiệp**  
+- Đánh thuế tài sản cổ phiếu như thu nhập và **chấm dứt các kế hoạch tránh thuế ở nước ngoài**.  
+- Phạt **các công ty đưa công việc ra nước ngoài mà không tái đầu tư vào người lao động địa phương**.  
+
+✅ **2. Xây Dựng Nhà Ở và Tăng Cường Bảo Vệ Người Thuê**  
+- Mở rộng nhà ở giá cả phải chăng thông qua **Bảo Đảm Nhà Ở Cho Người Lao Động**.  
+- Tăng cường **các biện pháp bảo vệ người thuê** chống lại các chủ nhà bóc lột.  
+
+✅ **3. Bảo Vệ Người Lao Động Trước Các Cuộc Sa Thải Do Tự Động Hóa**  
+- Yêu cầu các công ty **đào tạo lại và chuyển đổi người lao động** trước khi thay thế công việc bằng tự động hóa.  
+- Khuyến khích **các mô hình tự động hóa hợp tác** cải thiện việc làm thay vì loại bỏ chúng.  
+
+✅ **4. Đầu Tư Vào Tăng Trưởng Doanh Nghiệp Địa Phương**  
+- Cung cấp **các khoản trợ cấp cho doanh nghiệp nhỏ và tài trợ cho sở hữu hợp tác**.  
+- Đầu tư vào **các dự án cơ sở hạ tầng công cộng** tạo ra việc làm và thúc đẩy nền kinh tế địa phương.  
+
+---
+
+## **Kết Luận: Một Nền Kinh Tế Công Bằng Cho Quận 5 Của Georgia**  
+
+**Nền kinh tế không bị hỏng—nó đang bị thao túng.** Nó được thao túng để có lợi cho các tập đoàn, tỷ phú và Phố Wall trong khi các gia đình lao động phải vật lộn. Chúng tôi ở đây để **thay đổi điều đó**.  
+
+Bằng cách **đóng các kẽ hở thuế, đầu tư vào nhà ở giá cả phải chăng và đảm bảo tự động hóa phục vụ cho người lao động—không chỉ cho các CEO—chúng tôi sẽ xây dựng một nền kinh tế phục vụ cho tất cả mọi người, không chỉ cho một số ít người giàu có.**  
+
+Đây là về **mức lương công bằng, công việc ổn định và nhà ở an toàn.** Đây là về **khôi phục quyền lực kinh tế cho người dân.**  
+
+---
+
+### **Tham Gia Cuộc Chiến Đấu Vì Công Bằng Kinh Tế**  
+
+Đã đến lúc yêu cầu một nền kinh tế phục vụ cho **nhiều người, không phải ít người**. Hãy đứng về phía chúng tôi.

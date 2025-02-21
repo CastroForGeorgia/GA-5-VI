@@ -1,50 +1,38 @@
 ---
-
-layout: post  
-title: "Đảng Dân chủ đã lạc lối: Tại sao tôi tranh cử vào Quốc hội"  
-description: "Những thất bại của Đảng Dân chủ, bị tha hóa bởi ảnh hưởng của các tập đoàn, đã thúc đẩy tôi đấu tranh để đưa đảng trở về cội nguồn của nó."  
-date: 2025-01-12  
-image: '/images/about-me-photo.jpg'
-
+layout: post
+title: "Tại Sao Tôi Chạy Ứng Cử Vào Quốc Hội Khu Vực 5 Georgia"
+description: "Những thất bại của Đảng Dân Chủ, bị ảnh hưởng bởi các tập đoàn, đã thúc đẩy tôi đấu tranh để đưa đảng trở về với cội nguồn của nó."
+date: 2025-01-12
+image: '/images/about-me-photo-zoom.jpg'
 ---
 
-# Đảng Dân chủ đã lạc lối
+## **Đảng Dân Chủ Đã Lạc Lối—Đã Đến Lúc Để Đưa Nó Về**  
 
-Đảng Dân chủ từng là người bảo vệ của tầng lớp lao động—một đảng đấu tranh cho công bằng kinh tế, quyền dân sự và cơ hội cho tất cả mọi người. Nhưng theo thời gian, đảng đã bị nuốt chửng bởi ảnh hưởng của các tập đoàn, đặt lợi nhuận lên trên con người và quyền lực lên trên nguyên tắc. Điều này đã khiến hàng triệu người Mỹ thuộc tầng lớp lao động—bao gồm cả tôi—mất niềm tin và yêu cầu thay đổi.
+Đảng Dân Chủ đã từ bỏ cội rễ của mình trong tầng lớp lao động, chịu khuất phục trước ảnh hưởng của các tập đoàn, gây thiệt hại cho người dân Mỹ hàng ngày. Tôi đang chạy ứng cử vào Quốc Hội ở **Khu Vực 5 Georgia** vì tôi không thể đứng nhìn khi đảng của chúng ta ưu tiên lợi nhuận hơn con người. Chúng ta cần một lãnh đạo đấu tranh cho công bằng kinh tế, quyền dân sự và sự thay đổi táo bạo, không phải những bước đi nhỏ bé khiến chúng ta vẫn phải vật lộn.  
 
-Tôi tranh cử vào Quốc hội vì tôi từ chối chấp nhận rằng đây là điều tốt nhất mà chúng ta có thể làm. Đảng mà tôi tin tưởng—đảng nên đấu tranh cho người lao động, cho các gia đình đang gặp khó khăn, cho những người có tiếng nói bị phớt lờ—cần được khôi phục. Đã đến lúc cần những nhà lãnh đạo không sợ đối mặt với các lợi ích của tập đoàn và đặt con người lên hàng đầu.
+## **Một Đảng Đứng Trước Ngã Tư**  
 
-## Tôi không thuộc cánh tả hay cánh hữu—tôi đến từ tầng lớp dưới
+Chi phí sinh hoạt ngày càng tăng, chăm sóc sức khỏe vẫn không thể chi trả, và mức lương không theo kịp—nhưng quá nhiều lãnh đạo Dân Chủ vẫn chấp nhận hiện trạng. Họ nói về sự thay đổi nhưng không bao giờ đấu tranh cho nó. Đảng phải chọn: Liệu nó sẽ đứng về phía người dân hay vẫn là quân cờ của nước Mỹ doanh nghiệp?  
 
-Tôi biết thế nào là đấu tranh. Tôi biết thế nào là sống từ tiền lương này đến tiền lương khác, điều hướng qua các hệ thống dường như được xây dựng để kìm hãm chúng ta, và thấy những nhà lãnh đạo tuyên bố đấu tranh cho chúng ta nhưng không hành động khi cần thiết.
+## **Tôi Không Thuộc Cánh Tả Hay Cánh Hữu—Tôi Thuộc Về Tầng Lớp Dưới**  
 
-Đó là lý do tại sao tôi sẽ không bao giờ nhận tiền từ các tập đoàn. **Sự trung thành của tôi là với người dân—không phải với các tập đoàn, không phải với các nhà vận động hành lang, và không phải với giới tinh hoa chính trị đã cho phép mình bị mua chuộc.**
+Tôi hiểu cảm giác vật lộn. Khác với những chính trị gia nhận tiền từ các tập đoàn và phớt lờ phần còn lại của chúng ta, tôi **sẽ không bao giờ** chấp nhận quyên góp từ các tập đoàn. Lòng trung thành của tôi thuộc về tầng lớp lao động—những người thuê nhà, các gia đình, và tất cả những ai sống từ tháng này sang tháng khác ở **GA-05**.  
 
-Những thất bại của Đảng Dân chủ hiện nay là lý do tại sao chúng ta không có chăm sóc sức khỏe toàn dân. Chúng là lý do tại sao bảo hiểm nhà của bạn đang tăng vọt, hóa đơn gas của bạn tiếp tục tăng, và hóa đơn điện ở Georgia của bạn tăng lên. Thay vì đấu tranh cho các gia đình lao động, quá nhiều nhà lãnh đạo đã chọn bảo vệ lợi ích của những người giàu có và có quan hệ tốt.
+## **Chọn Một Bên**  
 
-Đó không phải là lãnh đạo. Đó là đồng lõa.
+Các đảng viên Dân Chủ rơi vào hai loại:  
 
-## Một đảng phải chọn một bên
+- **Những người coi sự thay đổi là cần thiết**—bởi vì sự sống còn của họ phụ thuộc vào điều đó.  
+- **Những người coi đó là một ý tưởng tốt**—hỗ trợ trong lý thuyết nhưng không bao giờ cảm nhận được sự cấp bách của nó.  
 
-Trong hành trình của tôi với tư cách là một đảng viên Dân chủ—và bây giờ là một ứng cử viên ở GA-05—tôi đã thấy hai nhóm trong đảng của chúng ta:
+Đối với người lao động ở **GA-05**, những bước đi nhỏ không phải là một lựa chọn. Công lý và công bằng không thể chỉ là những khẩu hiệu trống rỗng. Chúng ta cần hành động, ngay bây giờ.  
 
-- **Những người mà thay đổi tiến bộ là cần thiết.** Tự do, sinh kế và sự tồn tại của họ phụ thuộc vào điều đó.
-- **Những người mà thay đổi tiến bộ là một ý tưởng hay.** Một điều họ ủng hộ trong lý thuyết, nhưng không ảnh hưởng đáng kể đến cuộc sống của họ.
+## **Một Động Lực Chính Trị Cho Sự Thay Đổi**  
 
-Giới lãnh đạo đã quá thường xuyên liên kết với nhóm thứ hai, coi công lý và sự công bằng như những khẩu hiệu thay vì những điều cần thiết. Họ cảm thấy thoải mái với những thay đổi chậm chạp và từng bước mà không bao giờ làm xáo trộn hiện trạng. Nhưng đối với những người thuộc tầng lớp lao động, đối với các gia đình đang gặp khó khăn, đối với những người trong chúng ta không thể chờ đợi, điều đó là không đủ.
+Chiến dịch này không chỉ về việc chiến thắng—mà còn về việc xây dựng một phong trào. Tôi sẽ là một **động lực chính trị**, sử dụng công nghệ và sức mạnh từ cơ sở để làm cho chính trị trở nên dễ tiếp cận và bao trùm hơn. Cùng nhau, chúng ta có thể tạo ra một liên minh để giữ cho các lãnh đạo của chúng ta có trách nhiệm và đưa Đảng Dân Chủ trở lại vị trí xứng đáng của nó: **về phía người dân**.  
 
-Chúng ta cần hành động táo bạo. Và chúng ta cần nó ngay bây giờ.
+## **Đã Đến Lúc Cách Mạng Chính Trị**  
 
-## Tầm nhìn của tôi cho sự thay đổi: Một nhân tố nhân đôi chính trị
+Sự chiếm đoạt của các tập đoàn đối với Đảng Dân Chủ đã khiến nó trở nên xa cách và không còn phù hợp. **Đã đến lúc dọn dẹp nhà cửa.** Chúng ta cần những đại diện không ngần ngại trung thành với cộng đồng của họ, chứ không phải với các nhà tài trợ doanh nghiệp.  
 
-Chiến dịch này lớn hơn một cuộc bầu cử. **Tôi không chỉ tranh cử để giành một ghế; tôi tranh cử để xây dựng một phong trào.**
-
-Sự thay đổi thực sự xảy ra khi chúng ta tổ chức, huy động và nâng cao các nhà lãnh đạo ở mọi cấp độ, những người từ chối bị mua chuộc. Tầm nhìn của tôi là trở thành một **nhân tố nhân đôi chính trị**—một đại diện không chỉ đấu tranh cho khu vực của tôi mà còn trao quyền cho những người khác để tham gia vào cuộc chiến này trong cộng đồng của họ. Chúng ta sẽ xây dựng một liên minh của những người thuộc tầng lớp lao động yêu cầu trách nhiệm giải trình và thúc đẩy Đảng Dân chủ trở về cội nguồn của nó.
-
-Chúng ta sẽ sử dụng mọi công cụ có sẵn, bao gồm công nghệ tiên tiến, để làm cho chính trị trở nên dễ tiếp cận và đưa nhiều người hơn vào cuộc chiến. Bởi vì điều này không chỉ về chính sách—nó về quyền lực. Và đã đến lúc lấy lại quyền lực đó.
-
-## Đã đến lúc cho một cuộc cách mạng chính trị
-
-Sự tiếp quản của các tập đoàn đối với Đảng Dân chủ đã để lại nó yếu kém, thiếu cảm hứng và ngắt kết nối với những người mà nó tuyên bố phục vụ. **Đã đến lúc dọn dẹp nhà cửa.** Đã đến lúc thay thế chính trị giao dịch của ngày hôm nay bằng lãnh đạo táo bạo, không sợ hãi và sâu sắc trong những cuộc đấu tranh của những người bình thường.
-
-Đây là lý do tại sao tôi tranh cử. **Chiến dịch này không phải về tôi; nó về chúng ta.** Nó về những người lao động, người thuê nhà, cha mẹ và những người trẻ tuổi đang mệt mỏi vì bị phớt lờ. 
+Tôi đang chạy ở **GA-05** vì cuộc chiến này không phải về tôi—mà là về tất cả chúng ta, những người đã bị bỏ quên quá lâu. **Tôi sẽ không giữ lại. Tôi sẽ không bị mua chuộc.** Hãy tham gia cùng tôi, và chúng ta hãy cùng nhau giành lại đảng của mình—và tương lai của chúng ta.
