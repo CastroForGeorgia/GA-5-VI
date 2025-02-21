@@ -1,34 +1,29 @@
 ---
 layout: page
-title: Về Andres Castro
-description: Gặp gỡ Andres Castro, một nhà lãnh đạo tầng lớp lao động và kỹ sư phần mềm đang tranh cử vào Quốc hội tại Quận 5 của Georgia để đấu tranh cho các gia đình, bình đẳng và những giải pháp mạnh mẽ, do người dân dẫn dắt.
+title: About Andres Castro
+description: Meet Andres Castro, a working-class leader and software engineer running for Congress in Georgia’s 5th District to fight for families, equality, and bold, people-powered solutions.
 permalink: /about/
-image: '/images/about-me-photo.jpg'
-keywords: [Andres Castro, Lãnh đạo Tầng lớp Lao động, Quận 5 Georgia, Xã hội Bao gồm, Công bằng Kinh tế, Công nghệ vì Lợi ích Cộng đồng, Nhà ở Giá cả phải chăng, Chăm sóc sức khỏe Toàn cầu]
+image: '/images/about-me.jpg'
+
 ---
 
-# Về Andres Castro
+# About Me
 
-Chào bạn, tôi là **Andres Castro**, một kỹ sư phần mềm và nhà lãnh đạo tầng lớp lao động đang tranh cử vào Quốc hội tại **Quận 5 Georgia**. Hành trình của tôi bắt đầu với tư cách là con trai của một người nhập cư dũng cảm từ Acapulco, Mexico, người đã đưa gia đình chúng tôi đến Georgia để thoát khỏi bạo lực và nghèo đói. Lớn lên ở **Marietta và Powder Springs**, tôi đã trải nghiệm những thách thức của nghèo đói, phân biệt chủng tộc và những rào cản hệ thống một cách trực tiếp.
+**I’m Andres Castro—a working-class leader, software engineer, and community advocate running for Congress in Georgia’s 5th District. My core mission is to fight for economic justice, Medicare for All, and civil rights, ensuring that working families have a real voice in Washington.**
 
-Nhờ sự kiên trì và quyết tâm, tôi đã có được bằng **Khoa học Máy tính** từ Đại học Kennesaw State, khởi đầu sự nghiệp kỹ thuật thành công và trở thành một chủ nhà tự hào ở **Oakland City, Atlanta**. Những trải nghiệm của tôi đã dạy tôi rằng cần có sự thay đổi hệ thống để đảm bảo không ai bị bỏ lại phía sau.
+I know firsthand what it’s like to struggle. Growing up in **Marietta and Powder Springs** with an immigrant mother from **Acapulco, Mexico**, I faced poverty, racism, and systemic barriers. Determination carried me through **Kennesaw State University**, where I earned a **Computer Science degree** while juggling jobs to pay the bills. Today, I’m proud to be a **homeowner in Oakland City, Atlanta**, a testament to the resilience of working people everywhere.
 
-Tôi tranh cử vào Quốc hội để đấu tranh cho:  
-- **Công bằng Kinh tế**: Một nền kinh tế công bằng với mức lương đủ sống, công đoàn mạnh mẽ và nhà ở giá cả phải chăng.  
-- **Chăm sóc sức khỏe Toàn cầu**: Medicare cho Tất cả để đảm bảo chăm sóc chất lượng cho mọi cư dân.  
-- **Quyền Công dân**: Bình đẳng và bảo vệ cho tất cả, bao gồm cả cộng đồng thiểu số và LGBTQ+.  
-- **Chính phủ Mở**: Minh bạch và trách nhiệm, trao quyền lực trở lại cho người dân.  
-- **Công nghệ vì Lợi ích Cộng đồng**: Các chính sách đảm bảo sự đổi mới phục vụ cho nhân loại, không phải cho lòng tham của các tập đoàn.  
+But no accomplishment matters without the people we love. **My wife**, a committed feminist advocate, has taught me the value of standing firm—even when facing political divides. Her parents and I don’t always see eye to eye politically, but we share a deep commitment to strong family ties and hard work. **My younger brother**, who is finishing his last year of service in the Coast Guard, and **my older sister**, a small business owner now helping me campaign, remind me every day why we need a government that respects and rewards hard work. And **my niece**, on the verge of graduating from **Georgia State University** with a game design degree, shows the promise that comes when we invest in young people’s futures.
 
-Chiến dịch này là về **bạn**, gia đình bạn, và xây dựng một tương lai nơi mọi người đều có thể phát triển.
+Keeping family close has always been one of my greatest priorities—so much so that I was fortunate enough to buy **two side-by-side homes** for us. Now, I’m running for Congress to make sure families across our district have the same opportunity to thrive, no matter their background.
 
-## Tìm hiểu thêm về câu chuyện và tầm nhìn của tôi:
-- [Tại sao tôi tranh cử vào Quốc hội](/blog/why-im-running/)
-- [Bảo đảm Nhà ở cho Người lao động: Nhà ở Giá cả phải chăng cho Tất cả](/project/housing-community/)
-- [Chăm sóc sức khỏe là Quyền con người: Kế hoạch của tôi cho Medicare cho Tất cả](/project/healthcare/)
-- [Quyền Công dân và Bình đẳng: Đứng lên vì Công lý](/project/civil-rights-equality)
-- [Công nghệ vì Con người: Tầm nhìn của tôi về AI Đạo đức](/project/ai/)
+## Learn More About My Vision
+- [Why I’m Running for Congress](/blog/why-im-running/)  
+- [The Workers’ Housing Guarantee: Affordable Homes for All](/project/housing-community/)  
+- [Healthcare is a Human Right: My Plan for Medicare for All](/project/healthcare/)  
+- [Civil Rights and Equality: Standing Up for Justice](/project/civil-rights-equality)  
+- [Technology for People: My Vision for Ethical AI](/project/ai/)  
 
-Cùng nhau, chúng ta có thể xây dựng một tương lai công bằng và mạnh mẽ hơn cho **Quận 5 Georgia**.  
-Hãy cùng bắt tay vào công việc.  
-**[Tham gia cùng chúng tôi Ngày hôm nay](https://actionnetwork.org/forms/subscribe-form)**
+I believe that **we** have the power to demand better—better wages, better healthcare, better schools, and a better future for all. Let’s stand together to create a Congress that champions the working class and protects every family’s right to thrive.
+
+**Let’s get to work. [Join Us Today](https://actionnetwork.org/forms/subscribe-form)**

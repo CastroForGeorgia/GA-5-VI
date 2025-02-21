@@ -1,119 +1,128 @@
 ---
-title: "Kinh tế"
-description: "Tạo ra cơ hội công bằng bằng cách bảo vệ việc làm địa phương, xây dựng nhà ở giá cả phải chăng và đóng cửa các lỗ hổng thuế không công bằng để thúc đẩy một nền kinh tế thịnh vượng và công bằng tại Khu vực 5 của Georgia."
-date: 2024-11-28 00:00:00 +0000
-label: "Chính sách"
+title: "Economy"
+description: "Strengthening local jobs, building affordable housing, and ensuring fair taxation to create a thriving and equitable economy."
+date: 2025-02-16 00:00:00 +0000
+label: "Policy"
 image: "/images/economy-policy-header.webp"
-keywords: [Chính sách Kinh tế, Thuế công bằng, Tự động hóa, Nhà ở giá cả phải chăng, Đảm bảo nhà ở cho công nhân, Việc làm địa phương, Tạo việc làm, Khu vực 5 của Quốc hội Georgia, Công lý kinh tế, Bất bình đẳng tài sản]
 ---
 
-# Xây dựng một nền kinh tế phục vụ cho mọi người
+# **Building an Economy That Works for Everyone**  
 
-## Tổng quan
+## **A Fair Economy Starts with the Working Class**  
 
-Tại **Khu vực 5 của Quốc hội Georgia**, các gia đình lao động là xương sống của nền kinh tế chúng ta. Tuy nhiên, họ phải gánh chịu gánh nặng thuế không công bằng, đối mặt với sự bất ổn về nhà ở và vật lộn với những tác động tiêu cực của tự động hóa. Chính sách kinh tế của chúng tôi sẽ **cân bằng sân chơi**, bảo vệ việc làm địa phương và xây dựng một tương lai mà mọi cư dân đều có quyền truy cập vào nhà ở, cơ hội và một cơ hội công bằng để thịnh vượng.
+The economy isn’t working for everyone. **While corporations dodge taxes and billionaires grow richer, working families struggle with stagnant wages, housing costs, and job instability.** In **Georgia’s 5th Congressional District**, we’re building an economy that puts people first—**protecting workers, ensuring fair taxation, and expanding economic opportunities.**  
 
----
-
-## **Mục tiêu Kinh tế của Chúng tôi**
-
-### 🛡️ **1. Bảo vệ Công nhân khỏi lòng tham của Doanh nghiệp**
-- **Chấm dứt các lỗ hổng thuế ngoài khơi**: Xóa bỏ các thiên đường thuế và hình phạt cho phép các công ty chuyển giao việc làm và giấu lợi nhuận ở nước ngoài.
-- **Phạt việc chuyển giao công việc**: Các công ty chuyển giao **hơn 1% lực lượng lao động hàng năm** sẽ phải đối mặt với các hình phạt tài chính để ngăn chặn việc sa thải hàng loạt.
-- **Đóng cửa các lỗ hổng về đòn bẩy cổ phiếu**: Các nhà đầu tư giàu có phải đóng góp phần công bằng của họ khi sử dụng cổ phiếu như thu nhập lỏng.
+It’s time to **end corporate handouts, invest in affordable housing, and create a future where every family has a real chance at prosperity.**  
 
 ---
 
-### 🏗️ **2. Đảm bảo Nhà ở giá cả phải chăng cho Công nhân**
-**Đảm bảo Nhà ở cho Công nhân** là nền tảng trong kế hoạch của chúng tôi nhằm giải quyết tình trạng bất ổn về nhà ở và thúc đẩy tăng trưởng kinh tế.
+## **The Challenges We Must Address**  
 
-- **Tạo ra hàng nghìn việc làm**:  
-  Xây dựng nhà ở giá cả phải chăng kích thích các ngành như **xây dựng, sản xuất và dịch vụ địa phương**, tạo ra cơ hội việc làm bền vững.
+### ❌ **Working Families Shoulder the Tax Burden While the Wealthy Pay Less**  
+- Billionaires and corporations **exploit loopholes** to avoid taxes while working people foot the bill.  
+- Stock-based wealth goes **untaxed**, even when used like income.  
 
-- **Xây dựng Nhà ở Giá cả phải chăng**:  
-  Đầu tư vào **nhà ở an toàn, dễ tiếp cận** để đảm bảo mọi công nhân có thể chi trả cho một ngôi nhà ổn định, cải thiện an ninh tài chính và phúc lợi cộng đồng.
+### ❌ **Housing Costs Are Out of Control**  
+- Wages haven’t kept up with rising **rent and home prices**.  
+- Public investments in **affordable housing have lagged**, leaving families vulnerable.  
 
-- **Củng cố Kinh tế Địa phương**:  
-  Nhà ở ổn định cho phép các gia đình tiết kiệm, đầu tư vào địa phương và hỗ trợ các doanh nghiệp nhỏ—tăng cường sức sống kinh tế.
-
----
-
-### 🤝 **3. Thuế công bằng cho Tăng trưởng bền vững**
-Chúng tôi sẽ đóng cửa các lỗ hổng và đảm bảo rằng những người giàu có và các công ty phải đóng góp phần công bằng của họ:
-
-- **Đánh thuế đòn bẩy cổ phiếu như thu nhập**:  
-  Khi cổ phiếu được sử dụng làm tài sản thế chấp cho các khoản vay hoặc thanh khoản khác, chúng sẽ bị đánh thuế như **thu nhập**, giống như tiền lương của công nhân.
-
-- **Chấm dứt các lỗ hổng lòng tham của Doanh nghiệp**:  
-  - Ngăn chặn việc trốn thuế thông qua các tài khoản nước ngoài.  
-  - Loại bỏ các ưu đãi cho các công ty thay thế công nhân bằng tự động hóa mà không có kế hoạch tái đào tạo hoặc điều chuyển những nhân viên đó.  
-
-- **Hỗ trợ Các Gia đình Lao động**:  
-  Thuế công bằng cho phép chúng tôi tái đầu tư vào các chương trình như nhà ở giá cả phải chăng, giáo dục và cơ sở hạ tầng có lợi cho tất cả mọi người.
+### ❌ **Jobs Are Being Replaced by Automation Without Worker Protections**  
+- Corporations cut costs with automation **while leaving workers behind**.  
+- Training programs and safety nets **aren’t keeping up** with job displacement.  
 
 ---
 
-### ⚙️ **4. Giải quyết Tác động của Tự động hóa đối với Công nhân**
-Tự động hóa có thể là công cụ cho sự tiến bộ—nhưng không phải với cái giá phải trả cho sinh kế của công nhân.
+## **A Bold Plan for Economic Justice**  
 
-- **Quy định Tự động hóa lấy việc làm**:  
-  Thực hiện các biện pháp bảo vệ để đảm bảo **các công nghệ mới bổ sung cho công nhân**, thay vì thay thế họ hoàn toàn.
-
-- **Đào tạo nghề và Chuyển đổi Nghề nghiệp**:  
-  - Tài trợ cho **các chương trình tái đào tạo** cho công nhân bị mất việc do tự động hóa.  
-  - Cung cấp tư vấn nghề nghiệp và tài nguyên để giúp công nhân tìm kiếm việc làm bền vững, sẵn sàng cho tương lai.
-
-- **Hỗ trợ Tự động hóa Hợp tác**:  
-  Khuyến khích các doanh nghiệp sử dụng tự động hóa để tăng năng suất trong khi bảo vệ hoặc mở rộng cơ hội việc làm cho nhân viên.
+### 🏛️ **1. Close Tax Loopholes and Make Corporations Pay Their Fair Share**  
+- **Tax Stock Leveraging Like Wages**  
+  - If the wealthy **borrow against stocks like income, they should be taxed like workers’ wages.**  
+- **End Corporate Tax Havens**  
+  - Stop companies from **hiding profits offshore** to avoid contributing to the economy.  
+- **Penalize Job Outsourcing**  
+  - Companies that move **over 1% of their workforce overseas per year** should face tax penalties.  
 
 ---
 
-## **Lợi ích của Kế hoạch của Chúng tôi cho Khu vực 5**
-
-### 📈 **Tăng trưởng Kinh tế Thông qua Chính sách Công bằng**
-- Đóng cửa các lỗ hổng thuế và tái đầu tư vào nhà ở giá cả phải chăng sẽ thúc đẩy **tạo việc làm** và nâng cao nền kinh tế địa phương.
-- Thuế công bằng đảm bảo rằng những người giàu có đóng góp phần của họ, giảm bớt gánh nặng cho các gia đình lao động.
-
-### 🏘️ **Ổn định Nhà ở cho Tất cả**
-- **Đảm bảo Nhà ở cho Công nhân** đảm bảo nhà ở giá cả phải chăng cho các gia đình, cải thiện an ninh tài chính và chất lượng cuộc sống.
-- Xây dựng nhà ở tạo ra hàng nghìn việc làm địa phương trong các ngành.
-
-### 🤖 **Bảo vệ Tương lai cho Việc làm**
-- Bằng cách giải quyết những thách thức của tự động hóa một cách trực tiếp, công nhân sẽ có quyền truy cập vào đào tạo, hỗ trợ và bảo vệ để đảm bảo **không ai bị bỏ lại phía sau**.
-
-### 💪 **Cộng đồng Địa phương Mạnh mẽ hơn**
-- Ổn định nhà ở, tạo việc làm và chính sách thuế công bằng giúp các gia đình **tiết kiệm, đầu tư vào địa phương và phát triển**—thúc đẩy sự phát triển cộng đồng sôi động.
+### 🏗️ **2. Expand Affordable Housing Through the Workers’ Housing Guarantee**  
+- **Build Affordable Homes for Working Families**  
+  - Invest in **energy-efficient, mixed-income housing** to make homeownership and renting more affordable.  
+- **Create Jobs Through Housing Construction**  
+  - Infrastructure projects will **stimulate industries** like construction, manufacturing, and local services.  
+- **Protect Longtime Residents from Displacement**  
+  - Introduce **tenant protections** to prevent unfair evictions and skyrocketing rent increases.  
 
 ---
 
-## **Kế hoạch Hành động**
-
-✅ **1. Luật pháp để Đóng cửa các Lỗ hổng Thuế**
-- Giới thiệu các luật để đánh thuế đòn bẩy cổ phiếu như thu nhập và chấm dứt việc trốn thuế ngoài khơi.  
-- Phạt các doanh nghiệp chuyển giao việc làm mà không tái đầu tư vào cộng đồng địa phương.
-
-✅ **2. Đầu tư vào Nhà ở và Việc làm**
-- Khởi động **Đảm bảo Nhà ở cho Công nhân** để xây dựng nhà ở giá cả phải chăng và tạo ra hàng nghìn việc làm trong ngành xây dựng.  
-- Tài trợ cho các dự án cơ sở hạ tầng tạo ra cơ hội việc làm lâu dài và cải thiện tài nguyên cộng đồng.
-
-✅ **3. Bảo vệ Công nhân khỏi Tự động hóa**
-- Thực hiện các quy định yêu cầu các doanh nghiệp áp dụng **tự động hóa thân thiện với công nhân**.  
-- Thiết lập các chương trình tái đào tạo được tài trợ liên bang cho công nhân bị mất việc để đảm bảo họ có kỹ năng cần thiết để thành công trong các ngành đang phát triển.
-
-✅ **4. Hỗ trợ Tăng trưởng Kinh tế Địa phương**
-- Hợp tác với các doanh nghiệp nhỏ để củng cố việc tạo việc làm địa phương.  
-- Đầu tư vào các chương trình mở rộng quyền truy cập vào giáo dục, đào tạo nghề và chăm sóc trẻ em giá cả phải chăng.
+### 🤖 **3. Regulate Automation to Protect Jobs**  
+- **Ensure AI and Robotics Work for Workers, Not Just CEOs**  
+  - Companies must **prove that automation benefits employees** before implementing mass layoffs.  
+- **Fund Job Retraining and Career Transitions**  
+  - Establish **free or low-cost reskilling programs** for workers impacted by automation.  
+- **Support Small Businesses Adopting Worker-Friendly Technology**  
+  - Offer tax incentives for **businesses that integrate automation while protecting jobs**.  
 
 ---
 
-## Kết luận
-
-Tầm nhìn kinh tế của chúng tôi cho **Khu vực 5 của Quốc hội Georgia** rất đơn giản: **công bằng, cơ hội và thịnh vượng cho tất cả**. Bằng cách đóng cửa các lỗ hổng của doanh nghiệp, bảo vệ công nhân và xây dựng nhà ở giá cả phải chăng, chúng tôi sẽ tạo ra một nền kinh tế mà mọi gia đình đều có cơ hội phát triển.
-
-Chúng tôi tin tưởng vào một nền kinh tế mà **tài sản được chia sẻ, không bị tích trữ**, nơi việc làm địa phương được bảo vệ, và không ai bị bỏ lại phía sau trước những thay đổi kinh tế.  
-
-**Hãy đứng về phía chúng tôi khi chúng tôi xây dựng một nền kinh tế công bằng, mạnh mẽ và bền vững hơn cho Khu vực 5 của Georgia.**
+### 💼 **4. Invest in Local Jobs and Small Business Growth**  
+- **Expand Access to Capital for Small Businesses**  
+  - Provide **grants and low-interest loans** to local businesses and worker-owned cooperatives.  
+- **Strengthen Worker Protections and Unions**  
+  - Guarantee **fair wages, paid leave, and collective bargaining rights** for all workers.  
+- **Invest in Infrastructure That Creates Jobs**  
+  - Fund **transportation, broadband, and clean energy projects** that boost local employment.  
 
 ---
 
-**#ĐảmBảoNhàỞChoCôngNhân #ThuếCôngBằng #ViệcLàmChoTấtCả #CôngBằngTựĐộngHóa #CôngLýKinhTế**
+## **How This Plan Benefits Georgia’s 5th District**  
+
+### 📈 **Economic Growth Through Fair Policies**  
+- Closing tax loopholes **raises revenue for public investments** and eases the burden on working families.  
+- Investing in **housing and local businesses** keeps money circulating in the community.  
+
+### 🏘️ **Stable and Affordable Housing for Workers**  
+- The **Workers’ Housing Guarantee** ensures housing is **affordable and accessible** for all.  
+- Construction projects **create thousands of jobs** across multiple industries.  
+
+### 🤝 **Future-Proofing Jobs in an Automated Economy**  
+- Training programs prepare workers for **sustainable, high-paying careers** in **tech, clean energy, and skilled trades**.  
+- Regulating automation ensures **workers aren’t sacrificed for corporate profit margins**.  
+
+### 💪 **Stronger Communities, Thriving Families**  
+- When people have stable **jobs and homes**, they can **save, invest, and participate in their communities**—leading to a stronger economy for everyone.  
+
+---
+
+## **Action Plan: An Economy That Works for the Many, Not the Few**  
+
+✅ **1. Close Corporate Tax Loopholes**  
+- Tax stock leveraging as income and **end offshore tax avoidance schemes**.  
+- Penalize **companies that offshore jobs without reinvesting in local workers**.  
+
+✅ **2. Build Housing and Strengthen Tenant Protections**  
+- Expand affordable housing through **The Workers’ Housing Guarantee**.  
+- Strengthen **renter protections** against predatory landlords.  
+
+✅ **3. Protect Workers from Automation-Driven Layoffs**  
+- Require companies to **retrain and transition workers** before replacing jobs with automation.  
+- Incentivize **collaborative automation models** that improve jobs rather than eliminate them.  
+
+✅ **4. Invest in Local Business Growth**  
+- Provide **small business grants and cooperative ownership funding**.  
+- Invest in **public infrastructure projects** that create jobs and boost local economies.  
+
+---
+
+## **Conclusion: A Fair Economy for Georgia’s 5th District**  
+
+**The economy isn’t broken—it’s rigged.** It’s rigged to benefit corporations, billionaires, and Wall Street while working families struggle. We’re here to **change that**.  
+
+By **closing tax loopholes, investing in affordable housing, and ensuring automation serves workers—not just CEOs—we will build an economy that works for everyone, not just the wealthy few.**  
+
+This is about **fair wages, stable jobs, and secure homes.** This is about **restoring economic power to the people.**  
+
+---
+
+### **Join the Fight for Economic Justice**  
+
+It’s time to demand an economy that works for the **many, not the few**. Stand with us.

@@ -1,11 +1,11 @@
-# Liên Kết Hữu Ích
+# Useful Links
 
-- [Trang Web Chính Thức của Chiến Dịch](andrescastro.us)
-- [Đăng Ký Tình Nguyện](andrescastro.us)
-- [Thảo Luận Chính Sách](andrescastro.us)
+- [Official Campaign Website](andrescastro.us)
+- [Volunteer Sign-Up](andrescastro.us)
+- [Policy Discussions](andrescastro.us)
 
-## Mẫu Liên Hệ
+## Contact Forms
 
-- [Thắc Mắc Chung](andrescastro.us)
-- [Đăng Ký Tình Nguyện](andrescastro.us)
-- [Đề Xuất Chính Sách](andrescastro.us)
+- [General Inquiries](andrescastro.us)
+- [Volunteer Registration](andrescastro.us)
+- [Policy Suggestions](andrescastro.us)
