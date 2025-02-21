@@ -1,38 +1,38 @@
 ---
 layout: post
-title: "Why I’m Running for Congress in Georgia’s 5th District"
-description: "The failures of the Democratic Party, corrupted by corporate influence, have pushed me to fight for its return to its roots."
+title: "Tại Sao Tôi Chạy Ứng Cử Vào Quốc Hội Khu Vực 5 Georgia"
+description: "Những thất bại của Đảng Dân Chủ, bị ảnh hưởng bởi các tập đoàn, đã thúc đẩy tôi đấu tranh để đưa đảng trở về với cội nguồn của nó."
 date: 2025-01-12
 image: '/images/about-me-photo-zoom.jpg'
 ---
 
-## **The Democratic Party Has Lost Its Way—It’s Time to Take It Back**  
+## **Đảng Dân Chủ Đã Lạc Lối—Đã Đến Lúc Để Đưa Nó Về**  
 
-The Democratic Party has abandoned its working-class roots, succumbing to corporate influence at the expense of everyday Americans. I’m running for Congress in **Georgia’s 5th District** because I refuse to stand by while our party prioritizes profit over people. We need leadership that fights for economic justice, civil rights, and bold, transformative change—not incrementalism that keeps us struggling.  
+Đảng Dân Chủ đã từ bỏ cội rễ của mình trong tầng lớp lao động, chịu khuất phục trước ảnh hưởng của các tập đoàn, gây thiệt hại cho người dân Mỹ hàng ngày. Tôi đang chạy ứng cử vào Quốc Hội ở **Khu Vực 5 Georgia** vì tôi không thể đứng nhìn khi đảng của chúng ta ưu tiên lợi nhuận hơn con người. Chúng ta cần một lãnh đạo đấu tranh cho công bằng kinh tế, quyền dân sự và sự thay đổi táo bạo, không phải những bước đi nhỏ bé khiến chúng ta vẫn phải vật lộn.  
 
-## **A Party at a Crossroads**  
+## **Một Đảng Đứng Trước Ngã Tư**  
 
-Our bills keep rising, healthcare remains unaffordable, and wages don’t keep up—yet too many Democratic leaders accept the status quo. They talk about change but never fight for it. The party must choose: Will it stand with the people or remain a pawn of corporate America?  
+Chi phí sinh hoạt ngày càng tăng, chăm sóc sức khỏe vẫn không thể chi trả, và mức lương không theo kịp—nhưng quá nhiều lãnh đạo Dân Chủ vẫn chấp nhận hiện trạng. Họ nói về sự thay đổi nhưng không bao giờ đấu tranh cho nó. Đảng phải chọn: Liệu nó sẽ đứng về phía người dân hay vẫn là quân cờ của nước Mỹ doanh nghiệp?  
 
-## **I Am Not From the Left or the Right—I’m From the Bottom**  
+## **Tôi Không Thuộc Cánh Tả Hay Cánh Hữu—Tôi Thuộc Về Tầng Lớp Dưới**  
 
-I know what it means to struggle. Unlike politicians who take corporate money and ignore the rest of us, I will **never** accept corporate donations. My loyalty is to the working class—renters, families, and everyone living paycheck to paycheck in **GA-05**.  
+Tôi hiểu cảm giác vật lộn. Khác với những chính trị gia nhận tiền từ các tập đoàn và phớt lờ phần còn lại của chúng ta, tôi **sẽ không bao giờ** chấp nhận quyên góp từ các tập đoàn. Lòng trung thành của tôi thuộc về tầng lớp lao động—những người thuê nhà, các gia đình, và tất cả những ai sống từ tháng này sang tháng khác ở **GA-05**.  
 
-## **Choosing a Side**  
+## **Chọn Một Bên**  
 
-Democrats fall into two categories:  
+Các đảng viên Dân Chủ rơi vào hai loại:  
 
-- **Those who see change as essential**—because their survival depends on it.  
-- **Those who see it as a nice idea**—supporting it in theory but never feeling its urgency.  
+- **Những người coi sự thay đổi là cần thiết**—bởi vì sự sống còn của họ phụ thuộc vào điều đó.  
+- **Những người coi đó là một ý tưởng tốt**—hỗ trợ trong lý thuyết nhưng không bao giờ cảm nhận được sự cấp bách của nó.  
 
-For working people in **GA-05**, incrementalism isn’t an option. Justice and equity can’t be empty slogans. We need action, now.  
+Đối với người lao động ở **GA-05**, những bước đi nhỏ không phải là một lựa chọn. Công lý và công bằng không thể chỉ là những khẩu hiệu trống rỗng. Chúng ta cần hành động, ngay bây giờ.  
 
-## **A Political Multiplier for Change**  
+## **Một Động Lực Chính Trị Cho Sự Thay Đổi**  
 
-This campaign isn’t just about winning—it’s about building a movement. I will be a **political multiplier**, using technology and grassroots power to make politics more accessible and inclusive. Together, we can create a coalition to hold our leaders accountable and return the Democratic Party to its rightful place: **on the side of the people**.  
+Chiến dịch này không chỉ về việc chiến thắng—mà còn về việc xây dựng một phong trào. Tôi sẽ là một **động lực chính trị**, sử dụng công nghệ và sức mạnh từ cơ sở để làm cho chính trị trở nên dễ tiếp cận và bao trùm hơn. Cùng nhau, chúng ta có thể tạo ra một liên minh để giữ cho các lãnh đạo của chúng ta có trách nhiệm và đưa Đảng Dân Chủ trở lại vị trí xứng đáng của nó: **về phía người dân**.  
 
-## **Time for a Political Revolution**  
+## **Đã Đến Lúc Cách Mạng Chính Trị**  
 
-The corporate takeover of the Democratic Party has made it disconnected and out of touch. **It’s time to clean house.** We need representatives who are unapologetically loyal to their communities, not corporate donors.  
+Sự chiếm đoạt của các tập đoàn đối với Đảng Dân Chủ đã khiến nó trở nên xa cách và không còn phù hợp. **Đã đến lúc dọn dẹp nhà cửa.** Chúng ta cần những đại diện không ngần ngại trung thành với cộng đồng của họ, chứ không phải với các nhà tài trợ doanh nghiệp.  
 
-I’m running in **GA-05** because this fight isn’t about me—it’s about all of us who’ve been ignored for too long. **I will not hold back. I will not be bought.** Join me, and let’s reclaim our party—and our future—together.
+Tôi đang chạy ở **GA-05** vì cuộc chiến này không phải về tôi—mà là về tất cả chúng ta, những người đã bị bỏ quên quá lâu. **Tôi sẽ không giữ lại. Tôi sẽ không bị mua chuộc.** Hãy tham gia cùng tôi, và chúng ta hãy cùng nhau giành lại đảng của mình—và tương lai của chúng ta.

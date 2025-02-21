@@ -1,108 +1,108 @@
 ---
-title: "Reproductive Rights"
-description: "Defending every woman's right to make her own healthcare decisions."
+title: "Quyền sinh sản"
+description: "Bảo vệ quyền của mỗi phụ nữ trong việc đưa ra quyết định về chăm sóc sức khỏe của bản thân."
 date: 2025-01-22 00:00:00 +0000
-label: "Policy"
+label: "Chính sách"
 image: "/images/reproductive-rights-header.webp"
 ---
 
-# **Reproductive Rights: Protecting Freedom, Ensuring Access**  
+# **Quyền Sinh Sản: Bảo Vệ Tự Do, Đảm Bảo Tiếp Cận**  
 
-## **The Fight for Reproductive Freedom**  
+## **Cuộc Chiến Vì Tự Do Sinh Sản**  
 
-Reproductive rights are under attack across the country, and **Georgia’s 5th Congressional District** is no exception. **Georgia has one of the highest maternal mortality rates** in the nation, and restrictive laws disproportionately harm **Black women, low-income families, and rural communities**.  
+Quyền sinh sản đang bị tấn công trên toàn quốc, và **Quận 5 của Georgia** cũng không phải là ngoại lệ. **Georgia có một trong những tỷ lệ tử vong mẹ cao nhất** trong cả nước, và các luật hạn chế gây tổn hại không tương xứng đến **phụ nữ da đen, các gia đình có thu nhập thấp, và các cộng đồng nông thôn**.  
 
-We must take bold action to **codify abortion rights, expand reproductive healthcare, and guarantee free birthing services**. No one should be forced to **travel out of state, struggle financially, or suffer from medical neglect** just to get the care they need.  
+Chúng ta phải hành động mạnh mẽ để **luật hóa quyền phá thai, mở rộng dịch vụ chăm sóc sức khỏe sinh sản, và đảm bảo dịch vụ sinh miễn phí**. Không ai nên bị buộc phải **đi ra ngoài tiểu bang, gặp khó khăn về tài chính, hoặc chịu đựng sự bỏ bê y tế** chỉ để nhận được sự chăm sóc mà họ cần.  
 
-**Reproductive justice is non-negotiable.** We won’t back down.  
-
----
-
-## **Why This Matters in Georgia’s 5th District**  
-
-### 📉 **Georgia’s Maternal Mortality Crisis**  
-- **Georgia has the 2nd highest maternal mortality rate** in the nation—**33.9 deaths per 100,000 births**.  
-- Black women face **higher risks of complications** due to systemic healthcare disparities.  
-- Hospital closures and lack of funding in **Atlanta’s underserved neighborhoods** make access even worse.  
-
-**Reproductive rights are about survival. Georgia’s 5th District deserves better.**  
+**Công lý sinh sản là điều không thể thương lượng.** Chúng ta sẽ không lùi bước.  
 
 ---
 
-## **A Bold Agenda for Reproductive Justice**  
+## **Tại Sao Điều Này Quan Trọng Ở Quận 5 Của Georgia**  
 
-### 🛡️ **1. Codify the Right to Choose**  
-- **Enshrine abortion access into federal law** to prevent restrictive state policies.  
-- **End unnecessary barriers** like waiting periods and burdensome clinic regulations.  
+### 📉 **Khủng Hoảng Tử Vong Mẹ Ở Georgia**  
+- **Georgia có tỷ lệ tử vong mẹ cao thứ 2** trong cả nước—**33,9 ca tử vong trên 100.000 ca sinh**.  
+- Phụ nữ da đen phải đối mặt với **rủi ro cao hơn về biến chứng** do sự chênh lệch trong hệ thống chăm sóc sức khỏe.  
+- Việc đóng cửa bệnh viện và thiếu kinh phí ở **các khu vực thiếu thốn của Atlanta** làm cho việc tiếp cận càng trở nên tồi tệ hơn.  
 
-### 🌐 **2. Expand Access to Reproductive Healthcare**  
-- **Guarantee free contraception** and family planning services for all.  
-- **Fund local reproductive health centers** to ensure access in underserved areas.  
-
-### ✊ **3. Address Racial and Economic Health Disparities**  
-- **Invest in maternal health programs** tailored for **Black women and low-income communities**.  
-- **Train local healthcare providers** to deliver culturally competent, high-quality reproductive care.  
-
-### 🏥 **4. Make Birthing and Maternal Care Free**  
-- **Ensure all prenatal, birthing, and postnatal services** are free for families.  
-- **Integrate comprehensive reproductive care into Medicare for All** to remove financial barriers.  
-
-### 📚 **5. Educate and Empower**  
-- **Implement evidence-based sex education** in public schools.  
-- **Raise awareness** about reproductive rights and available healthcare resources.  
+**Quyền sinh sản là về sự sống còn. Quận 5 của Georgia xứng đáng được tốt hơn.**  
 
 ---
 
-## **How We Deliver Reproductive Justice**  
+## **Một Chương Trình Mạnh Mẽ Cho Công Lý Sinh Sản**  
 
-✅ **1. Codify Abortion Rights in Federal Law**  
-- Protect women from restrictive state laws by ensuring federal protections.  
-- Repeal the **Hyde Amendment** so Medicaid covers abortion services.  
+### 🛡️ **1. Luật Hóa Quyền Lựa Chọn**  
+- **Ghi nhận quyền tiếp cận phá thai vào luật liên bang** để ngăn chặn các chính sách hạn chế của tiểu bang.  
+- **Chấm dứt các rào cản không cần thiết** như thời gian chờ đợi và quy định nặng nề đối với các phòng khám.  
 
-✅ **2. Fund and Expand Healthcare Access**  
-- Increase federal support for **reproductive health clinics in underserved areas**.  
-- Guarantee **free contraception and family planning services** for all.  
+### 🌐 **2. Mở Rộng Tiếp Cận Dịch Vụ Chăm Sóc Sức Khỏe Sinh Sản**  
+- **Đảm bảo cung cấp miễn phí biện pháp tránh thai** và dịch vụ kế hoạch hóa gia đình cho tất cả mọi người.  
+- **Tài trợ cho các trung tâm sức khỏe sinh sản địa phương** để đảm bảo tiếp cận ở các khu vực thiếu thốn.  
 
-✅ **3. Close the Healthcare Equity Gap**  
-- Direct funding to hospitals and clinics **serving Black and low-income communities**.  
-- Expand maternal health programs and ensure **culturally competent medical training** for providers.  
+### ✊ **3. Giải Quyết Các Chênh Lệch Về Sức Khỏe Chủng Tộc và Kinh Tế**  
+- **Đầu tư vào các chương trình sức khỏe mẹ** được thiết kế cho **phụ nữ da đen và các cộng đồng có thu nhập thấp**.  
+- **Đào tạo các nhà cung cấp dịch vụ y tế địa phương** để cung cấp dịch vụ chăm sóc sinh sản chất lượng cao và phù hợp với văn hóa.  
 
-✅ **4. Guarantee Free Birthing and Hospital Care**  
-- **Ensure every mother has access to free prenatal, birthing, and postnatal care.**  
-- Include full reproductive care in **Medicare for All**.  
+### 🏥 **4. Đảm Bảo Dịch Vụ Sinh và Chăm Sóc Mẹ Miễn Phí**  
+- **Đảm bảo tất cả các dịch vụ chăm sóc trước sinh, sinh nở và sau sinh** đều miễn phí cho các gia đình.  
+- **Tích hợp chăm sóc sinh sản toàn diện vào Medicare cho Tất cả** để loại bỏ rào cản tài chính.  
 
-✅ **5. Fight Disinformation and Stigma**  
-- Implement **evidence-based sex education in public schools**.  
-- Challenge misinformation campaigns targeting **reproductive health clinics**.  
-
----
-
-## **What This Means for Georgia’s 5th District**  
-
-### ⚖️ **Legal Protections for Women’s Rights**  
-- No state should have the power to **control a woman’s body**—federal protections will ensure access in Georgia.  
-
-### 🏥 **Guaranteed Access to Reproductive Healthcare**  
-- Women in **Atlanta and surrounding communities** will have full reproductive healthcare access—**without cost or restriction**.  
-
-### ✊ **Health Equity for All Residents**  
-- Culturally competent healthcare, targeted investments, and hospital funding will close racial and economic disparities.  
-
-### 💰 **Free Birthing Services for Families**  
-- No parent should **go into debt** for bringing a child into the world.  
+### 📚 **5. Giáo Dục và Trao Quyền**  
+- **Thực hiện giáo dục giới tính dựa trên bằng chứng** trong các trường công lập.  
+- **Nâng cao nhận thức** về quyền sinh sản và các nguồn lực chăm sóc sức khỏe có sẵn.  
 
 ---
 
-## **A Future Where Reproductive Rights Are Secure**  
+## **Cách Chúng Ta Đem Lại Công Lý Sinh Sản**  
 
-This fight is about more than just abortion—it’s about **health, dignity, and freedom**. Women deserve the right to control their own healthcare decisions, access affordable care, and give birth without financial strain.  
+✅ **1. Luật Hóa Quyền Phá Thai Trong Luật Liên Bang**  
+- Bảo vệ phụ nữ khỏi các luật hạn chế của tiểu bang bằng cách đảm bảo các biện pháp bảo vệ liên bang.  
+- Bãi bỏ **Đạo luật Hyde** để Medicaid chi trả cho dịch vụ phá thai.  
 
-We **must protect reproductive freedom, expand healthcare access, and ensure that no woman is denied the care she needs**.  
+✅ **2. Tài Trợ và Mở Rộng Tiếp Cận Chăm Sóc Sức Khỏe**  
+- Tăng cường hỗ trợ liên bang cho **các phòng khám sức khỏe sinh sản ở các khu vực thiếu thốn**.  
+- Đảm bảo **cung cấp miễn phí biện pháp tránh thai và dịch vụ kế hoạch hóa gia đình** cho tất cả.  
 
-Together, we will build a future where **healthcare is a right, not a privilege**—no matter where you live.  
+✅ **3. Khắc Phục Khoảng Cách Bình Đẳng Trong Chăm Sóc Sức Khỏe**  
+- Chuyển hướng tài trợ đến các bệnh viện và phòng khám **phục vụ cho cộng đồng da đen và có thu nhập thấp**.  
+- Mở rộng các chương trình sức khỏe mẹ và đảm bảo **đào tạo y tế phù hợp với văn hóa** cho các nhà cung cấp.  
+
+✅ **4. Đảm Bảo Dịch Vụ Sinh và Chăm Sóc Bệnh Viện Miễn Phí**  
+- **Đảm bảo mọi bà mẹ đều có quyền tiếp cận dịch vụ chăm sóc trước sinh, sinh nở và sau sinh miễn phí.**  
+- Bao gồm chăm sóc sinh sản toàn diện trong **Medicare cho Tất cả**.  
+
+✅ **5. Đấu Tranh Chống Thông Tin Sai Lệch và Kỳ Thị**  
+- Thực hiện **giáo dục giới tính dựa trên bằng chứng trong các trường công lập**.  
+- Thách thức các chiến dịch thông tin sai lệch nhằm vào **các phòng khám sức khỏe sinh sản**.  
 
 ---
 
-### **Join the Fight for Reproductive Freedom**  
+## **Điều Này Có Ý Nghĩa Gì Đối Với Quận 5 Của Georgia**  
 
-**Defend choice. Protect healthcare. Demand justice.**  
+### ⚖️ **Bảo Vệ Pháp Lý Cho Quyền Của Phụ Nữ**  
+- Không tiểu bang nào có quyền **kiểm soát cơ thể của phụ nữ**—các biện pháp bảo vệ liên bang sẽ đảm bảo quyền tiếp cận ở Georgia.  
+
+### 🏥 **Đảm Bảo Quyền Tiếp Cận Dịch Vụ Chăm Sóc Sức Khỏe Sinh Sản**  
+- Phụ nữ ở **Atlanta và các cộng đồng xung quanh** sẽ có quyền tiếp cận dịch vụ chăm sóc sức khỏe sinh sản đầy đủ—**không mất phí hay hạn chế**.  
+
+### ✊ **Bình Đẳng Về Sức Khỏe Cho Tất Cả Cư Dân**  
+- Chăm sóc sức khỏe phù hợp với văn hóa, đầu tư có mục tiêu, và tài trợ cho bệnh viện sẽ khắc phục các chênh lệch về chủng tộc và kinh tế.  
+
+### 💰 **Dịch Vụ Sinh Miễn Phí Cho Các Gia Đình**  
+- Không bậc phụ huynh nào nên **vướng vào nợ nần** chỉ vì đưa một đứa trẻ vào thế giới.  
+
+---
+
+## **Một Tương Lai Nơi Quyền Sinh Sản Được Bảo Vệ**  
+
+Cuộc chiến này không chỉ là về phá thai—nó còn về **sức khỏe, phẩm giá, và tự do**. Phụ nữ xứng đáng có quyền kiểm soát quyết định chăm sóc sức khỏe của mình, tiếp cận dịch vụ chăm sóc hợp lý, và sinh con mà không phải gánh nặng tài chính.  
+
+Chúng ta **phải bảo vệ tự do sinh sản, mở rộng quyền tiếp cận chăm sóc sức khỏe, và đảm bảo rằng không phụ nữ nào bị từ chối sự chăm sóc mà họ cần**.  
+
+Cùng nhau, chúng ta sẽ xây dựng một tương lai nơi **chăm sóc sức khỏe là quyền lợi, không phải đặc quyền**—dù bạn sống ở đâu.  
+
+---
+
+### **Tham Gia Cuộc Chiến Vì Tự Do Sinh Sản**  
+
+**Bảo vệ quyền lựa chọn. Bảo vệ chăm sóc sức khỏe. Đòi công lý.**

@@ -1,101 +1,101 @@
 ---
-title: "Housing"
-description: "Affordable, sustainable homes and creating good-paying jobs without displacement or environmental harm."
+title: "Nhà ở"
+description: "Nhà ở bền vững, giá cả phải chăng và tạo ra việc làm với mức lương tốt mà không gây di dời hay tổn hại môi trường."
 date: 2025-02-19 00:00:00 +0000
-label: "Policy"
+label: "Chính sách"
 image: "/images/housing-policy-header.webp"
 ---
 
-# **🏠 Build Baby Build: Housing for Georgia’s 5th District**  
+# **🏠 Xây Dựng, Xây Dựng: Nhà ở cho Khu Vực 5 của Georgia**  
 
-## **Housing Is a Right—Not a Commodity**  
+## **Nhà ở là quyền—không phải hàng hóa**  
 
-Housing costs in **Georgia’s 5th Congressional District** are rising, families are being priced out of their own neighborhoods, and development too often prioritizes profit over people. Our **Workers’ Housing Guarantee**, guided by the motto **Build Baby Build**, ensures that **affordable, sustainable housing** is a right—not a privilege.  
+Chi phí nhà ở tại **Khu Vực 5 của Quốc Hội Georgia** đang gia tăng, các gia đình bị đẩy ra khỏi khu phố của chính họ, và phát triển thường ưu tiên lợi nhuận hơn con người. **Bảo đảm Nhà ở cho Người Lao Động**, với phương châm **Xây Dựng, Xây Dựng**, đảm bảo rằng **nhà ở bền vững, giá cả phải chăng** là một quyền—không phải đặc quyền.  
 
-This plan **modernizes existing buildings, builds smartly**, and creates **good-paying jobs** in the process. By focusing on **homeownership, condos, and energy-efficient redevelopment**, we will expand housing opportunities **without displacing residents or harming the environment**.  
-
----
-
-## **The Housing Crisis in Georgia’s 5th District**  
-
-- **🏠 Homeownership is out of reach**—Rising costs and stagnant wages have made it nearly impossible for working families to buy a home.  
-- **📈 Rents are skyrocketing**—Longtime residents are being pushed out by gentrification.  
-- **🔨 The housing supply is inadequate**—Developers prioritize luxury units, leaving affordable housing scarce.  
-- **💼 Housing construction should create jobs**—We need to train and employ **local workers**, not just bring in outside developers.  
-- **🌱 Sustainability matters**—New housing must be built responsibly to lower energy costs and protect our environment.  
-
-Georgia’s 5th District **has the land, the workforce, and the need.** Now, we need bold leadership to build smarter, fairer, and sustainably.  
+Kế hoạch này **hiện đại hóa các tòa nhà hiện có, xây dựng thông minh**, và tạo ra **việc làm với mức lương tốt** trong quá trình này. Bằng cách tập trung vào **sở hữu nhà, căn hộ chung cư và tái phát triển tiết kiệm năng lượng**, chúng tôi sẽ mở rộng cơ hội nhà ở **mà không làm di dời cư dân hay gây hại cho môi trường**.  
 
 ---
 
-## **The Workers’ Housing Guarantee: A Bold Solution**  
+## **Khủng hoảng Nhà ở tại Khu Vực 5 của Georgia**  
 
-### 🏗️ **1. Modernize and Expand Affordable Housing**  
-- **Revitalize underutilized buildings** into modern, energy-efficient homes.  
-- **Prioritize first-time homeownership** through affordable condos and starter homes.  
-- **Use green building materials** to reduce costs and lower utility bills.  
+- **🏠 Sở hữu nhà là điều không thể**—Chi phí gia tăng và mức lương không thay đổi đã khiến việc mua nhà trở nên gần như không thể đối với các gia đình lao động.  
+- **📈 Giá thuê tăng vọt**—Cư dân lâu năm bị đẩy ra bởi sự cải tạo đô thị.  
+- **🔨 Nguồn cung nhà ở không đủ**—Các nhà phát triển ưu tiên các căn hộ sang trọng, để lại nhà ở giá rẻ khan hiếm.  
+- **💼 Xây dựng nhà ở cần tạo ra việc làm**—Chúng tôi cần đào tạo và tuyển dụng **công nhân địa phương**, chứ không chỉ mang nhà phát triển từ bên ngoài vào.  
+- **🌱 Bền vững là quan trọng**—Nhà ở mới phải được xây dựng một cách có trách nhiệm để giảm chi phí năng lượng và bảo vệ môi trường của chúng ta.  
 
-### 💼 **2. Create Good-Paying Jobs Through Housing Works**  
-- **Hire and train local workers** to build and renovate homes.  
-- **Employment for the unhoused**—Provide job training in construction, sustainability, and property rehabilitation.  
-- **Support union labor** and fair wages for workers modernizing our housing stock.  
-
-### 🏠 **3. Build Pathways to Homeownership**  
-- **Offer down-payment assistance** for first-time buyers.  
-- **Allow workers to earn home credits** toward purchasing properties they helped build or renovate.  
-- **Protect longtime residents** by prioritizing affordable housing within their communities.  
-
-### 🌱 **4. Smart Growth Without Displacement**  
-- **Build in underutilized areas**—No need to bulldoze neighborhoods or green spaces.  
-- **Prioritize mixed-use developments**—Condos, townhomes, and small first-time homes instead of high-rise luxury apartments.  
-- **Ensure environmental sustainability**—Energy-efficient construction lowers costs for homeowners and renters.  
+Khu Vực 5 của Georgia **có đất đai, lực lượng lao động và nhu cầu.** Bây giờ, chúng ta cần một lãnh đạo mạnh mẽ để xây dựng một cách thông minh, công bằng và bền vững.  
 
 ---
 
-## **How We Make It Happen**  
+## **Bảo Đảm Nhà Ở cho Người Lao Động: Một Giải Pháp Mạnh Mẽ**  
 
-✅ **1. Renovate and Build Smart**  
-- Identify **vacant and underused buildings** for modernization.  
-- Develop **mixed-income housing** that keeps communities diverse and thriving.  
+### 🏗️ **1. Hiện đại hóa và Mở rộng Nhà ở Giá cả Phải chăng**  
+- **Khôi phục các tòa nhà chưa được sử dụng** thành những ngôi nhà hiện đại, tiết kiệm năng lượng.  
+- **Ưu tiên sở hữu nhà lần đầu** thông qua các căn hộ giá cả phải chăng và nhà khởi đầu.  
+- **Sử dụng vật liệu xây dựng xanh** để giảm chi phí và hạ thấp hóa đơn tiện ích.  
 
-✅ **2. Implement the Housing Works Program**  
-- Train and hire **local workers**, including those in need of housing, to build homes.  
-- **Provide skills training** in sustainable construction and energy efficiency.  
+### 💼 **2. Tạo việc làm với mức lương tốt thông qua Nhà ở**  
+- **Thuê và đào tạo công nhân địa phương** để xây dựng và cải tạo nhà.  
+- **Việc làm cho những người vô gia cư**—Cung cấp đào tạo nghề trong xây dựng, bền vững và phục hồi tài sản.  
+- **Hỗ trợ lao động công đoàn** và mức lương công bằng cho công nhân hiện đại hóa kho nhà ở của chúng ta.  
 
-✅ **3. Make Homeownership Possible**  
-- Down-payment assistance and financing for first-time homebuyers.  
-- Offer **work-to-own programs** that reward workers with homeownership opportunities.  
+### 🏠 **3. Xây dựng Con đường đến Sở hữu Nhà**  
+- **Cung cấp hỗ trợ tiền đặt cọc** cho người mua nhà lần đầu.  
+- **Cho phép công nhân kiếm tín chỉ nhà** để mua các tài sản mà họ đã giúp xây dựng hoặc cải tạo.  
+- **Bảo vệ cư dân lâu năm** bằng cách ưu tiên nhà ở giá cả phải chăng trong cộng đồng của họ.  
 
-✅ **4. Preserve Neighborhoods, Protect the Environment**  
-- Use **infill development** to prevent urban sprawl and environmental harm.  
-- Ensure **community-led development** that respects local history and culture.  
-
----
-
-## **Why This Matters for Georgia’s 5th District**  
-
-### 🏠 **Affordable Homes Without Displacement**  
-- Keeps **longtime residents in their communities** instead of pushing them out.  
-- Creates **housing people can actually afford**—not just luxury units for developers.  
-
-### 💼 **Jobs for the Community, Built by the Community**  
-- Thousands of **good-paying jobs** in construction, renovation, and sustainable energy.  
-- Training programs create **long-term employment and wealth-building opportunities**.  
-
-### 🌱 **Sustainable, Future-Focused Housing**  
-- **Energy-efficient homes** lower costs for families.  
-- **Green building practices** protect the environment and reduce emissions.  
+### 🌱 **4. Tăng trưởng Thông minh mà Không Di dời**  
+- **Xây dựng ở những khu vực chưa được sử dụng**—Không cần phải phá hủy các khu phố hoặc không gian xanh.  
+- **Ưu tiên phát triển đa chức năng**—Căn hộ, nhà phố và những ngôi nhà nhỏ cho người mua nhà lần đầu thay vì các căn hộ sang trọng cao tầng.  
+- **Đảm bảo tính bền vững môi trường**—Xây dựng tiết kiệm năng lượng giúp giảm chi phí cho chủ nhà và người thuê.  
 
 ---
 
-## **A New Vision for Housing in Georgia’s 5th District**  
+## **Cách Chúng Ta Thực Hiện Điều Này**  
 
-We **don’t** have to accept skyrocketing rents, corporate-driven development, and the displacement of working families. The **Workers’ Housing Guarantee** under **Build Baby Build** will **expand affordable housing, create good jobs, and build a sustainable future for everyone**.  
+✅ **1. Cải tạo và Xây dựng Thông minh**  
+- Xác định **các tòa nhà bỏ trống và chưa được sử dụng** để hiện đại hóa.  
+- Phát triển **nhà ở đa thu nhập** để giữ cho cộng đồng đa dạng và phát triển.  
 
-By investing in **modernization, smart growth, and homeownership**, we will make **Georgia’s 5th District a leader in housing justice and economic opportunity**.  
+✅ **2. Thực hiện Chương trình Nhà ở**  
+- Đào tạo và tuyển dụng **công nhân địa phương**, bao gồm cả những người cần nhà ở, để xây dựng nhà.  
+- **Cung cấp đào tạo kỹ năng** trong xây dựng bền vững và tiết kiệm năng lượng.  
+
+✅ **3. Biến Sở hữu Nhà thành Hiện thực**  
+- Hỗ trợ tiền đặt cọc và tài chính cho người mua nhà lần đầu.  
+- Cung cấp **chương trình làm việc để sở hữu** mà thưởng cho công nhân với cơ hội sở hữu nhà.  
+
+✅ **4. Bảo tồn Các Khu phố, Bảo vệ Môi trường**  
+- Sử dụng **phát triển lấp đầy** để ngăn chặn sự mở rộng đô thị và tổn hại môi trường.  
+- Đảm bảo **phát triển do cộng đồng dẫn dắt** tôn trọng lịch sử và văn hóa địa phương.  
 
 ---
 
-## **Join Us: Build Baby Build for a Stronger, Fairer Future**  
+## **Tại Sao Điều Này Quan Trọng Đối Với Khu Vực 5 của Georgia**  
 
-Housing is the foundation of opportunity. Let’s make sure **everyone** in Georgia’s 5th District has access to a home they can afford and a community they can thrive in.  
+### 🏠 **Nhà ở Giá cả Phải chăng Mà Không Di dời**  
+- Giữ **cư dân lâu năm trong cộng đồng của họ** thay vì đẩy họ ra ngoài.  
+- Tạo ra **nhà ở mà mọi người thực sự có thể chi trả**—không chỉ là các đơn vị sang trọng cho các nhà phát triển.  
+
+### 💼 **Việc làm cho Cộng đồng, Được Xây dựng bởi Cộng đồng**  
+- Hàng ngàn **việc làm với mức lương tốt** trong xây dựng, cải tạo và năng lượng bền vững.  
+- Các chương trình đào tạo tạo ra **cơ hội việc làm lâu dài và xây dựng tài sản**.  
+
+### 🌱 **Nhà ở Bền vững, Tập trung vào Tương lai**  
+- **Nhà tiết kiệm năng lượng** giúp giảm chi phí cho các gia đình.  
+- **Thực hành xây dựng xanh** bảo vệ môi trường và giảm khí thải.  
+
+---
+
+## **Một Tầm Nhìn Mới cho Nhà ở tại Khu Vực 5 của Georgia**  
+
+Chúng ta **không** phải chấp nhận giá thuê tăng vọt, phát triển do doanh nghiệp điều khiển, và sự di dời của các gia đình lao động. **Bảo Đảm Nhà ở cho Người Lao Động** dưới **Xây Dựng, Xây Dựng** sẽ **mở rộng nhà ở giá cả phải chăng, tạo ra việc làm tốt, và xây dựng một tương lai bền vững cho tất cả mọi người**.  
+
+Bằng cách đầu tư vào **hiện đại hóa, tăng trưởng thông minh, và sở hữu nhà**, chúng ta sẽ biến **Khu Vực 5 của Georgia thành một nhà lãnh đạo trong công lý nhà ở và cơ hội kinh tế**.  
+
+---
+
+## **Tham Gia Cùng Chúng Tôi: Xây Dựng, Xây Dựng cho Một Tương Lai Mạnh Mẽ và Công Bằng Hơn**  
+
+Nhà ở là nền tảng của cơ hội. Hãy đảm bảo rằng **mọi người** ở Khu Vực 5 của Georgia đều có quyền truy cập vào một ngôi nhà mà họ có thể chi trả và một cộng đồng mà họ có thể phát triển.
